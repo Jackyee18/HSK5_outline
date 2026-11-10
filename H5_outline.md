@@ -2282,7 +2282,7 @@
 | 3 | **动员** | `dòngyuán` | *Verb* | mobilize, arouse | động viên, cổ vũ |
 | 4 | **自愿** | `zìyuàn` | *Adjective* | volunteer (to do sth.) | tự nguyện |
 | 5 | **收集** | `shōují` | *Verb* | collect | thu thập, thu gom |
-| 6 | **贈送** | `zèngsòng` | *Verb* | give away | biếu, tặng |
+| 6 | **赠送** | `zèngsòng` | *Verb* | give away | biếu, tặng |
 
 ---
 

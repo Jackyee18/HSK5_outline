@@ -246,16 +246,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，快来看看我们订的这个房间，外面的客厅真大，阳光也特别好。",
-        "pinyin": "Dàwèi ， kuài lái kàn kàn wǒmen dìng de zhè gè fángjiān ， wàimiàn de kètīng zhēn dà ， yángguāng yě tèbié hǎo 。",
+        "content": "快来看看我们订的这个房间，外面的客厅真大，阳光也特别好。",
+        "pinyin": "Kuài lái kàn kàn wǒmen dìng de zhè gè fángjiān ， wàimiàn de kètīng zhēn dà ， yángguāng yě tèbié hǎo 。",
         "audio_key": "H5_1_2_1",
         "translations": {
-          "en": "David, come quickly and look at the room we booked. The living room outside is really big, and the sunlight is great too.",
-          "vi": "David, mau đến xem phòng chúng ta đặt đi. Phòng khách bên ngoài thật rộng, ánh nắng cũng rất đẹp."
+          "en": "Come quickly and look at the room we booked. The living room outside is really big, and the sunlight is great too.",
+          "vi": "Mau đến xem phòng chúng ta đặt đi. Phòng khách bên ngoài thật rộng, ánh nắng cũng rất đẹp."
         },
         "tokens": [
-          "大卫",
-          "，",
           "快",
           "来",
           "看",
@@ -464,16 +462,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，我们昨天刚搬过来，今天去拜访一下隔壁的邻居吧。",
-        "pinyin": "Lǐwěi ， wǒmen zuótiān gāng bān guòlái ， jīntiān qù bàifǎng yīxià gébì de línjū ba 。",
+        "content": "我们昨天刚搬过来，今天去拜访一下隔壁的邻居吧。",
+        "pinyin": "Wǒmen zuótiān gāng bān guòlái ， jīntiān qù bàifǎng yīxià gébì de línjū ba 。",
         "audio_key": "H5_1_3_1",
         "translations": {
-          "en": "Li Wei, we just moved here yesterday. Let's go visit the neighbor next door today.",
-          "vi": "Lý Vĩ, chúng ta vừa chuyển đến đây hôm qua, hôm nay đi thăm nhà hàng xóm bên cạnh nhé."
+          "en": "We just moved here yesterday. Let's go visit the neighbor next door today.",
+          "vi": "Chúng ta vừa chuyển đến đây hôm qua, hôm nay đi thăm nhà hàng xóm bên cạnh nhé."
         },
         "tokens": [
-          "李伟",
-          "，",
           "我们",
           "昨天",
           "刚",
@@ -904,16 +900,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "小明，你看你的书桌上堆了这么多杂志和练习本，快点儿收拾一下吧。",
-        "pinyin": "Xiǎomíng ， nǐ kàn nǐ de shūzhuō shàng duī le zhème duō zázhì hé liànxí běn ， kuài diǎnér shōushí yīxià ba 。",
+        "content": "你看你的书桌上堆了这么多杂志和练习本，快点儿收拾一下吧。",
+        "pinyin": "Nǐ kàn nǐ de shūzhuō shàng duī le zhème duō zázhì hé liànxí běn ， kuài diǎnér shōushí yīxià ba 。",
         "audio_key": "H5_2_1_1",
         "translations": {
-          "en": "Xiaoming, look at all these magazines and exercise books piled up on your desk. Hurry up and tidy them away.",
-          "vi": "Tiểu Minh, em xem trên bàn học của em chất đầy tạp chí và vở bài tập thế này, mau dọn dẹp đi."
+          "en": "Look at all these magazines and exercise books piled up on your desk. Hurry up and tidy them away.",
+          "vi": "Em xem trên bàn học của em chất đầy tạp chí và vở bài tập thế này, mau dọn dẹp đi."
         },
         "tokens": [
-          "小明",
-          "，",
           "你",
           "看",
           "你",
@@ -1129,16 +1123,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "小王，桌子上那个漂亮的盒子是谁送来的？上面还贴着厚厚的胶带呢。",
-        "pinyin": "Xiǎowáng ， zhuōzi shàng nà gè piàoliàng de hézi shì shuí sòng lái de ？ shàngmiàn hái tiē zhe hòu hòu de jiāodài ne 。",
+        "content": "桌子上那个漂亮的盒子是谁送来的？上面还贴着厚厚的胶带呢。",
+        "pinyin": "Zhuōzi shàng nà gè piàoliàng de hézi shì shuí sòng lái de ？ shàngmiàn hái tiē zhe hòu hòu de jiāodài ne 。",
         "audio_key": "H5_2_2_1",
         "translations": {
-          "en": "Xiao Wang, who sent this pretty box on the desk? It even has thick tape stuck on it.",
-          "vi": "Tiểu Vương, cái hộp xinh xắn trên bàn này là ai gửi đến thế? Trên đó còn dán băng dính dày nữa."
+          "en": "Who sent this pretty box on the desk? It even has thick tape stuck on it.",
+          "vi": "Cái hộp xinh xắn trên bàn này là ai gửi đến thế? Trên đó còn dán băng dính dày nữa."
         },
         "tokens": [
-          "小王",
-          "，",
           "桌子",
           "上",
           "那",
@@ -1368,16 +1360,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，洗手间地上怎么全是水？是不是那个大盆下面的管子又漏了？",
-        "pinyin": "Lǐwěi ， xǐshǒujiān dìshàng zěnme quán shì shuǐ ？ shìbúshì nà gè dà pén xiàmiàn de guǎn zi yòu lòu le ？",
+        "content": "洗手间地上怎么全是水？是不是那个大盆下面的管子又漏了？",
+        "pinyin": "Xǐshǒujiān dìshàng zěnme quán shì shuǐ ？ shìbúshì nà gè dà pén xiàmiàn de guǎn zi yòu lòu le ？",
         "audio_key": "H5_2_3_1",
         "translations": {
-          "en": "Li Wei, why is the bathroom floor all covered in water? Is the pipe under that big basin leaking again?",
-          "vi": "Lý Vĩ, sao sàn nhà vệ sinh toàn là nước thế? Có phải cái ống dưới chậu lớn lại bị rò rỉ rồi không?"
+          "en": "Why is the bathroom floor all covered in water? Is the pipe under that big basin leaking again?",
+          "vi": "Sao sàn nhà vệ sinh toàn là nước thế? Có phải cái ống dưới chậu lớn lại bị rò rỉ rồi không?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "洗手间",
           "地上",
           "怎么",
@@ -1852,16 +1842,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，我已经把米洗好放进电饭锅里了，今天晚上你想吃什么菜？",
-        "pinyin": "Lǐwěi ， wǒ yǐjīng bǎ mǐ xǐ hǎo fàng jìn diànfànguō lǐ le ， jīntiān wǎnshàng nǐ xiǎng chī shénme cài ？",
+        "content": "我已经把米洗好放进电饭锅里了，今天晚上你想吃什么菜？",
+        "pinyin": "Wǒ yǐjīng bǎ mǐ xǐ hǎo fàng jìn diànfànguō lǐ le ， jīntiān wǎnshàng nǐ xiǎng chī shénme cài ？",
         "audio_key": "H5_3_1_1",
         "translations": {
-          "en": "Li Wei, I've already washed the rice and put it in the rice cooker. What dishes do you want to eat tonight?",
-          "vi": "Lý Vĩ, em đã vo gạo và cho vào nồi cơm điện rồi. Tối nay anh muốn ăn món gì?"
+          "en": "I've already washed the rice and put it in the rice cooker. What dishes do you want to eat tonight?",
+          "vi": "Em đã vo gạo và cho vào nồi cơm điện rồi. Tối nay anh muốn ăn món gì?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "我",
           "已经",
           "把",
@@ -2092,16 +2080,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，你快来尝一下这道特色豆制品，里面加了用米酒做成的香糟，味道特别好。",
-        "pinyin": "Dàwèi ， nǐ kuài lái cháng yīxià zhè dào tèsè dòuzhìpǐn ， lǐmiàn jiā le yòng mǐ jiǔ zuò chéng de xiāng zāo ， wèidào tèbié hǎo 。",
+        "content": "你快来尝一下这道特色豆制品，里面加了用米酒做成的香糟，味道特别好。",
+        "pinyin": "Nǐ kuài lái cháng yīxià zhè dào tèsè dòuzhìpǐn ， lǐmiàn jiā le yòng mǐ jiǔ zuò chéng de xiāng zāo ， wèidào tèbié hǎo 。",
         "audio_key": "H5_3_2_1",
         "translations": {
-          "en": "David, come and try this special soy product. It has fermented rice wine added to it, and the taste is excellent.",
-          "vi": "David, anh mau nếm thử món đậu phụ đặc biệt này đi, bên trong có thêm rượu gạo ủ, vị rất ngon."
+          "en": "Come and try this special soy product. It has fermented rice wine added to it, and the taste is excellent.",
+          "vi": "Anh mau nếm thử món đậu phụ đặc biệt này đi, bên trong có thêm rượu gạo ủ, vị rất ngon."
         },
         "tokens": [
-          "大卫",
-          "，",
           "你",
           "快",
           "来",
@@ -2338,16 +2324,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "小王，我们已经连续工作三个小时了，来客厅休息一会儿，喝杯热饮料吧。",
-        "pinyin": "Xiǎowáng ， wǒmen yǐjīng liánxù gōngzuò sān gè xiǎoshí le ， lái kètīng xiūxī yīhuìer ， hē bēi rè yǐnliào ba 。",
+        "content": "我们已经连续工作三个小时了，来客厅休息一会儿，喝杯热饮料吧。",
+        "pinyin": "Wǒmen yǐjīng liánxù gōngzuò sān gè xiǎoshí le ， lái kètīng xiūxī yīhuìer ， hē bēi rè yǐnliào ba 。",
         "audio_key": "H5_3_3_1",
         "translations": {
-          "en": "Xiao Wang, we've been working for three hours straight. Come to the living room and take a break, have a cup of hot drink.",
-          "vi": "Tiểu Vương, chúng ta đã làm việc liên tục ba tiếng rồi, ra phòng khách nghỉ ngơi một lát, uống ly nước nóng đi."
+          "en": "We've been working for three hours straight. Come to the living room and take a break, have a cup of hot drink.",
+          "vi": "Chúng ta đã làm việc liên tục ba tiếng rồi, ra phòng khách nghỉ ngơi một lát, uống ly nước nóng đi."
         },
         "tokens": [
-          "小王",
-          "，",
           "我们",
           "已经",
           "连续",
@@ -2812,16 +2796,14 @@
       {
         "line_id": 1,
         "speaker": "大卫",
-        "content": "丽丽，听说社区隔壁新开了一家北京餐厅，今天晚上我们去尝尝那里的烤鸭吧。",
-        "pinyin": "Lìlì ， tīngshuō shèqū gébì xīn kāi le yì jiā běijīng cāntīng ， jīntiān wǎnshàng wǒmen qù cháng cháng nàlǐ de kǎoyā ba 。",
+        "content": "听说社区隔壁新开了一家北京餐厅，今天晚上我们去尝尝那里的烤鸭吧。",
+        "pinyin": "Tīngshuō shèqū gébì xīn kāi le yì jiā běijīng cāntīng ， jīntiān wǎnshàng wǒmen qù cháng cháng nàlǐ de kǎoyā ba 。",
         "audio_key": "H5_4_1_1",
         "translations": {
-          "en": "Lili, I heard that a new Beijing restaurant has opened next to our community. Let's go try their roast duck tonight.",
-          "vi": "Lili này, nghe nói cạnh khu chung cư mình mới mở một nhà hàng Bắc Kinh, tối nay chúng ta đi thử món vịt quay ở đó nhé."
+          "en": "I heard that a new Beijing restaurant has opened next to our community. Let's go try their roast duck tonight.",
+          "vi": "Nghe nói cạnh khu chung cư mình mới mở một nhà hàng Bắc Kinh, tối nay chúng ta đi thử món vịt quay ở đó nhé."
         },
         "tokens": [
-          "丽丽",
-          "，",
           "听说",
           "社区",
           "隔壁",
@@ -3063,16 +3045,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "小王，今天是星期五，下了班我们去公司楼下那家小餐馆吃烤肉怎么样？",
-        "pinyin": "Xiǎowáng ， jīntiān shì xīngqī wǔ ， xià le bān wǒmen qù gōngsī lóuxià nà jiā xiǎo cānguǎn chī kǎoròu zěnmeyàng ？",
+        "content": "今天是星期五，下了班我们去公司楼下那家小餐馆吃烤肉怎么样？",
+        "pinyin": "Jīntiān shì xīngqī wǔ ， xià le bān wǒmen qù gōngsī lóuxià nà jiā xiǎo cānguǎn chī kǎoròu zěnmeyàng ？",
         "audio_key": "H5_4_2_1",
         "translations": {
-          "en": "Xiao Wang, today is Friday. How about we go to that small restaurant downstairs from the office after work and have some barbecue?",
-          "vi": "Tiểu Vương này, hôm nay là thứ Sáu, tan làm chúng ta đi ăn thịt nướng ở quán ăn nhỏ dưới tòa nhà công ty nhé?"
+          "en": "Today is Friday. How about we go to that small restaurant downstairs from the office after work and have some barbecue?",
+          "vi": "Hôm nay là thứ Sáu, tan làm chúng ta đi ăn thịt nướng ở quán ăn nhỏ dưới tòa nhà công ty nhé?"
         },
         "tokens": [
-          "小王",
-          "，",
           "今天",
           "是",
           "星期",
@@ -3313,16 +3293,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，今天晚上朋友聚会，桌子上既有甜葡萄和红葡萄酒，也有度数很高的白酒。",
-        "pinyin": "Lǐwěi ， jīntiān wǎnshàng péngyǒu jùhuì ， zhuōzi shàng jì yǒu tián pútáo hé hóng pútáojiǔ ， yě yǒu dù shù hěn gāo de báijiǔ 。",
+        "content": "今天晚上朋友聚会，桌子上既有甜葡萄和红葡萄酒，也有度数很高的白酒。",
+        "pinyin": "Jīntiān wǎnshàng péngyǒu jùhuì ， zhuōzi shàng jì yǒu tián pútáo hé hóng pútáojiǔ ， yě yǒu dù shù hěn gāo de báijiǔ 。",
         "audio_key": "H5_4_3_1",
         "translations": {
-          "en": "Li Wei, tonight's friends' gathering has both sweet grapes and red wine on the table, as well as strong liquor with high alcohol content.",
-          "vi": "Lý Vĩ này, tối nay bạn bè tụ tập, trên bàn vừa có nho ngọt và rượu vang đỏ, lại vừa có rượu trắng nồng độ cao."
+          "en": "Tonight's friends' gathering has both sweet grapes and red wine on the table, as well as strong liquor with high alcohol content.",
+          "vi": "Tối nay bạn bè tụ tập, trên bàn vừa có nho ngọt và rượu vang đỏ, lại vừa có rượu trắng nồng độ cao."
         },
         "tokens": [
-          "李伟",
-          "，",
           "今天",
           "晚上",
           "朋友",
@@ -3811,16 +3789,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，明天就是中秋节了，我已经把买来的月饼、黄梨和甜桃都洗干净放在客厅了。",
-        "pinyin": "Lǐwěi ， míngtiān jiùshì zhōngqiūjié le ， wǒ yǐjīng bǎ mǎi lái de yuèbǐng 、 huáng lí hé tián táo dōu xǐ gānjìng fàng zài kètīng le 。",
+        "content": "明天就是中秋节了，我已经把买来的月饼、黄梨和甜桃都洗干净放在客厅了。",
+        "pinyin": "Míngtiān jiùshì zhōngqiūjié le ， wǒ yǐjīng bǎ mǎi lái de yuèbǐng 、 huáng lí hé tián táo dōu xǐ gānjìng fàng zài kètīng le 。",
         "audio_key": "H5_5_1_1",
         "translations": {
-          "en": "Li Wei, tomorrow is the Mid-Autumn Festival. I've already washed the mooncakes, yellow pears, and sweet peaches I bought and put them in the living room.",
-          "vi": "Lý Vĩ, ngày mai là Tết Trung thu rồi. Em đã rửa sạch bánh trung thu, lê vàng và đào ngọt mua về rồi để ở phòng khách."
+          "en": "Tomorrow is the Mid-Autumn Festival. I've already washed the mooncakes, yellow pears, and sweet peaches I bought and put them in the living room.",
+          "vi": "Ngày mai là Tết Trung thu rồi. Em đã rửa sạch bánh trung thu, lê vàng và đào ngọt mua về rồi để ở phòng khách."
         },
         "tokens": [
-          "李伟",
-          "，",
           "明天",
           "就是",
           "中秋节",
@@ -4077,16 +4053,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，桌子上怎么放着这么多漂亮的贺卡？你是在给朋友们写信吗？",
-        "pinyin": "Dàwèi ， zhuōzi shàng zěnme fàng zhe zhème duō piàoliàng de hèkǎ ？ nǐ shì zài gěi péngyǒu men xiě xìn ma ？",
+        "content": "桌子上怎么放着这么多漂亮的贺卡？你是在给朋友们写信吗？",
+        "pinyin": "Zhuōzi shàng zěnme fàng zhe zhème duō piàoliàng de hèkǎ ？ nǐ shì zài gěi péngyǒu men xiě xìn ma ？",
         "audio_key": "H5_5_2_1",
         "translations": {
-          "en": "David, why are there so many beautiful greeting cards on the table? Are you writing letters to friends?",
-          "vi": "David, sao trên bàn có nhiều thiệp chúc mừng đẹp thế? Cậu đang viết thư cho bạn bè à?"
+          "en": "Why are there so many beautiful greeting cards on the table? Are you writing letters to friends?",
+          "vi": "Sao trên bàn có nhiều thiệp chúc mừng đẹp thế? Cậu đang viết thư cho bạn bè à?"
         },
         "tokens": [
-          "大卫",
-          "，",
           "桌子",
           "上",
           "怎么",
@@ -4328,16 +4302,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "小王，下星期五是王芳的生日，我们平时关系这么好，你准备送她什么生日礼呢？",
-        "pinyin": "Xiǎowáng ， xià xīngqī wǔ shì wángfāng de shēngrì ， wǒmen píngshí guānxì zhème hǎo ， nǐ zhǔnbèi sòng tā shénme shēngrì lǐ ne ？",
+        "content": "下星期五是王芳的生日，我们平时关系这么好，你准备送她什么生日礼呢？",
+        "pinyin": "Xià xīngqī wǔ shì wángfāng de shēngrì ， wǒmen píngshí guānxì zhème hǎo ， nǐ zhǔnbèi sòng tā shénme shēngrì lǐ ne ？",
         "audio_key": "H5_5_3_1",
         "translations": {
-          "en": "Xiao Wang, next Friday is Wang Fang's birthday. We're such good friends—what birthday gift are you planning to give her?",
-          "vi": "Tiểu Vương, thứ Sáu tuần sau là sinh nhật Vương Phương, bình thường chúng ta thân thiết như vậy, cậu định tặng cô ấy món quà sinh nhật gì?"
+          "en": "Next Friday is Wang Fang's birthday. We're such good friends—what birthday gift are you planning to give her?",
+          "vi": "Thứ Sáu tuần sau là sinh nhật Vương Phương, bình thường chúng ta thân thiết như vậy, cậu định tặng cô ấy món quà sinh nhật gì?"
         },
         "tokens": [
-          "小王",
-          "，",
           "下",
           "星期",
           "五",
@@ -4826,16 +4798,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，今天下午我们要去参加公司的重要典礼，你快去卧室换上那套深色的西装吧。",
-        "pinyin": "Lǐwěi ， jīntiān xiàwǔ wǒmen yào qù cānjiā gōngsī de zhòngyào diǎnlǐ ， nǐ kuài qù wòshì huàn shàng nà tào shēn sè de xīzhuāng ba 。",
+        "content": "今天下午我们要去参加公司的重要典礼，你快去卧室换上那套深色的西装吧。",
+        "pinyin": "Jīntiān xiàwǔ wǒmen yào qù cānjiā gōngsī de zhòngyào diǎnlǐ ， nǐ kuài qù wòshì huàn shàng nà tào shēn sè de xīzhuāng ba 。",
         "audio_key": "H5_6_1_1",
         "translations": {
-          "en": "Li Wei, this afternoon we are going to attend the company's important ceremony. Hurry to the bedroom and change into that dark suit.",
-          "vi": "Lý Vĩ, chiều nay chúng ta phải đi dự lễ quan trọng của công ty, anh mau vào phòng ngủ thay bộ vest tối màu đó đi."
+          "en": "This afternoon we are going to attend the company's important ceremony. Hurry to the bedroom and change into that dark suit.",
+          "vi": "Chiều nay chúng ta phải đi dự lễ quan trọng của công ty, anh mau vào phòng ngủ thay bộ vest tối màu đó đi."
         },
         "tokens": [
-          "李伟",
-          "，",
           "今天",
           "下午",
           "我们",
@@ -5081,16 +5051,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，天气预报说今天夜间气温会降到零度以下，明天去爬山千万别穿得太少，小心冻感冒了。",
-        "pinyin": "Dàwèi ， tiānqì yùbào shuō jīntiān yèjiān qìwēn huì jiàng dào líng dù yǐxià ， míngtiān qù páshān qiānwàn bié chuān dé tài shǎo ， xiǎoxīn dòng gǎnmào le 。",
+        "content": "天气预报说今天夜间气温会降到零度以下，明天去爬山千万别穿得太少，小心冻感冒了。",
+        "pinyin": "Tiānqì yùbào shuō jīntiān yèjiān qìwēn huì jiàng dào líng dù yǐxià ， míngtiān qù páshān qiānwàn bié chuān dé tài shǎo ， xiǎoxīn dòng gǎnmào le 。",
         "audio_key": "H5_6_2_1",
         "translations": {
-          "en": "David, the weather forecast says the temperature will drop below zero tonight. Don't wear too little when you go hiking tomorrow, or you might catch a cold.",
-          "vi": "David, dự báo thời tiết nói đêm nay nhiệt độ sẽ xuống dưới 0 độ, ngày mai đi leo núi đừng mặc ít quá, cẩn thận bị cảm lạnh."
+          "en": "The weather forecast says the temperature will drop below zero tonight. Don't wear too little when you go hiking tomorrow, or you might catch a cold.",
+          "vi": "Dự báo thời tiết nói đêm nay nhiệt độ sẽ xuống dưới 0 độ, ngày mai đi leo núi đừng mặc ít quá, cẩn thận bị cảm lạnh."
         },
         "tokens": [
-          "大卫",
-          "，",
           "天气",
           "预报",
           "说",
@@ -5341,16 +5309,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "小王，刚才在大厅里跟王经理聊天的那位先生是谁呀？他长着高高的个儿，真有风度。",
-        "pinyin": "Xiǎowáng ， gāngcái zài dàtīng lǐ gēn wángjīnglǐ liáo tiān de nà wèi xiānshēng shì shuí ya ？ tā zhǎng zhe gāo gāo de gèér ， zhēn yǒu fēngdù 。",
+        "content": "刚才在大厅里跟王经理聊天的那位先生是谁呀？他长着高高的个儿，真有风度。",
+        "pinyin": "Gāngcái zài dàtīng lǐ gēn wángjīnglǐ liáo tiān de nà wèi xiānshēng shì shuí ya ？ tā zhǎng zhe gāo gāo de gèér ， zhēn yǒu fēngdù 。",
         "audio_key": "H5_6_3_1",
         "translations": {
-          "en": "Xiao Wang, who is that gentleman chatting with Manager Wang in the hall just now? He is tall and really elegant.",
-          "vi": "Tiểu Vương, người đàn ông vừa nãy nói chuyện với giám đốc Vương ở đại sảnh là ai vậy? Ông ấy cao cao, thật có phong độ."
+          "en": "Who is that gentleman chatting with Manager Wang in the hall just now? He is tall and really elegant.",
+          "vi": "Người đàn ông vừa nãy nói chuyện với giám đốc Vương ở đại sảnh là ai vậy? Ông ấy cao cao, thật có phong độ."
         },
         "tokens": [
-          "小王",
-          "，",
           "刚才",
           "在",
           "大厅",
@@ -5843,16 +5809,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "小王，昨天刚搬到隔壁的那个邻居，你跟他熟悉了吗？",
-        "pinyin": "Xiǎowáng ， zuótiān gāng bān dào gébì de nà gè línjū ， nǐ gēn tā shúxī le ma ？",
+        "content": "昨天刚搬到隔壁的那个邻居，你跟他熟悉了吗？",
+        "pinyin": "Zuótiān gāng bān dào gébì de nà gè línjū ， nǐ gēn tā shúxī le ma ？",
         "audio_key": "H5_7_1_1",
         "translations": {
-          "en": "Xiao Wang, have you gotten to know the neighbor who just moved in next door yesterday?",
-          "vi": "Tiểu Vương, cậu đã quen với người hàng xóm mới chuyển đến bên cạnh hôm qua chưa?"
+          "en": "Have you gotten to know the neighbor who just moved in next door yesterday?",
+          "vi": "Cậu đã quen với người hàng xóm mới chuyển đến bên cạnh hôm qua chưa?"
         },
         "tokens": [
-          "小王",
-          "，",
           "昨天",
           "刚",
           "搬",
@@ -6100,16 +6064,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，你今天怎么一直不高兴？是不是工作上遇到麻烦了？",
-        "pinyin": "Dàwèi ， nǐ jīntiān zěnme yìzhí bù gāoxìng ？ shìbúshì gōngzuò shàng yùdào máfán le ？",
+        "content": "你今天怎么一直不高兴？是不是工作上遇到麻烦了？",
+        "pinyin": "Nǐ jīntiān zěnme yìzhí bù gāoxìng ？ shìbúshì gōngzuò shàng yùdào máfán le ？",
         "audio_key": "H5_7_2_1",
         "translations": {
-          "en": "David, why have you been unhappy all day? Did you run into trouble at work?",
-          "vi": "David, sao hôm nay anh cứ không vui thế? Có phải gặp rắc rối trong công việc không?"
+          "en": "Why have you been unhappy all day? Did you run into trouble at work?",
+          "vi": "Sao hôm nay anh cứ không vui thế? Có phải gặp rắc rối trong công việc không?"
         },
         "tokens": [
-          "大卫",
-          "，",
           "你",
           "今天",
           "怎么",
@@ -6332,16 +6294,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王芳，听说小王和李伟昨天因为一点儿小事发生了冲突，是真的吗？",
-        "pinyin": "Wángfāng ， tīngshuō xiǎowáng hé lǐwěi zuótiān yīnwèi yìdiǎnér xiǎo shì fāshēng le chōngtū ， shì zhēnde ma ？",
+        "content": "听说小王和李伟昨天因为一点儿小事发生了冲突，是真的吗？",
+        "pinyin": "Tīngshuō xiǎowáng hé lǐwěi zuótiān yīnwèi yìdiǎnér xiǎo shì fāshēng le chōngtū ， shì zhēnde ma ？",
         "audio_key": "H5_7_3_1",
         "translations": {
-          "en": "Wang Fang, I heard Xiao Wang and Li Wei had a conflict yesterday over a small matter. Is it true?",
-          "vi": "Vương Phương, nghe nói hôm qua Tiểu Vương và Lý Vĩ xảy ra xung đột vì một chuyện nhỏ, có thật không?"
+          "en": "I heard Xiao Wang and Li Wei had a conflict yesterday over a small matter. Is it true?",
+          "vi": "Nghe nói hôm qua Tiểu Vương và Lý Vĩ xảy ra xung đột vì một chuyện nhỏ, có thật không?"
         },
         "tokens": [
-          "王芳",
-          "，",
           "听说",
           "小王",
           "和",
@@ -6802,16 +6762,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，我们已经谈了三年的恋爱了，时间过得真快啊。",
-        "pinyin": "Lǐwěi ， wǒmen yǐjīng tán le sān nián de liànài le ， shíjiān guò dé zhēn kuài a 。",
+        "content": "我们已经谈了三年的恋爱了，时间过得真快啊。",
+        "pinyin": "Wǒmen yǐjīng tán le sān nián de liànài le ， shíjiān guò dé zhēn kuài a 。",
         "audio_key": "H5_8_1_1",
         "translations": {
-          "en": "Li Wei, we've been dating for three years now, how time flies!",
-          "vi": "Lý Vỹ, chúng ta đã yêu nhau được ba năm rồi, thời gian trôi nhanh thật đấy."
+          "en": "We've been dating for three years now, how time flies!",
+          "vi": "Chúng ta đã yêu nhau được ba năm rồi, thời gian trôi nhanh thật đấy."
         },
         "tokens": [
-          "李伟",
-          "，",
           "我们",
           "已经",
           "谈",
@@ -7040,16 +6998,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "小明，小王昨天又发短信邀请我看电影，我真不知道该怎么办。",
-        "pinyin": "Xiǎomíng ， xiǎowáng zuótiān yòu fā duǎnxìn yāoqǐng wǒ kàn diànyǐng ， wǒ zhēn bù zhīdào gāi zěnmebàn 。",
+        "content": "小王昨天又发短信邀请我看电影，我真不知道该怎么办。",
+        "pinyin": "Xiǎowáng zuótiān yòu fā duǎnxìn yāoqǐng wǒ kàn diànyǐng ， wǒ zhēn bù zhīdào gāi zěnmebàn 。",
         "audio_key": "H5_8_2_1",
         "translations": {
-          "en": "Xiaoming, Xiaowang sent me another text yesterday inviting me to a movie, I really don't know what to do.",
-          "vi": "Tiểu Minh, Tiểu Vương hôm qua lại nhắn tin mời mình đi xem phim, mình thật không biết phải làm sao."
+          "en": "Xiaowang sent me another text yesterday inviting me to a movie, I really don't know what to do.",
+          "vi": "Tiểu Vương hôm qua lại nhắn tin mời mình đi xem phim, mình thật không biết phải làm sao."
         },
         "tokens": [
-          "小明",
-          "，",
           "小王",
           "昨天",
           "又",
@@ -7287,16 +7243,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王芳，刚才在社区门口，我看见你扶着妈妈慢慢散步，她的身体好些了吗？",
-        "pinyin": "Wángfāng ， gāngcái zài shèqū ménkǒu ， wǒ kànjiàn nǐ fú zhe māmā mànmàn sànbù ， tā de shēntǐ hǎo xiē le ma ？",
+        "content": "刚才在社区门口，我看见你扶着妈妈慢慢散步，她的身体好些了吗？",
+        "pinyin": "Gāngcái zài shèqū ménkǒu ， wǒ kànjiàn nǐ fú zhe māmā mànmàn sànbù ， tā de shēntǐ hǎo xiē le ma ？",
         "audio_key": "H5_8_3_1",
         "translations": {
-          "en": "Wang Fang, just now at the community entrance, I saw you supporting your mom for a slow walk, is her health better?",
-          "vi": "Vương Phương, vừa rồi ở cổng khu chung cư, tôi thấy cô dìu mẹ đi dạo chậm rãi, sức khỏe bà ấy đỡ hơn chưa?"
+          "en": "Just now at the community entrance, I saw you supporting your mom for a slow walk, is her health better?",
+          "vi": "Vừa rồi ở cổng khu chung cư, tôi thấy cô dìu mẹ đi dạo chậm rãi, sức khỏe bà ấy đỡ hơn chưa?"
         },
         "tokens": [
-          "王芳",
-          "，",
           "刚才",
           "在",
           "社区",
@@ -7790,16 +7744,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，刚才客厅里怎么那么响？把我吓了一大跳！",
-        "pinyin": "Dàwèi ， gāngcái kètīng lǐ zěnme nàme xiǎng ？ bǎ wǒ xià le yí dà tiào ！",
+        "content": "刚才客厅里怎么那么响？把我吓了一大跳！",
+        "pinyin": "Gāngcái kètīng lǐ zěnme nàme xiǎng ？ bǎ wǒ xià le yí dà tiào ！",
         "audio_key": "H5_9_1_1",
         "translations": {
-          "en": "David, why was it so loud in the living room just now? It scared me half to death!",
-          "vi": "David, sao lúc nãy phòng khách lại ồn thế? Làm em giật cả mình!"
+          "en": "Why was it so loud in the living room just now? It scared me half to death!",
+          "vi": "Sao lúc nãy phòng khách lại ồn thế? Làm em giật cả mình!"
         },
         "tokens": [
-          "大卫",
-          "，",
           "刚才",
           "客厅",
           "里",
@@ -8047,16 +7999,14 @@
       {
         "line_id": 1,
         "speaker": "小王",
-        "content": "王芳，听说小李这次考试没通过，他现在一定很难过吧？",
-        "pinyin": "Wángfāng ， tīngshuō xiǎolǐ zhè cì kǎoshì méi tōngguò ， tā xiànzài yídìng hěn nánguò ba ？",
+        "content": "听说小李这次考试没通过，他现在一定很难过吧？",
+        "pinyin": "Tīngshuō xiǎolǐ zhè cì kǎoshì méi tōngguò ， tā xiànzài yídìng hěn nánguò ba ？",
         "audio_key": "H5_9_2_1",
         "translations": {
-          "en": "Wang Fang, I heard Xiao Li didn't pass this exam. He must be very sad now, right?",
-          "vi": "Wang Fang, nghe nói lần này Tiểu Lý thi trượt, chắc giờ cậu ấy buồn lắm nhỉ?"
+          "en": "I heard Xiao Li didn't pass this exam. He must be very sad now, right?",
+          "vi": "Nghe nói lần này Tiểu Lý thi trượt, chắc giờ cậu ấy buồn lắm nhỉ?"
         },
         "tokens": [
-          "王芳",
-          "，",
           "听说",
           "小李",
           "这",
@@ -8291,16 +8241,14 @@
       {
         "line_id": 1,
         "speaker": "小明",
-        "content": "丽丽，看你一直摇头，是不是还在为昨天跟小王吵架的事难过？",
-        "pinyin": "Lìlì ， kàn nǐ yìzhí yáotóu ， shìbúshì hái zài wèi zuótiān gēn xiǎowáng chǎojià de shì nánguò ？",
+        "content": "看你一直摇头，是不是还在为昨天跟小王吵架的事难过？",
+        "pinyin": "Kàn nǐ yìzhí yáotóu ， shìbúshì hái zài wèi zuótiān gēn xiǎowáng chǎojià de shì nánguò ？",
         "audio_key": "H5_9_3_1",
         "translations": {
-          "en": "Lili, I see you keep shaking your head. Are you still upset about the argument with Xiao Wang yesterday?",
-          "vi": "Lili, thấy em cứ lắc đầu, có phải vẫn còn buồn vì chuyện cãi nhau với Tiểu Vương hôm qua không?"
+          "en": "I see you keep shaking your head. Are you still upset about the argument with Xiao Wang yesterday?",
+          "vi": "Thấy em cứ lắc đầu, có phải vẫn còn buồn vì chuyện cãi nhau với Tiểu Vương hôm qua không?"
         },
         "tokens": [
-          "丽丽",
-          "，",
           "看",
           "你",
           "一直",
@@ -8790,16 +8738,14 @@
       {
         "line_id": 1,
         "speaker": "李伟",
-        "content": "王芳，我最喜欢的那支钢笔不小心弄丢了，连电脑上的一个键也找不到了。",
-        "pinyin": "Wángfāng ， wǒ zuì xǐhuān de nà zhī gāngbǐ bù xiǎoxīn nòng diū le ， lián diànnǎo shàng de yí gè jiàn yě zhǎo bú dào le 。",
+        "content": "我最喜欢的那支钢笔不小心弄丢了，连电脑上的一个键也找不到了。",
+        "pinyin": "Wǒ zuì xǐhuān de nà zhī gāngbǐ bù xiǎoxīn nòng diū le ， lián diànnǎo shàng de yí gè jiàn yě zhǎo bú dào le 。",
         "audio_key": "H5_10_1_1",
         "translations": {
-          "en": "Wang Fang, I accidentally lost my favorite pen, and I can't even find one of the keys on my computer.",
-          "vi": "Wang Fang, tôi lỡ làm mất cây bút máy mà tôi thích nhất rồi, ngay cả một phím trên máy tính cũng không tìm thấy."
+          "en": "I accidentally lost my favorite pen, and I can't even find one of the keys on my computer.",
+          "vi": "Tôi lỡ làm mất cây bút máy mà tôi thích nhất rồi, ngay cả một phím trên máy tính cũng không tìm thấy."
         },
         "tokens": [
-          "王芳",
-          "，",
           "我",
           "最",
           "喜欢",
@@ -9042,16 +8988,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "小王，刚才社区门口怎么站了那么多人？发生什么事了？",
-        "pinyin": "Xiǎowáng ， gāngcái shèqū ménkǒu zěnme zhàn le nàme duō rén ？ fāshēng shénme shì le ？",
+        "content": "刚才社区门口怎么站了那么多人？发生什么事了？",
+        "pinyin": "Gāngcái shèqū ménkǒu zěnme zhàn le nàme duō rén ？ fāshēng shénme shì le ？",
         "audio_key": "H5_10_2_1",
         "translations": {
-          "en": "Xiao Wang, why were so many people standing at the community entrance just now? What happened?",
-          "vi": "Tiểu Wang, vừa nãy sao ở cổng khu dân cư lại đứng nhiều người thế? Có chuyện gì xảy ra vậy?"
+          "en": "Why were so many people standing at the community entrance just now? What happened?",
+          "vi": "Vừa nãy sao ở cổng khu dân cư lại đứng nhiều người thế? Có chuyện gì xảy ra vậy?"
         },
         "tokens": [
-          "小王",
-          "，",
           "刚才",
           "社区",
           "门口",
@@ -9761,16 +9705,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，看你脸色这么难看，是不是身体不舒服？我陪你去医院门诊看看吧。",
-        "pinyin": "Lǐwěi ， kàn nǐ liǎnsè zhème nánkàn ， shìbúshì shēntǐ bù shūfú ？ wǒ péi nǐ qù yīyuàn ménzhěn kàn kàn ba 。",
+        "content": "看你脸色这么难看，是不是身体不舒服？我陪你去医院门诊看看吧。",
+        "pinyin": "Kàn nǐ liǎnsè zhème nánkàn ， shìbúshì shēntǐ bù shūfú ？ wǒ péi nǐ qù yīyuàn ménzhěn kàn kàn ba 。",
         "audio_key": "H5_11_1_1",
         "translations": {
-          "en": "Li Wei, you look terrible. Are you feeling unwell? Let me accompany you to the hospital outpatient clinic.",
-          "vi": "Lý Vĩ, trông mặt cậu khó coi quá, có phải cơ thể không khỏe không? Tớ đưa cậu đến phòng khám bệnh viện xem sao."
+          "en": "You look terrible. Are you feeling unwell? Let me accompany you to the hospital outpatient clinic.",
+          "vi": "Trông mặt cậu khó coi quá, có phải cơ thể không khỏe không? Tớ đưa cậu đến phòng khám bệnh viện xem sao."
         },
         "tokens": [
-          "李伟",
-          "，",
           "看",
           "你",
           "脸色",
@@ -10028,16 +9970,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王芳，你手上的皮肤怎么红了一大片？看起来疼得挺厉害的。",
-        "pinyin": "Wángfāng ， nǐ shǒu shàng de pífū zěnme hóng le yí dà piàn ？ kànqǐlái téng dé tǐng lìhài de 。",
+        "content": "你手上的皮肤怎么红了一大片？看起来疼得挺厉害的。",
+        "pinyin": "Nǐ shǒu shàng de pífū zěnme hóng le yí dà piàn ？ kànqǐlái téng dé tǐng lìhài de 。",
         "audio_key": "H5_11_2_1",
         "translations": {
-          "en": "Wang Fang, why is the skin on your hand red in a large area? It looks like it hurts a lot.",
-          "vi": "Vương Phương, sao da trên tay cậu đỏ một mảng lớn thế? Trông có vẻ đau lắm."
+          "en": "Why is the skin on your hand red in a large area? It looks like it hurts a lot.",
+          "vi": "Sao da trên tay cậu đỏ một mảng lớn thế? Trông có vẻ đau lắm."
         },
         "tokens": [
-          "王芳",
-          "，",
           "你",
           "手",
           "上",
@@ -10311,16 +10251,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，厨房里剩下的那盘菜闻起来已经臭了，你怎么还没扔掉？",
-        "pinyin": "Dàwèi ， chúfáng lǐ shèngxià de nà pán cài wén qǐlái yǐjīng chòu le ， nǐ zěnme hái méi rēng diào ？",
+        "content": "厨房里剩下的那盘菜闻起来已经臭了，你怎么还没扔掉？",
+        "pinyin": "Chúfáng lǐ shèngxià de nà pán cài wén qǐlái yǐjīng chòu le ， nǐ zěnme hái méi rēng diào ？",
         "audio_key": "H5_11_3_1",
         "translations": {
-          "en": "David, the leftover dish in the kitchen smells spoiled. Why haven't you thrown it away yet?",
-          "vi": "David, đĩa thức ăn thừa trong bếp ngửi thấy mùi thối rồi, sao cậu chưa vứt đi?"
+          "en": "The leftover dish in the kitchen smells spoiled. Why haven't you thrown it away yet?",
+          "vi": "Đĩa thức ăn thừa trong bếp ngửi thấy mùi thối rồi, sao cậu chưa vứt đi?"
         },
         "tokens": [
-          "大卫",
-          "，",
           "厨房",
           "里",
           "剩下",
@@ -10758,16 +10696,14 @@
       {
         "line_id": 1,
         "speaker": "李伟",
-        "content": "王芳，周末我们去社区新开的那家体育俱乐部锻炼身体，怎么样？",
-        "pinyin": "Wángfāng ， zhōumò wǒmen qù shèqū xīn kāi de nà jiā tǐyù jùlèbù duànliàn shēntǐ ， zěnmeyàng ？",
+        "content": "周末我们去社区新开的那家体育俱乐部锻炼身体，怎么样？",
+        "pinyin": "Zhōumò wǒmen qù shèqū xīn kāi de nà jiā tǐyù jùlèbù duànliàn shēntǐ ， zěnmeyàng ？",
         "audio_key": "H5_12_1_1",
         "translations": {
-          "en": "Wang Fang, how about we go to the new sports club in the community to exercise this weekend?",
-          "vi": "Vương Phương, cuối tuần chúng ta đến câu lạc bộ thể thao mới mở trong khu dân cư để rèn luyện sức khỏe nhé, thế nào?"
+          "en": "How about we go to the new sports club in the community to exercise this weekend?",
+          "vi": "Cuối tuần chúng ta đến câu lạc bộ thể thao mới mở trong khu dân cư để rèn luyện sức khỏe nhé, thế nào?"
         },
         "tokens": [
-          "王芳",
-          "，",
           "周末",
           "我们",
           "去",
@@ -11004,16 +10940,14 @@
       {
         "line_id": 1,
         "speaker": "小王",
-        "content": "丽丽，你刚才一口气跑了五公里，现在觉得累不累？",
-        "pinyin": "Lìlì ， nǐ gāngcái yìkǒuqì pǎo le wǔ gōnglǐ ， xiànzài juéde lèi bú lèi ？",
+        "content": "你刚才一口气跑了五公里，现在觉得累不累？",
+        "pinyin": "Nǐ gāngcái yìkǒuqì pǎo le wǔ gōnglǐ ， xiànzài juéde lèi bú lèi ？",
         "audio_key": "H5_12_2_1",
         "translations": {
-          "en": "Lili, you just ran five kilometers in one go. Do you feel tired now?",
-          "vi": "Lệ Lệ, cậu vừa chạy một mạch năm cây số, bây giờ có thấy mệt không?"
+          "en": "You just ran five kilometers in one go. Do you feel tired now?",
+          "vi": "Cậu vừa chạy một mạch năm cây số, bây giờ có thấy mệt không?"
         },
         "tokens": [
-          "丽丽",
-          "，",
           "你",
           "刚才",
           "一口气",
@@ -11249,16 +11183,14 @@
       {
         "line_id": 1,
         "speaker": "小明",
-        "content": "王芳，昨天晚上电视里演的国际体育大奖赛，你看了吗？",
-        "pinyin": "Wángfāng ， zuótiān wǎnshàng diànshì lǐ yǎn de guójì tǐyù dàjiǎngsài ， nǐ kàn le ma ？",
+        "content": "昨天晚上电视里演的国际体育大奖赛，你看了吗？",
+        "pinyin": "Zuótiān wǎnshàng diànshì lǐ yǎn de guójì tǐyù dàjiǎngsài ， nǐ kàn le ma ？",
         "audio_key": "H5_12_3_1",
         "translations": {
-          "en": "Wang Fang, did you watch the international sports grand prix on TV last night?",
-          "vi": "Vương Phương, tối qua trên TV có chiếu giải thể thao quốc tế lớn, cậu có xem không?"
+          "en": "Did you watch the international sports grand prix on TV last night?",
+          "vi": "Tối qua trên TV có chiếu giải thể thao quốc tế lớn, cậu có xem không?"
         },
         "tokens": [
-          "王芳",
-          "，",
           "昨天",
           "晚上",
           "电视",
@@ -11731,16 +11663,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王芳，今年我们大学招生的人数比去年多了不少，学校里真热闹！",
-        "pinyin": "Wángfāng ， jīnnián wǒmen dàxué zhāoshēng de rénshù bǐ qùnián duō le bùshǎo ， xuéxiào lǐ zhēn rènào ！",
+        "content": "今年我们大学招生的人数比去年多了不少，学校里真热闹！",
+        "pinyin": "Jīnnián wǒmen dàxué zhāoshēng de rénshù bǐ qùnián duō le bùshǎo ， xuéxiào lǐ zhēn rènào ！",
         "audio_key": "H5_13_1_1",
         "translations": {
-          "en": "Wang Fang, this year the number of students enrolling at our university is much higher than last year. The campus is really lively!",
-          "vi": "Wang Fang, năm nay số lượng sinh viên nhập học của trường đại học chúng ta nhiều hơn năm ngoái rất nhiều, trong trường thật là nhộn nhịp!"
+          "en": "This year the number of students enrolling at our university is much higher than last year. The campus is really lively!",
+          "vi": "Năm nay số lượng sinh viên nhập học của trường đại học chúng ta nhiều hơn năm ngoái rất nhiều, trong trường thật là nhộn nhịp!"
         },
         "tokens": [
-          "王芳",
-          "，",
           "今年",
           "我们",
           "大学",
@@ -11952,16 +11882,14 @@
       {
         "line_id": 1,
         "speaker": "大卫",
-        "content": "李老师，这个学期我想多了解一些别的学科，应该选修哪门课呢？",
-        "pinyin": "Lǐlǎoshī ， zhè gè xuéqī wǒ xiǎng duō liǎojiě yīxiē biéde xuékē ， yīnggāi xuǎnxiū nǎ mén kè ne ？",
+        "content": "这个学期我想多了解一些别的学科，应该选修哪门课呢？",
+        "pinyin": "Zhè gè xuéqī wǒ xiǎng duō liǎojiě yīxiē biéde xuékē ， yīnggāi xuǎnxiū nǎ mén kè ne ？",
         "audio_key": "H5_13_2_1",
         "translations": {
-          "en": "Teacher Li, this semester I want to learn more about other subjects. Which elective course should I choose?",
-          "vi": "Thầy Lý, học kỳ này em muốn tìm hiểu thêm một số môn học khác, em nên chọn môn tự chọn nào ạ?"
+          "en": "This semester I want to learn more about other subjects. Which elective course should I choose?",
+          "vi": "Học kỳ này em muốn tìm hiểu thêm một số môn học khác, em nên chọn môn tự chọn nào ạ?"
         },
         "tokens": [
-          "李老师",
-          "，",
           "这",
           "个",
           "学期",
@@ -12204,16 +12132,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，听说你今年已经顺利拿到了硕士学位，真的要好好祝贺你！",
-        "pinyin": "Lǐwěi ， tīngshuō nǐ jīnnián yǐjīng shùnlì nádào le shuòshì xuéwèi ， zhēnde yào hǎohǎo zhùhè nǐ ！",
+        "content": "听说你今年已经顺利拿到了硕士学位，真的要好好祝贺你！",
+        "pinyin": "Tīngshuō nǐ jīnnián yǐjīng shùnlì nádào le shuòshì xuéwèi ， zhēnde yào hǎohǎo zhùhè nǐ ！",
         "audio_key": "H5_13_3_1",
         "translations": {
-          "en": "Li Wei, I heard you successfully obtained your master's degree this year. I really must congratulate you!",
-          "vi": "Lý Vĩ, nghe nói năm nay anh đã thuận lợi lấy được bằng thạc sĩ, thật sự phải chúc mừng anh!"
+          "en": "I heard you successfully obtained your master's degree this year. I really must congratulate you!",
+          "vi": "Nghe nói năm nay anh đã thuận lợi lấy được bằng thạc sĩ, thật sự phải chúc mừng anh!"
         },
         "tokens": [
-          "李伟",
-          "，",
           "听说",
           "你",
           "今年",
@@ -12705,16 +12631,14 @@
       {
         "line_id": 1,
         "speaker": "大卫",
-        "content": "王芳，我在学习华语的时候，经常遇到一些不懂的成语，应该怎么办呢？",
-        "pinyin": "Wángfāng ， wǒ zài xuéxí huáyǔ de shíhòu ， jīngcháng yùdào yīxiē bù dǒng de chéngyǔ ， yīnggāi zěnmebàn ne ？",
+        "content": "我在学习华语的时候，经常遇到一些不懂的成语，应该怎么办呢？",
+        "pinyin": "Wǒ zài xuéxí huáyǔ de shíhòu ， jīngcháng yùdào yīxiē bù dǒng de chéngyǔ ， yīnggāi zěnmebàn ne ？",
         "audio_key": "H5_14_1_1",
         "translations": {
-          "en": "Wang Fang, when I'm learning Chinese, I often come across some idioms I don't understand. What should I do?",
-          "vi": "Wang Fang, khi tôi học tiếng Trung, tôi thường gặp một số thành ngữ không hiểu. Tôi nên làm thế nào?"
+          "en": "When I'm learning Chinese, I often come across some idioms I don't understand. What should I do?",
+          "vi": "Khi tôi học tiếng Trung, tôi thường gặp một số thành ngữ không hiểu. Tôi nên làm thế nào?"
         },
         "tokens": [
-          "王芳",
-          "，",
           "我",
           "在",
           "学习",
@@ -12916,16 +12840,14 @@
       {
         "line_id": 1,
         "speaker": "小明",
-        "content": "李老师，我最近背课文总是很快就忘了，是不是我的脑子不够聪明？",
-        "pinyin": "Lǐlǎoshī ， wǒ zuìjìn bèi kèwén zǒngshì hěn kuài jiù wàng le ， shìbúshì wǒ de nǎozi bùgòu cōngmíng ？",
+        "content": "我最近背课文总是很快就忘了，是不是我的脑子不够聪明？",
+        "pinyin": "Wǒ zuìjìn bèi kèwén zǒngshì hěn kuài jiù wàng le ， shìbúshì wǒ de nǎozi bùgòu cōngmíng ？",
         "audio_key": "H5_14_2_1",
         "translations": {
-          "en": "Teacher Li, lately I forget the texts quickly after memorizing them. Is it because my brain isn't smart enough?",
-          "vi": "Thưa thầy Lý, dạo này em học thuộc bài khóa rất nhanh quên. Có phải đầu óc em không đủ thông minh không ạ?"
+          "en": "Lately I forget the texts quickly after memorizing them. Is it because my brain isn't smart enough?",
+          "vi": "Dạo này em học thuộc bài khóa rất nhanh quên. Có phải đầu óc em không đủ thông minh không ạ?"
         },
         "tokens": [
-          "李老师",
-          "，",
           "我",
           "最近",
           "背",
@@ -13167,16 +13089,14 @@
       {
         "line_id": 2,
         "speaker": "丽丽",
-        "content": "张老师，这个问题我们还没有想明白，您能给我们一点儿提示吗？",
-        "pinyin": "Zhānglǎoshī ， zhè gè wèntí wǒmen hái méiyǒu xiǎng míngbái ， nín néng gěi wǒmen yìdiǎnér tíshì ma ？",
+        "content": "这个问题我们还没有想明白，您能给我们一点儿提示吗？",
+        "pinyin": "Zhè gè wèntí wǒmen hái méiyǒu xiǎng míngbái ， nín néng gěi wǒmen yìdiǎnér tíshì ma ？",
         "audio_key": "H5_14_3_2",
         "translations": {
-          "en": "Teacher Zhang, we haven't figured out this question yet. Could you give us a hint?",
-          "vi": "Thưa cô Trương, câu hỏi này chúng em vẫn chưa hiểu rõ, cô có thể gợi ý cho chúng em một chút được không ạ?"
+          "en": "We haven't figured out this question yet. Could you give us a hint?",
+          "vi": "Câu hỏi này chúng em vẫn chưa hiểu rõ, cô có thể gợi ý cho chúng em một chút được không ạ?"
         },
         "tokens": [
-          "张老师",
-          "，",
           "这",
           "个",
           "问题",
@@ -13566,16 +13486,14 @@
       {
         "line_id": 1,
         "speaker": "李伟",
-        "content": "王芳，听说你写的那本新书马上就要出版了，真是太祝贺你了！",
-        "pinyin": "Wángfāng ， tīngshuō nǐ xiě de nà běn xīn shū mǎshàng jiùyào chūbǎn le ， zhēn shì tài zhùhè nǐ le ！",
+        "content": "听说你写的那本新书马上就要出版了，真是太祝贺你了！",
+        "pinyin": "Tīngshuō nǐ xiě de nà běn xīn shū mǎshàng jiùyào chūbǎn le ， zhēn shì tài zhùhè nǐ le ！",
         "audio_key": "H5_15_1_1",
         "translations": {
-          "en": "Wang Fang, I heard your new book is about to be published. Congratulations!",
-          "vi": "Vương Phương, nghe nói cuốn sách mới của bạn sắp được xuất bản rồi, chúc mừng bạn nhé!"
+          "en": "I heard your new book is about to be published. Congratulations!",
+          "vi": "Nghe nói cuốn sách mới của bạn sắp được xuất bản rồi, chúc mừng bạn nhé!"
         },
         "tokens": [
-          "王芳",
-          "，",
           "听说",
           "你",
           "写",
@@ -13782,16 +13700,14 @@
       {
         "line_id": 1,
         "speaker": "小王",
-        "content": "小李，刚才在图书馆的阅览室里看书太安静了，我没敢大声跟你说话。",
-        "pinyin": "Xiǎolǐ ， gāngcái zài túshūguǎn de yuèlǎnshì lǐ kàn shū tài ānjìng le ， wǒ méi gǎn dàshēng gēn nǐ shuōhuà 。",
+        "content": "刚才在图书馆的阅览室里看书太安静了，我没敢大声跟你说话。",
+        "pinyin": "Gāngcái zài túshūguǎn de yuèlǎnshì lǐ kàn shū tài ānjìng le ， wǒ méi gǎn dàshēng gēn nǐ shuōhuà 。",
         "audio_key": "H5_15_2_1",
         "translations": {
-          "en": "Xiao Li, it was so quiet in the reading room of the library just now that I didn't dare speak to you loudly.",
-          "vi": "Tiểu Lý, vừa rồi trong phòng đọc của thư viện yên tĩnh quá, mình không dám nói to với bạn."
+          "en": "It was so quiet in the reading room of the library just now that I didn't dare speak to you loudly.",
+          "vi": "Vừa rồi trong phòng đọc của thư viện yên tĩnh quá, mình không dám nói to với bạn."
         },
         "tokens": [
-          "小李",
-          "，",
           "刚才",
           "在",
           "图书馆",
@@ -14000,16 +13916,14 @@
       {
         "line_id": 1,
         "speaker": "大卫",
-        "content": "丽丽，你看墙上挂着的那幅字写得真漂亮，这就是中国的书法艺术吧？",
-        "pinyin": "Lìlì ， nǐ kàn qiáng shàng guà zhe de nà fú zì xiě dé zhēn piàoliàng ， zhè jiùshì zhōngguó de shūfǎ yìshù ba ？",
+        "content": "你看墙上挂着的那幅字写得真漂亮，这就是中国的书法艺术吧？",
+        "pinyin": "Nǐ kàn qiáng shàng guà zhe de nà fú zì xiě dé zhēn piàoliàng ， zhè jiùshì zhōngguó de shūfǎ yìshù ba ？",
         "audio_key": "H5_15_3_1",
         "translations": {
-          "en": "Lili, look at that calligraphy hanging on the wall—it's written so beautifully. Is this Chinese calligraphy art?",
-          "vi": "Lệ Lệ, bạn xem bức thư pháp treo trên tường kia viết đẹp thật, đây chính là nghệ thuật thư pháp Trung Quốc phải không?"
+          "en": "Look at that calligraphy hanging on the wall—it's written so beautifully. Is this Chinese calligraphy art?",
+          "vi": "Bạn xem bức thư pháp treo trên tường kia viết đẹp thật, đây chính là nghệ thuật thư pháp Trung Quốc phải không?"
         },
         "tokens": [
-          "丽丽",
-          "，",
           "你",
           "看",
           "墙",
@@ -14443,16 +14357,14 @@
       {
         "line_id": 1,
         "speaker": "小明",
-        "content": "王芳，我的电脑最近用起来特别慢，是不是里面的软件装得太多了？",
-        "pinyin": "Wángfāng ， wǒ de diànnǎo zuìjìn yòng qǐlái tèbié màn ， shìbúshì lǐmiàn de ruǎnjiàn zhuāng dé tài duō le ？",
+        "content": "我的电脑最近用起来特别慢，是不是里面的软件装得太多了？",
+        "pinyin": "Wǒ de diànnǎo zuìjìn yòng qǐlái tèbié màn ， shìbúshì lǐmiàn de ruǎnjiàn zhuāng dé tài duō le ？",
         "audio_key": "H5_16_1_1",
         "translations": {
-          "en": "Wang Fang, my computer has been really slow lately. Is it because too much software is installed?",
-          "vi": "Wang Fang, dạo này máy tính của mình chạy chậm quá, có phải do cài quá nhiều phần mềm không?"
+          "en": "My computer has been really slow lately. Is it because too much software is installed?",
+          "vi": "Dạo này máy tính của mình chạy chậm quá, có phải do cài quá nhiều phần mềm không?"
         },
         "tokens": [
-          "王芳",
-          "，",
           "我",
           "的",
           "电脑",
@@ -14664,16 +14576,14 @@
       {
         "line_id": 1,
         "speaker": "李伟",
-        "content": "小李，我的电脑今天突然打不开网页了，软件运行得也特别慢。",
-        "pinyin": "Xiǎolǐ ， wǒ de diànnǎo jīntiān tūrán dǎ bù kāi wǎng yè le ， ruǎnjiàn yùnxíng dé yě tèbié màn 。",
+        "content": "我的电脑今天突然打不开网页了，软件运行得也特别慢。",
+        "pinyin": "Wǒ de diànnǎo jīntiān tūrán dǎ bù kāi wǎng yè le ， ruǎnjiàn yùnxíng dé yě tèbié màn 。",
         "audio_key": "H5_16_2_1",
         "translations": {
-          "en": "Xiao Li, my computer suddenly can't open web pages today, and the software is running very slowly.",
-          "vi": "Xiao Li, hôm nay máy tính của tôi đột nhiên không mở được trang web, phần mềm chạy cũng rất chậm."
+          "en": "My computer suddenly can't open web pages today, and the software is running very slowly.",
+          "vi": "Hôm nay máy tính của tôi đột nhiên không mở được trang web, phần mềm chạy cũng rất chậm."
         },
         "tokens": [
-          "小李",
-          "，",
           "我",
           "的",
           "电脑",
@@ -14879,16 +14789,14 @@
       {
         "line_id": 1,
         "speaker": "小王",
-        "content": "丽丽，我想在图书馆的网站上借几本书，新用户应该怎么办理手续呢？",
-        "pinyin": "Lìlì ， wǒ xiǎng zài túshūguǎn de wǎngzhàn shàng jiè jǐ běn shū ， xīn yònghù yīnggāi zěnme bànlǐ shǒuxù ne ？",
+        "content": "我想在图书馆的网站上借几本书，新用户应该怎么办理手续呢？",
+        "pinyin": "Wǒ xiǎng zài túshūguǎn de wǎngzhàn shàng jiè jǐ běn shū ， xīn yònghù yīnggāi zěnme bànlǐ shǒuxù ne ？",
         "audio_key": "H5_16_3_1",
         "translations": {
-          "en": "Lili, I want to borrow some books from the library's website. How should a new user go through the procedures?",
-          "vi": "Lili, mình muốn mượn vài cuốn sách trên trang web của thư viện, người dùng mới thì nên làm thủ tục thế nào?"
+          "en": "I want to borrow some books from the library's website. How should a new user go through the procedures?",
+          "vi": "Mình muốn mượn vài cuốn sách trên trang web của thư viện, người dùng mới thì nên làm thủ tục thế nào?"
         },
         "tokens": [
-          "丽丽",
-          "，",
           "我",
           "想",
           "在",
@@ -15306,16 +15214,14 @@
       {
         "line_id": 1,
         "speaker": "大卫",
-        "content": "王芳，你快来瞧一瞧，这是我周末去公园拍的几张风景照片。",
-        "pinyin": "Wángfāng ， nǐ kuài lái qiáo yì qiáo ， zhè shì wǒ zhōumò qù gōngyuán pāi de jǐ zhāng fēngjǐng zhàopiān 。",
+        "content": "你快来瞧一瞧，这是我周末去公园拍的几张风景照片。",
+        "pinyin": "Nǐ kuài lái qiáo yì qiáo ， zhè shì wǒ zhōumò qù gōngyuán pāi de jǐ zhāng fēngjǐng zhàopiān 。",
         "audio_key": "H5_17_1_1",
         "translations": {
-          "en": "Wang Fang, come take a look! These are some landscape photos I took at the park over the weekend.",
-          "vi": "Vương Phương, cậu mau đến xem này, đây là mấy bức ảnh phong cảnh mình chụp ở công viên vào cuối tuần."
+          "en": "Come take a look! These are some landscape photos I took at the park over the weekend.",
+          "vi": "Cậu mau đến xem này, đây là mấy bức ảnh phong cảnh mình chụp ở công viên vào cuối tuần."
         },
         "tokens": [
-          "王芳",
-          "，",
           "你",
           "快",
           "来",
@@ -15528,16 +15434,14 @@
       {
         "line_id": 1,
         "speaker": "李伟",
-        "content": "丽丽，我看你拿着一台专业的摄像机，今天打算去哪儿拍东西呀？",
-        "pinyin": "Lìlì ， wǒ kàn nǐ ná zhe yì tái zhuānyè de shèxiàngjī ， jīntiān dǎsuàn qù nǎér pāi dōngxī ya ？",
+        "content": "我看你拿着一台专业的摄像机，今天打算去哪儿拍东西呀？",
+        "pinyin": "Wǒ kàn nǐ ná zhe yì tái zhuānyè de shèxiàngjī ， jīntiān dǎsuàn qù nǎér pāi dōngxī ya ？",
         "audio_key": "H5_17_2_1",
         "translations": {
-          "en": "Lili, I see you're carrying a professional video camera. Where are you planning to shoot today?",
-          "vi": "Lệ Lệ, mình thấy cậu mang theo một chiếc máy quay chuyên nghiệp, hôm nay định đi đâu quay vậy?"
+          "en": "I see you're carrying a professional video camera. Where are you planning to shoot today?",
+          "vi": "Mình thấy cậu mang theo một chiếc máy quay chuyên nghiệp, hôm nay định đi đâu quay vậy?"
         },
         "tokens": [
-          "丽丽",
-          "，",
           "我",
           "看",
           "你",
@@ -16182,16 +16086,14 @@
       {
         "line_id": 1,
         "speaker": "小明",
-        "content": "李老师，这学期我们学校戏剧俱乐部准备练习一个新节目，您能给我们一点儿建议吗？",
-        "pinyin": "Lǐlǎoshī ， zhè xuéqī wǒmen xuéxiào xìjù jùlèbù zhǔnbèi liànxí yí gè xīn jiémù ， nín néng gěi wǒmen yìdiǎnér jiànyì ma ？",
+        "content": "这学期我们学校戏剧俱乐部准备练习一个新节目，您能给我们一点儿建议吗？",
+        "pinyin": "Zhè xuéqī wǒmen xuéxiào xìjù jùlèbù zhǔnbèi liànxí yí gè xīn jiémù ， nín néng gěi wǒmen yìdiǎnér jiànyì ma ？",
         "audio_key": "H5_18_1_1",
         "translations": {
-          "en": "Teacher Li, this semester our school's drama club is preparing to practice a new play. Could you give us some advice?",
-          "vi": "Thưa cô Lý, học kỳ này câu lạc bộ kịch của trường em chuẩn bị tập một vở kịch mới. Cô có thể cho chúng em một chút lời khuyên không ạ?"
+          "en": "This semester our school's drama club is preparing to practice a new play. Could you give us some advice?",
+          "vi": "Học kỳ này câu lạc bộ kịch của trường em chuẩn bị tập một vở kịch mới. Cô có thể cho chúng em một chút lời khuyên không ạ?"
         },
         "tokens": [
-          "李老师",
-          "，",
           "这",
           "学期",
           "我们",
@@ -16410,16 +16312,14 @@
       {
         "line_id": 1,
         "speaker": "大卫",
-        "content": "王芳，昨天我跟朋友去老北京的胡同儿里玩儿，那里的传统文化味道真是十足。",
-        "pinyin": "Wángfāng ， zuótiān wǒ gēn péngyǒu qù lǎo běijīng de hútòngér lǐ wánér ， nàlǐ de chuántǒng wénhuà wèidào zhēn shì shízú 。",
+        "content": "昨天我跟朋友去老北京的胡同儿里玩儿，那里的传统文化味道真是十足。",
+        "pinyin": "Zuótiān wǒ gēn péngyǒu qù lǎo běijīng de hútòngér lǐ wánér ， nàlǐ de chuántǒng wénhuà wèidào zhēn shì shízú 。",
         "audio_key": "H5_18_2_1",
         "translations": {
-          "en": "Wang Fang, yesterday I went with a friend to the hutongs of old Beijing. The traditional cultural atmosphere there is really rich.",
-          "vi": "Vương Phương, hôm qua tôi cùng bạn đến chơi trong các ngõ hẻm của Bắc Kinh cổ. Không khí văn hóa truyền thống ở đó thật đậm đà."
+          "en": "Yesterday I went with a friend to the hutongs of old Beijing. The traditional cultural atmosphere there is really rich.",
+          "vi": "Hôm qua tôi cùng bạn đến chơi trong các ngõ hẻm của Bắc Kinh cổ. Không khí văn hóa truyền thống ở đó thật đậm đà."
         },
         "tokens": [
-          "王芳",
-          "，",
           "昨天",
           "我",
           "跟",
@@ -16628,16 +16528,14 @@
       {
         "line_id": 1,
         "speaker": "李伟",
-        "content": "丽丽，刚才在音乐教室里，是谁在弹钢琴？声音听起来真好听。",
-        "pinyin": "Lìlì ， gāngcái zài yīnyuè jiàoshì lǐ ， shì shuí zài dàn gāngqín ？ shēngyīn tīng qǐlái zhēn hǎotīng 。",
+        "content": "刚才在音乐教室里，是谁在弹钢琴？声音听起来真好听。",
+        "pinyin": "Gāngcái zài yīnyuè jiàoshì lǐ ， shì shuí zài dàn gāngqín ？ shēngyīn tīng qǐlái zhēn hǎotīng 。",
         "audio_key": "H5_18_3_1",
         "translations": {
-          "en": "Lili, who was playing the piano in the music classroom just now? It sounded really nice.",
-          "vi": "Lệ Lệ, vừa nãy trong phòng học nhạc, ai đang chơi piano vậy? Nghe hay thật đấy."
+          "en": "Who was playing the piano in the music classroom just now? It sounded really nice.",
+          "vi": "Vừa nãy trong phòng học nhạc, ai đang chơi piano vậy? Nghe hay thật đấy."
         },
         "tokens": [
-          "丽丽",
-          "，",
           "刚才",
           "在",
           "音乐",
@@ -17059,16 +16957,14 @@
       {
         "line_id": 1,
         "speaker": "小王",
-        "content": "王芳，祝贺你顺利通过考试拿到了驾照，现在可以自己开车出门了！",
-        "pinyin": "Wángfāng ， zhùhè nǐ shùnlì tōngguò kǎoshì nádào le jiàzhào ， xiànzài kěyǐ zìjǐ kāichē chūmén le ！",
+        "content": "祝贺你顺利通过考试拿到了驾照，现在可以自己开车出门了！",
+        "pinyin": "Zhùhè nǐ shùnlì tōngguò kǎoshì nádào le jiàzhào ， xiànzài kěyǐ zìjǐ kāichē chūmén le ！",
         "audio_key": "H5_19_1_1",
         "translations": {
-          "en": "Wang Fang, congratulations on passing the exam and getting your driver's license! Now you can drive out by yourself.",
-          "vi": "Vương Phương, chúc mừng cậu đã thi đỗ và lấy được bằng lái xe, giờ cậu có thể tự lái xe ra ngoài rồi!"
+          "en": "Congratulations on passing the exam and getting your driver's license! Now you can drive out by yourself.",
+          "vi": "Chúc mừng cậu đã thi đỗ và lấy được bằng lái xe, giờ cậu có thể tự lái xe ra ngoài rồi!"
         },
         "tokens": [
-          "王芳",
-          "，",
           "祝贺",
           "你",
           "顺利",
@@ -17272,16 +17168,14 @@
       {
         "line_id": 1,
         "speaker": "李伟",
-        "content": "小李，今天早上我开车在路上正常行驶的时候，前面突然堵车了。",
-        "pinyin": "Xiǎolǐ ， jīntiān zǎoshàng wǒ kāichē zài lùshàng zhèngcháng xíngshǐ de shíhòu ， qiánmiàn tūrán dǔchē le 。",
+        "content": "今天早上我开车在路上正常行驶的时候，前面突然堵车了。",
+        "pinyin": "Jīntiān zǎoshàng wǒ kāichē zài lùshàng zhèngcháng xíngshǐ de shíhòu ， qiánmiàn tūrán dǔchē le 。",
         "audio_key": "H5_19_2_1",
         "translations": {
-          "en": "Xiao Li, this morning when I was driving normally on the road, traffic suddenly got jammed ahead.",
-          "vi": "Tiểu Lý, sáng nay khi mình đang lái xe bình thường trên đường, phía trước bỗng nhiên tắc đường."
+          "en": "This morning when I was driving normally on the road, traffic suddenly got jammed ahead.",
+          "vi": "Sáng nay khi mình đang lái xe bình thường trên đường, phía trước bỗng nhiên tắc đường."
         },
         "tokens": [
-          "小李",
-          "，",
           "今天",
           "早上",
           "我",
@@ -17485,16 +17379,14 @@
       {
         "line_id": 1,
         "speaker": "大卫",
-        "content": "丽丽，每个工作日的早上乘坐地铁去上班，人真是太多了。",
-        "pinyin": "Lìlì ， měi gè gōngzuòrì de zǎoshàng chéngzuò dìtiě qù shàngbān ， rén zhēn shì tài duō le 。",
+        "content": "每个工作日的早上乘坐地铁去上班，人真是太多了。",
+        "pinyin": "Měi gè gōngzuòrì de zǎoshàng chéngzuò dìtiě qù shàngbān ， rén zhēn shì tài duō le 。",
         "audio_key": "H5_19_3_1",
         "translations": {
-          "en": "Lili, every weekday morning when I take the subway to work, there are really too many people.",
-          "vi": "Lệ Lệ, sáng nào ngày làm việc mình đi tàu điện ngầm đi làm, người thật là đông."
+          "en": "Every weekday morning when I take the subway to work, there are really too many people.",
+          "vi": "Sáng nào ngày làm việc mình đi tàu điện ngầm đi làm, người thật là đông."
         },
         "tokens": [
-          "丽丽",
-          "，",
           "每",
           "个",
           "工作日",
@@ -17941,16 +17833,14 @@
       {
         "line_id": 1,
         "speaker": "小明",
-        "content": "王芳，我下个月打算出国旅游，现在正在办签证，需要填不少表格。",
-        "pinyin": "Wángfāng ， wǒ xiàgèyuè dǎsuàn chūguó lǚyóu ， xiànzài zhèngzài bàn qiānzhèng ， xūyào tián bùshǎo biǎogé 。",
+        "content": "我下个月打算出国旅游，现在正在办签证，需要填不少表格。",
+        "pinyin": "Wǒ xiàgèyuè dǎsuàn chūguó lǚyóu ， xiànzài zhèngzài bàn qiānzhèng ， xūyào tián bùshǎo biǎogé 。",
         "audio_key": "H5_20_1_1",
         "translations": {
-          "en": "Wang Fang, I'm planning to travel abroad next month. I'm currently applying for a visa and need to fill out quite a few forms.",
-          "vi": "Wang Fang, tháng sau tôi định đi du lịch nước ngoài, hiện đang làm visa, cần điền khá nhiều biểu mẫu."
+          "en": "I'm planning to travel abroad next month. I'm currently applying for a visa and need to fill out quite a few forms.",
+          "vi": "Tháng sau tôi định đi du lịch nước ngoài, hiện đang làm visa, cần điền khá nhiều biểu mẫu."
         },
         "tokens": [
-          "王芳",
-          "，",
           "我",
           "下个月",
           "打算",
@@ -18167,16 +18057,14 @@
       {
         "line_id": 1,
         "speaker": "大卫",
-        "content": "小李，周末我们去城市郊区走一走吧，听说那儿有一座非常著名的传统园林。",
-        "pinyin": "Xiǎolǐ ， zhōumò wǒmen qù chéngshì jiāoqū zǒu yì zǒu ba ， tīngshuō nàér yǒu yí zuò fēicháng zhùmíng de chuántǒng yuánlín 。",
+        "content": "周末我们去城市郊区走一走吧，听说那儿有一座非常著名的传统园林。",
+        "pinyin": "Zhōumò wǒmen qù chéngshì jiāoqū zǒu yì zǒu ba ， tīngshuō nàér yǒu yí zuò fēicháng zhùmíng de chuántǒng yuánlín 。",
         "audio_key": "H5_20_2_1",
         "translations": {
-          "en": "Xiao Li, let's go for a walk in the suburbs this weekend. I heard there's a very famous traditional garden there.",
-          "vi": "Xiao Li, cuối tuần chúng ta đi dạo ở ngoại ô thành phố nhé, nghe nói ở đó có một khu vườn truyền thống rất nổi tiếng."
+          "en": "Let's go for a walk in the suburbs this weekend. I heard there's a very famous traditional garden there.",
+          "vi": "Cuối tuần chúng ta đi dạo ở ngoại ô thành phố nhé, nghe nói ở đó có một khu vườn truyền thống rất nổi tiếng."
         },
         "tokens": [
-          "小李",
-          "，",
           "周末",
           "我们",
           "去",
@@ -18394,16 +18282,14 @@
       {
         "line_id": 1,
         "speaker": "李伟",
-        "content": "丽丽，你们上个月坐火车去旅行，一路上都看到了哪些难忘的风景？",
-        "pinyin": "Lìlì ， nǐmen shànggèyuè zuò huǒchē qù lǚxíng ， yí lùshàng dōu kàndào le něixiē nán wàng de fēngjǐng ？",
+        "content": "你们上个月坐火车去旅行，一路上都看到了哪些难忘的风景？",
+        "pinyin": "Nǐmen shànggèyuè zuò huǒchē qù lǚxíng ， yí lùshàng dōu kàndào le něixiē nán wàng de fēngjǐng ？",
         "audio_key": "H5_20_3_1",
         "translations": {
-          "en": "Lili, you took a train trip last month. What unforgettable scenery did you see along the way?",
-          "vi": "Lili, tháng trước các bạn đi du lịch bằng tàu hỏa, trên đường đã thấy những phong cảnh khó quên nào?"
+          "en": "You took a train trip last month. What unforgettable scenery did you see along the way?",
+          "vi": "Tháng trước các bạn đi du lịch bằng tàu hỏa, trên đường đã thấy những phong cảnh khó quên nào?"
         },
         "tokens": [
-          "丽丽",
-          "，",
           "你们",
           "上个月",
           "坐",
@@ -21489,16 +21375,14 @@
       {
         "line_id": 1,
         "speaker": "小王",
-        "content": "王芳，听说你正在申请公司新开放的那个职位，面试准备得怎么样了？",
-        "pinyin": "Wángfāng ， tīngshuō nǐ zhèngzài shēnqǐng gōngsī xīn kāifàng de nà gè zhíwèi ， miànshì zhǔnbèi dé zěnmeyàng le ？",
+        "content": "听说你正在申请公司新开放的那个职位，面试准备得怎么样了？",
+        "pinyin": "Tīngshuō nǐ zhèngzài shēnqǐng gōngsī xīn kāifàng de nà gè zhíwèi ， miànshì zhǔnbèi dé zěnmeyàng le ？",
         "audio_key": "H5_24_1_1",
         "translations": {
-          "en": "Wang Fang, I heard you're applying for the new position the company just opened up. How's your interview preparation going?",
-          "vi": "Wang Fang, nghe nói cô đang ứng tuyển vị trí mới mà công ty vừa mở. Việc chuẩn bị phỏng vấn thế nào rồi?"
+          "en": "I heard you're applying for the new position the company just opened up. How's your interview preparation going?",
+          "vi": "Nghe nói cô đang ứng tuyển vị trí mới mà công ty vừa mở. Việc chuẩn bị phỏng vấn thế nào rồi?"
         },
         "tokens": [
-          "王芳",
-          "，",
           "听说",
           "你",
           "正在",
@@ -21711,16 +21595,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王经理，今天周末轮到我在办公室值班，您有什么工作要交代吗？",
-        "pinyin": "Wángjīnglǐ ， jīntiān zhōumò lún dào wǒ zài bàngōngshì zhíbān ， nín yǒu shénme gōngzuò yào jiāodài ma ？",
+        "content": "今天周末轮到我在办公室值班，您有什么工作要交代吗？",
+        "pinyin": "Jīntiān zhōumò lún dào wǒ zài bàngōngshì zhíbān ， nín yǒu shénme gōngzuò yào jiāodài ma ？",
         "audio_key": "H5_24_2_1",
         "translations": {
-          "en": "Manager Wang, it's my turn to be on duty at the office this weekend. Do you have any work to assign me?",
-          "vi": "Giám đốc Wang, cuối tuần này đến lượt tôi trực văn phòng. Ngài có công việc gì cần giao không ạ?"
+          "en": "It's my turn to be on duty at the office this weekend. Do you have any work to assign me?",
+          "vi": "Cuối tuần này đến lượt tôi trực văn phòng. Ngài có công việc gì cần giao không ạ?"
         },
         "tokens": [
-          "王经理",
-          "，",
           "今天",
           "周末",
           "轮",
@@ -21743,16 +21625,14 @@
       {
         "line_id": 2,
         "speaker": "王经理",
-        "content": "小李，你真是我的好助手！一会儿有人送文件来，你帮我签一下字。",
-        "pinyin": "Xiǎolǐ ， nǐ zhēn shì wǒ de hǎo zhùshǒu ！ yīhuìer yǒurén sòng wénjiàn lái ， nǐ bāng wǒ qiān yīxià zì 。",
+        "content": "你真是我的好助手！一会儿有人送文件来，你帮我签一下字。",
+        "pinyin": "Nǐ zhēn shì wǒ de hǎo zhùshǒu ！ yīhuìer yǒurén sòng wénjiàn lái ， nǐ bāng wǒ qiān yīxià zì 。",
         "audio_key": "H5_24_2_2",
         "translations": {
-          "en": "Xiao Li, you're really my good assistant! Someone will bring some documents later; please sign for me.",
-          "vi": "Xiao Li, cậu đúng là trợ lý tốt của tôi! Lát nữa sẽ có người mang tài liệu đến, cậu ký giúp tôi nhé."
+          "en": "You're really my good assistant! Someone will bring some documents later; please sign for me.",
+          "vi": "Cậu đúng là trợ lý tốt của tôi! Lát nữa sẽ có người mang tài liệu đến, cậu ký giúp tôi nhé."
         },
         "tokens": [
-          "小李",
-          "，",
           "你",
           "真",
           "是",
@@ -21941,16 +21821,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，听说你们部门最近人员变动挺大的，老张怎么突然辞职了？",
-        "pinyin": "Lǐwěi ， tīngshuō nǐmen bùmén zuìjìn rényuán biàndòng tǐng dà de ， lǎo zhāng zěnme tūrán cízhí le ？",
+        "content": "听说你们部门最近人员变动挺大的，老张怎么突然辞职了？",
+        "pinyin": "Tīngshuō nǐmen bùmén zuìjìn rényuán biàndòng tǐng dà de ， lǎo zhāng zěnme tūrán cízhí le ？",
         "audio_key": "H5_24_3_1",
         "translations": {
-          "en": "Li Wei, I heard your department has had a lot of personnel changes recently. Why did Lao Zhang suddenly resign?",
-          "vi": "Li Wei, nghe nói phòng anh dạo này thay đổi nhân sự nhiều lắm. Sao anh Zhang đột nhiên nghỉ việc vậy?"
+          "en": "I heard your department has had a lot of personnel changes recently. Why did Lao Zhang suddenly resign?",
+          "vi": "Nghe nói phòng anh dạo này thay đổi nhân sự nhiều lắm. Sao anh Zhang đột nhiên nghỉ việc vậy?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "听说",
           "你们",
           "部门",
@@ -22375,16 +22253,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王经理，今天下午那位重要客户就要来谈合作了，合同准备好了吗？",
-        "pinyin": "Wángjīnglǐ ， jīntiān xiàwǔ nà wèi zhòngyào kèhù jiùyào lái tán hézuò le ， hétóng zhǔnbèi hǎo le ma ？",
+        "content": "今天下午那位重要客户就要来谈合作了，合同准备好了吗？",
+        "pinyin": "Jīntiān xiàwǔ nà wèi zhòngyào kèhù jiùyào lái tán hézuò le ， hétóng zhǔnbèi hǎo le ma ？",
         "audio_key": "H5_25_1_1",
         "translations": {
-          "en": "Manager Wang, that important client is coming this afternoon to discuss cooperation. Is the contract ready?",
-          "vi": "Quản lý Vương, chiều nay vị khách hàng quan trọng đó sẽ đến bàn hợp tác. Hợp đồng đã chuẩn bị xong chưa ạ?"
+          "en": "That important client is coming this afternoon to discuss cooperation. Is the contract ready?",
+          "vi": "Chiều nay vị khách hàng quan trọng đó sẽ đến bàn hợp tác. Hợp đồng đã chuẩn bị xong chưa ạ?"
         },
         "tokens": [
-          "王经理",
-          "，",
           "今天",
           "下午",
           "那",
@@ -22597,16 +22473,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，上午你们跟外地客户的那场商务会谈进行得顺利吗？",
-        "pinyin": "Lǐwěi ， shàngwǔ nǐmen gēn wàidì kèhù de nà chǎng shāngwù huìtán jìnxíng dé shùnlì ma ？",
+        "content": "上午你们跟外地客户的那场商务会谈进行得顺利吗？",
+        "pinyin": "Shàngwǔ nǐmen gēn wàidì kèhù de nà chǎng shāngwù huìtán jìnxíng dé shùnlì ma ？",
         "audio_key": "H5_25_2_1",
         "translations": {
-          "en": "Li Wei, did your business meeting with the out-of-town client go smoothly this morning?",
-          "vi": "Lý Vĩ, buổi hội đàm thương mại với khách hàng ngoại tỉnh sáng nay của anh có diễn ra suôn sẻ không?"
+          "en": "Did your business meeting with the out-of-town client go smoothly this morning?",
+          "vi": "Buổi hội đàm thương mại với khách hàng ngoại tỉnh sáng nay của anh có diễn ra suôn sẻ không?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "上午",
           "你们",
           "跟",
@@ -22808,16 +22682,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，听说这个月我们城市要举行一场大型的国际贸易博览会？",
-        "pinyin": "Dàwèi ， tīngshuō zhè gè yuè wǒmen chéngshì yào jǔxíng yì chǎng dàxíng de guójì màoyì bólǎnhuì ？",
+        "content": "听说这个月我们城市要举行一场大型的国际贸易博览会？",
+        "pinyin": "Tīngshuō zhè gè yuè wǒmen chéngshì yào jǔxíng yì chǎng dàxíng de guójì màoyì bólǎnhuì ？",
         "audio_key": "H5_25_3_1",
         "translations": {
-          "en": "David, I heard that a large international trade expo will be held in our city this month?",
-          "vi": "David, nghe nói tháng này thành phố chúng ta sẽ tổ chức một hội chợ triển lãm thương mại quốc tế quy mô lớn phải không?"
+          "en": "I heard that a large international trade expo will be held in our city this month?",
+          "vi": "Nghe nói tháng này thành phố chúng ta sẽ tổ chức một hội chợ triển lãm thương mại quốc tế quy mô lớn phải không?"
         },
         "tokens": [
-          "大卫",
-          "，",
           "听说",
           "这",
           "个",
@@ -23246,16 +23118,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，你们这家大型科技集团是哪一年创立的？现在发展得真好啊。",
-        "pinyin": "Lǐwěi ， nǐmen zhè jiā dàxíng kējì jítuán shì nǎ yì nián chuànglì de ？ xiànzài fāzhǎn dé zhēn hǎo a 。",
+        "content": "你们这家大型科技集团是哪一年创立的？现在发展得真好啊。",
+        "pinyin": "Nǐmen zhè jiā dàxíng kējì jítuán shì nǎ yì nián chuànglì de ？ xiànzài fāzhǎn dé zhēn hǎo a 。",
         "audio_key": "H5_26_1_1",
         "translations": {
-          "en": "Li Wei, when was your large technology group founded? It's developing really well now.",
-          "vi": "Lý Vĩ, tập đoàn công nghệ lớn của anh được thành lập vào năm nào vậy? Hiện nay phát triển thật tốt."
+          "en": "When was your large technology group founded? It's developing really well now.",
+          "vi": "Tập đoàn công nghệ lớn của anh được thành lập vào năm nào vậy? Hiện nay phát triển thật tốt."
         },
         "tokens": [
-          "李伟",
-          "，",
           "你们",
           "这",
           "家",
@@ -23465,16 +23335,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王经理，近来我们行业里的变化真大，听说有两家大公司要合并了？",
-        "pinyin": "Wángjīnglǐ ， jìnlái wǒmen hángyè lǐ de biànhuà zhēn dà ， tīngshuō yǒu liǎng jiā dà gōngsī yào hébìng le ？",
+        "content": "近来我们行业里的变化真大，听说有两家大公司要合并了？",
+        "pinyin": "Jìnlái wǒmen hángyè lǐ de biànhuà zhēn dà ， tīngshuō yǒu liǎng jiā dà gōngsī yào hébìng le ？",
         "audio_key": "H5_26_2_1",
         "translations": {
-          "en": "Manager Wang, there have been huge changes in our industry recently. I heard that two large companies are going to merge?",
-          "vi": "Giám đốc Vương, gần đây ngành của chúng ta thay đổi lớn thật, nghe nói có hai công ty lớn sắp sáp nhập phải không?"
+          "en": "There have been huge changes in our industry recently. I heard that two large companies are going to merge?",
+          "vi": "Gần đây ngành của chúng ta thay đổi lớn thật, nghe nói có hai công ty lớn sắp sáp nhập phải không?"
         },
         "tokens": [
-          "王经理",
-          "，",
           "近来",
           "我们",
           "行业",
@@ -23673,16 +23541,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，听说那家小工厂为了跟别人抢客户，把产品价格降得特别低？",
-        "pinyin": "Lǐwěi ， tīngshuō nà jiā xiǎo gōngchǎng wèile gēn biérén qiǎng kèhù ， bǎ chǎnpǐn jiàgé jiàng dé tèbié dī ？",
+        "content": "听说那家小工厂为了跟别人抢客户，把产品价格降得特别低？",
+        "pinyin": "Tīngshuō nà jiā xiǎo gōngchǎng wèile gēn biérén qiǎng kèhù ， bǎ chǎnpǐn jiàgé jiàng dé tèbié dī ？",
         "audio_key": "H5_26_3_1",
         "translations": {
-          "en": "Li Wei, I heard that small factory lowered its product prices extremely low to compete for customers with others?",
-          "vi": "Lý Vĩ, nghe nói nhà máy nhỏ đó để tranh khách với người khác mà giảm giá sản phẩm xuống rất thấp phải không?"
+          "en": "I heard that small factory lowered its product prices extremely low to compete for customers with others?",
+          "vi": "Nghe nói nhà máy nhỏ đó để tranh khách với người khác mà giảm giá sản phẩm xuống rất thấp phải không?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "听说",
           "那",
           "家",
@@ -24117,16 +23983,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，你今天去银行办汇款和存款了吗？",
-        "pinyin": "Lǐwěi ， nǐ jīntiān qù yínháng bàn huìkuǎn hé cúnkuǎn le ma ？",
+        "content": "你今天去银行办汇款和存款了吗？",
+        "pinyin": "Nǐ jīntiān qù yínháng bàn huìkuǎn hé cúnkuǎn le ma ？",
         "audio_key": "H5_27_1_1",
         "translations": {
-          "en": "Li Wei, did you go to the bank today to handle the remittance and deposit?",
-          "vi": "Lý Vĩ, hôm nay anh đã đến ngân hàng làm thủ tục chuyển tiền và gửi tiền chưa?"
+          "en": "Did you go to the bank today to handle the remittance and deposit?",
+          "vi": "Hôm nay anh đã đến ngân hàng làm thủ tục chuyển tiền và gửi tiền chưa?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "你",
           "今天",
           "去",
@@ -24326,16 +24190,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王经理，集团今年刚设立的这项基金，主要用来做什么？",
-        "pinyin": "Wángjīnglǐ ， jítuán jīnnián gāng shèlì de zhè xiàng jījīn ， zhǔyào yònglái zuò shénme ？",
+        "content": "集团今年刚设立的这项基金，主要用来做什么？",
+        "pinyin": "Jítuán jīnnián gāng shèlì de zhè xiàng jījīn ， zhǔyào yònglái zuò shénme ？",
         "audio_key": "H5_27_2_1",
         "translations": {
-          "en": "Manager Wang, what is this fund that the group just established this year mainly used for?",
-          "vi": "Giám đốc Vương, quỹ mà tập đoàn mới thành lập năm nay chủ yếu dùng để làm gì ạ?"
+          "en": "What is this fund that the group just established this year mainly used for?",
+          "vi": "Quỹ mà tập đoàn mới thành lập năm nay chủ yếu dùng để làm gì ạ?"
         },
         "tokens": [
-          "王经理",
-          "，",
           "集团",
           "今年",
           "刚",
@@ -24518,16 +24380,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，你发现没有？最近超市里的蔬菜和水果又涨价了。",
-        "pinyin": "Dàwèi ， nǐ fāxiàn méiyǒu ？ zuìjìn chāoshì lǐ de shūcài hé shuǐguǒ yòu zhǎngjià le 。",
+        "content": "你发现没有？最近超市里的蔬菜和水果又涨价了。",
+        "pinyin": "Nǐ fāxiàn méiyǒu ？ zuìjìn chāoshì lǐ de shūcài hé shuǐguǒ yòu zhǎngjià le 。",
         "audio_key": "H5_27_3_1",
         "translations": {
-          "en": "David, have you noticed? Vegetables and fruits in the supermarket have gone up in price again recently.",
-          "vi": "David, anh có để ý không? Dạo này rau củ và trái cây trong siêu thị lại tăng giá rồi."
+          "en": "Have you noticed? Vegetables and fruits in the supermarket have gone up in price again recently.",
+          "vi": "Anh có để ý không? Dạo này rau củ và trái cây trong siêu thị lại tăng giá rồi."
         },
         "tokens": [
-          "大卫",
-          "，",
           "你",
           "发现",
           "没有",
@@ -24954,16 +24814,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，听说新来的厂长今天上午去检查生产车间和车库了？",
-        "pinyin": "Lǐwěi ， tīngshuō xīn lái de chǎngzhǎng jīntiān shàngwǔ qù jiǎnchá shēngchǎn chē jiān hé chē kù le ？",
+        "content": "听说新来的厂长今天上午去检查生产车间和车库了？",
+        "pinyin": "Tīngshuō xīn lái de chǎngzhǎng jīntiān shàngwǔ qù jiǎnchá shēngchǎn chē jiān hé chē kù le ？",
         "audio_key": "H5_28_1_1",
         "translations": {
-          "en": "Li Wei, I heard the new factory director went to inspect the production workshop and garage this morning?",
-          "vi": "Lý Vĩ, nghe nói giám đốc nhà máy mới sáng nay đi kiểm tra phân xưởng sản xuất và nhà xe rồi?"
+          "en": "I heard the new factory director went to inspect the production workshop and garage this morning?",
+          "vi": "Nghe nói giám đốc nhà máy mới sáng nay đi kiểm tra phân xưởng sản xuất và nhà xe rồi?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "听说",
           "新",
           "来",
@@ -25162,16 +25020,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，你看书桌上这个漂亮的木头盒，知道是谁做的吗？",
-        "pinyin": "Dàwèi ， nǐ kàn shūzhuō shàng zhè gè piàoliàng de mùtou hé ， zhīdào shì shuí zuò de ma ？",
+        "content": "你看书桌上这个漂亮的木头盒，知道是谁做的吗？",
+        "pinyin": "Nǐ kàn shūzhuō shàng zhè gè piàoliàng de mùtou hé ， zhīdào shì shuí zuò de ma ？",
         "audio_key": "H5_28_2_1",
         "translations": {
-          "en": "David, do you see this beautiful wooden box on the desk? Do you know who made it?",
-          "vi": "David, cậu có thấy chiếc hộp gỗ xinh xắn trên bàn học này không? Cậu biết ai làm ra nó không?"
+          "en": "Do you see this beautiful wooden box on the desk? Do you know who made it?",
+          "vi": "Cậu có thấy chiếc hộp gỗ xinh xắn trên bàn học này không? Cậu biết ai làm ra nó không?"
         },
         "tokens": [
-          "大卫",
-          "，",
           "你",
           "看",
           "书桌",
@@ -25385,16 +25241,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王经理，那边的一些老房子为什么要全部拆除呢？",
-        "pinyin": "Wángjīnglǐ ， nàbiān de yīxiē lǎo fángzi wèishénme yào quánbù chāichú ne ？",
+        "content": "那边的一些老房子为什么要全部拆除呢？",
+        "pinyin": "Nàbiān de yīxiē lǎo fángzi wèishénme yào quánbù chāichú ne ？",
         "audio_key": "H5_28_3_1",
         "translations": {
-          "en": "Manager Wang, why do all those old houses over there need to be demolished?",
-          "vi": "Giám đốc Vương, tại sao những ngôi nhà cũ ở đằng kia lại phải phá bỏ hết ạ?"
+          "en": "Why do all those old houses over there need to be demolished?",
+          "vi": "Tại sao những ngôi nhà cũ ở đằng kia lại phải phá bỏ hết ạ?"
         },
         "tokens": [
-          "王经理",
-          "，",
           "那边",
           "的",
           "一些",
@@ -25807,16 +25661,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "小明，你昨天晚上去参加学校的天文观察活动了吗？",
-        "pinyin": "Xiǎomíng ， nǐ zuótiān wǎn shǎngqù cānjiā xuéxiào de tiānwén guānchá huódòng le ma ？",
+        "content": "你昨天晚上去参加学校的天文观察活动了吗？",
+        "pinyin": "Nǐ zuótiān wǎn shǎngqù cānjiā xuéxiào de tiānwén guānchá huódòng le ma ？",
         "audio_key": "H5_29_1_1",
         "translations": {
-          "en": "Xiaoming, did you go to the school's astronomy observation activity last night?",
-          "vi": "Tiểu Minh, tối qua em có đi tham gia hoạt động quan sát thiên văn của trường không?"
+          "en": "Did you go to the school's astronomy observation activity last night?",
+          "vi": "Tối qua em có đi tham gia hoạt động quan sát thiên văn của trường không?"
         },
         "tokens": [
-          "小明",
-          "，",
           "你",
           "昨天",
           "晚",
@@ -26014,16 +25866,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "张老师，实验室新开发的这种机器人，已经申请国家专利了吗？",
-        "pinyin": "Zhānglǎoshī ， shíyànshì xīn kāifā de zhè zhǒng jīqìrén ， yǐjīng shēnqǐng guójiā zhuānlì le ma ？",
+        "content": "实验室新开发的这种机器人，已经申请国家专利了吗？",
+        "pinyin": "Shíyànshì xīn kāifā de zhè zhǒng jīqìrén ， yǐjīng shēnqǐng guójiā zhuānlì le ma ？",
         "audio_key": "H5_29_2_1",
         "translations": {
-          "en": "Teacher Zhang, has this robot newly developed by the lab already applied for a national patent?",
-          "vi": "Thầy Trương, loại robot mới được phòng thí nghiệm phát triển này đã xin cấp bằng sáng chế quốc gia chưa ạ?"
+          "en": "Has this robot newly developed by the lab already applied for a national patent?",
+          "vi": "Loại robot mới được phòng thí nghiệm phát triển này đã xin cấp bằng sáng chế quốc gia chưa ạ?"
         },
         "tokens": [
-          "张老师",
-          "，",
           "实验室",
           "新",
           "开发",
@@ -26217,16 +26067,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，你们团队之前提出的那个科学实验设想，现在进展得怎么样了？",
-        "pinyin": "Lǐwěi ， nǐmen tuán duì zhīqián tíchū de nà gè kēxué shíyàn shèxiǎng ， xiànzài jìnzhǎn dé zěnmeyàng le ？",
+        "content": "你们团队之前提出的那个科学实验设想，现在进展得怎么样了？",
+        "pinyin": "Nǐmen tuán duì zhīqián tíchū de nà gè kēxué shíyàn shèxiǎng ， xiànzài jìnzhǎn dé zěnmeyàng le ？",
         "audio_key": "H5_29_3_1",
         "translations": {
-          "en": "Li Wei, how is the scientific experiment idea your team proposed earlier progressing now?",
-          "vi": "Lý Vĩ, ý tưởng thí nghiệm khoa học mà nhóm anh đề xuất trước đây giờ tiến triển thế nào rồi?"
+          "en": "How is the scientific experiment idea your team proposed earlier progressing now?",
+          "vi": "Ý tưởng thí nghiệm khoa học mà nhóm anh đề xuất trước đây giờ tiến triển thế nào rồi?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "你们",
           "团",
           "队",
@@ -26649,16 +26497,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，你们公司最近怎么安排大家学习国家的法律和法规呢？",
-        "pinyin": "Dàwèi ， nǐmen gōngsī zuìjìn zěnme ānpái dàjiā xuéxí guójiā de fǎlǜ hé fǎguī ne ？",
+        "content": "你们公司最近怎么安排大家学习国家的法律和法规呢？",
+        "pinyin": "Nǐmen gōngsī zuìjìn zěnme ānpái dàjiā xuéxí guójiā de fǎlǜ hé fǎguī ne ？",
         "audio_key": "H5_30_1_1",
         "translations": {
-          "en": "David, how is your company arranging for everyone to learn national laws and regulations these days?",
-          "vi": "David, dạo này công ty của anh sắp xếp cho mọi người học luật pháp và quy định của nhà nước như thế nào?"
+          "en": "How is your company arranging for everyone to learn national laws and regulations these days?",
+          "vi": "Dạo này công ty của anh sắp xếp cho mọi người học luật pháp và quy định của nhà nước như thế nào?"
         },
         "tokens": [
-          "大卫",
-          "，",
           "你们",
           "公司",
           "最近",
@@ -26854,16 +26700,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，你看今天的新闻了吗？有关部门正在严厉打击生产假药的违法行为。",
-        "pinyin": "Lǐwěi ， nǐ kàn jīntiān de xīnwén le ma ？ yǒu guān bùmén zhèngzài yánlì dǎjī shēngchǎn jiǎ yào de wéifǎ xíngwéi 。",
+        "content": "你看今天的新闻了吗？有关部门正在严厉打击生产假药的违法行为。",
+        "pinyin": "Nǐ kàn jīntiān de xīnwén le ma ？ yǒu guān bùmén zhèngzài yánlì dǎjī shēngchǎn jiǎ yào de wéifǎ xíngwéi 。",
         "audio_key": "H5_30_2_1",
         "translations": {
-          "en": "Li Wei, have you seen today's news? The relevant departments are cracking down hard on the illegal production of fake medicine.",
-          "vi": "Lý Vĩ, anh xem tin tức hôm nay chưa? Các cơ quan liên quan đang mạnh tay trấn áp hành vi sản xuất thuốc giả trái pháp luật."
+          "en": "Have you seen today's news? The relevant departments are cracking down hard on the illegal production of fake medicine.",
+          "vi": "Anh xem tin tức hôm nay chưa? Các cơ quan liên quan đang mạnh tay trấn áp hành vi sản xuất thuốc giả trái pháp luật."
         },
         "tokens": [
-          "李伟",
-          "，",
           "你",
           "看",
           "今天",
@@ -27067,16 +26911,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王经理，听说总公司今天下午发出了正式的处分令，是真的吗？",
-        "pinyin": "Wángjīnglǐ ， tīngshuō zǒng gōngsī jīntiān xiàwǔ fāchū le zhèngshì de chǔfèn lìng ， shì zhēnde ma ？",
+        "content": "听说总公司今天下午发出了正式的处分令，是真的吗？",
+        "pinyin": "Tīngshuō zǒng gōngsī jīntiān xiàwǔ fāchū le zhèngshì de chǔfèn lìng ， shì zhēnde ma ？",
         "audio_key": "H5_30_3_1",
         "translations": {
-          "en": "Manager Wang, I heard the head office issued a formal disciplinary order this afternoon. Is it true?",
-          "vi": "Giám đốc Vương, nghe nói tổng công ty chiều nay đã ban hành lệnh xử phạt chính thức, có thật không ạ?"
+          "en": "I heard the head office issued a formal disciplinary order this afternoon. Is it true?",
+          "vi": "Nghe nói tổng công ty chiều nay đã ban hành lệnh xử phạt chính thức, có thật không ạ?"
         },
         "tokens": [
-          "王经理",
-          "，",
           "听说",
           "总",
           "公司",
@@ -27501,16 +27343,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，今天参观历史展览，哪一段历史故事给你的印象最深？",
-        "pinyin": "Lǐwěi ， jīntiān cānguān lìshǐ zhǎnlǎn ， nǎ yí duàn lìshǐ gùshì gěi nǐ de yìnxiàng zuì shēn ？",
+        "content": "今天参观历史展览，哪一段历史故事给你的印象最深？",
+        "pinyin": "Jīntiān cānguān lìshǐ zhǎnlǎn ， nǎ yí duàn lìshǐ gùshì gěi nǐ de yìnxiàng zuì shēn ？",
         "audio_key": "H5_31_1_1",
         "translations": {
-          "en": "Li Wei, which historical story from today's history exhibition left the deepest impression on you?",
-          "vi": "Lý Vĩ, hôm nay tham quan triển lãm lịch sử, câu chuyện lịch sử nào để lại ấn tượng sâu sắc nhất với anh?"
+          "en": "Which historical story from today's history exhibition left the deepest impression on you?",
+          "vi": "Hôm nay tham quan triển lãm lịch sử, câu chuyện lịch sử nào để lại ấn tượng sâu sắc nhất với anh?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "今天",
           "参观",
           "历史",
@@ -27710,16 +27550,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "小明，听说你们大学生今年夏天去基地参加训练，还体验了用真枪把子弹射出去？",
-        "pinyin": "Xiǎomíng ， tīngshuō nǐmen dàxuéshēng jīnnián xiàtiān qù jīdì cānjiā xùnliàn ， hái tǐyàn le yòng zhēn qiāng bǎ zǐdàn shè chūqù ？",
+        "content": "听说你们大学生今年夏天去基地参加训练，还体验了用真枪把子弹射出去？",
+        "pinyin": "Tīngshuō nǐmen dàxuéshēng jīnnián xiàtiān qù jīdì cānjiā xùnliàn ， hái tǐyàn le yòng zhēn qiāng bǎ zǐdàn shè chūqù ？",
         "audio_key": "H5_31_2_1",
         "translations": {
-          "en": "Xiaoming, I heard that you university students went to the base for training this summer and even experienced firing real bullets from real guns?",
-          "vi": "Tiểu Minh, nghe nói mùa hè năm nay các bạn sinh viên đại học đã đến căn cứ tham gia huấn luyện, còn trải nghiệm dùng súng thật bắn đạn ra nữa?"
+          "en": "I heard that you university students went to the base for training this summer and even experienced firing real bullets from real guns?",
+          "vi": "Nghe nói mùa hè năm nay các bạn sinh viên đại học đã đến căn cứ tham gia huấn luyện, còn trải nghiệm dùng súng thật bắn đạn ra nữa?"
         },
         "tokens": [
-          "小明",
-          "，",
           "听说",
           "你们",
           "大学生",
@@ -28361,16 +28199,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，你手里拿着的那封信，是从老家寄来的吗？",
-        "pinyin": "Lǐwěi ， nǐ shǒulǐ ná zhe de nà fēng xìn ， shì cóng lǎojiā jì lái de ma ？",
+        "content": "你手里拿着的那封信，是从老家寄来的吗？",
+        "pinyin": "Nǐ shǒulǐ ná zhe de nà fēng xìn ， shì cóng lǎojiā jì lái de ma ？",
         "audio_key": "H5_32_1_1",
         "translations": {
-          "en": "Li Wei, is that letter in your hand sent from your hometown?",
-          "vi": "Lý Vĩ, lá thư bạn đang cầm trên tay là gửi từ quê đến phải không?"
+          "en": "Is that letter in your hand sent from your hometown?",
+          "vi": "Lá thư bạn đang cầm trên tay là gửi từ quê đến phải không?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "你",
           "手里",
           "拿",
@@ -28579,16 +28415,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "大卫，你在社区墙上贴的是什么启事呀？",
-        "pinyin": "Dàwèi ， nǐ zài shèqū qiáng shàng tiē de shì shénme qǐshì ya ？",
+        "content": "你在社区墙上贴的是什么启事呀？",
+        "pinyin": "Nǐ zài shèqū qiáng shàng tiē de shì shénme qǐshì ya ？",
         "audio_key": "H5_32_2_1",
         "translations": {
-          "en": "David, what kind of notice did you put up on the community wall?",
-          "vi": "David, bạn dán thông báo gì trên tường khu dân cư thế?"
+          "en": "What kind of notice did you put up on the community wall?",
+          "vi": "Bạn dán thông báo gì trên tường khu dân cư thế?"
         },
         "tokens": [
-          "大卫",
-          "，",
           "你",
           "在",
           "社区",
@@ -28805,16 +28639,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "小明，你今天去城里买东西，怎么这么晚才回来？",
-        "pinyin": "Xiǎomíng ， nǐ jīntiān qù chénglǐ mǎi dōngxī ， zěnme zhème wǎn cái huílái ？",
+        "content": "你今天去城里买东西，怎么这么晚才回来？",
+        "pinyin": "Nǐ jīntiān qù chénglǐ mǎi dōngxī ， zěnme zhème wǎn cái huílái ？",
         "audio_key": "H5_32_3_1",
         "translations": {
-          "en": "Xiaoming, you went to town to buy things today. How come you're back so late?",
-          "vi": "Tiểu Minh, hôm nay bạn vào thành phố mua đồ, sao về muộn thế?"
+          "en": "You went to town to buy things today. How come you're back so late?",
+          "vi": "Hôm nay bạn vào thành phố mua đồ, sao về muộn thế?"
         },
         "tokens": [
-          "小明",
-          "，",
           "你",
           "今天",
           "去",
@@ -29244,16 +29076,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，院子里那几个大箱子太重了，光靠你一个人放在肩上怎么行？",
-        "pinyin": "Lǐwěi ， yuànzi lǐ nà jǐ gè dà xiāngzi tài zhòng le ， guāng kào nǐ yí gèrén fàng zài jiān shàng zěnme xíng ？",
+        "content": "院子里那几个大箱子太重了，光靠你一个人放在肩上怎么行？",
+        "pinyin": "Yuànzi lǐ nà jǐ gè dà xiāngzi tài zhòng le ， guāng kào nǐ yí gèrén fàng zài jiān shàng zěnme xíng ？",
         "audio_key": "H5_33_1_1",
         "translations": {
-          "en": "Li Wei, those big boxes in the yard are too heavy. How can you carry one on your shoulder all by yourself?",
-          "vi": "Lý Vĩ, mấy cái thùng lớn trong sân nặng quá, chỉ dựa vào một mình anh mà vác lên vai thì sao được?"
+          "en": "Those big boxes in the yard are too heavy. How can you carry one on your shoulder all by yourself?",
+          "vi": "Mấy cái thùng lớn trong sân nặng quá, chỉ dựa vào một mình anh mà vác lên vai thì sao được?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "院子",
           "里",
           "那",
@@ -29458,16 +29288,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，难得周末这么闲，你怎么还在院子里拔草呢？",
-        "pinyin": "Dàwèi ， nánde zhōumò zhème xián ， nǐ zěnme hái zài yuànzi lǐ bá cǎo ne ？",
+        "content": "难得周末这么闲，你怎么还在院子里拔草呢？",
+        "pinyin": "Nánde zhōumò zhème xián ， nǐ zěnme hái zài yuànzi lǐ bá cǎo ne ？",
         "audio_key": "H5_33_2_1",
         "translations": {
-          "en": "David, it's rare to have such a free weekend. Why are you still pulling weeds in the yard?",
-          "vi": "David, hiếm có cuối tuần nào rảnh rỗi thế này, sao anh vẫn còn nhổ cỏ trong sân vậy?"
+          "en": "It's rare to have such a free weekend. Why are you still pulling weeds in the yard?",
+          "vi": "Hiếm có cuối tuần nào rảnh rỗi thế này, sao anh vẫn còn nhổ cỏ trong sân vậy?"
         },
         "tokens": [
-          "大卫",
-          "，",
           "难得",
           "周末",
           "这么",
@@ -29689,16 +29517,14 @@
       {
         "line_id": 1,
         "speaker": "小王",
-        "content": "小李，刚才我去张老师办公室交报告，轻轻敲了三下门才进去。",
-        "pinyin": "Xiǎolǐ ， gāngcái wǒ qù zhānglǎoshī bàngōngshì jiāo bàogào ， qīng qīng qiāo le sān xià mén cái jìnqù 。",
+        "content": "刚才我去张老师办公室交报告，轻轻敲了三下门才进去。",
+        "pinyin": "Gāngcái wǒ qù zhānglǎoshī bàngōngshì jiāo bàogào ， qīng qīng qiāo le sān xià mén cái jìnqù 。",
         "audio_key": "H5_33_3_1",
         "translations": {
-          "en": "Xiao Li, just now I went to Teacher Zhang's office to hand in my report. I knocked lightly three times before going in.",
-          "vi": "Tiểu Lý, vừa nãy tôi đến phòng làm việc của thầy Trương nộp báo cáo, gõ nhẹ ba cái rồi mới vào."
+          "en": "Just now I went to Teacher Zhang's office to hand in my report. I knocked lightly three times before going in.",
+          "vi": "Vừa nãy tôi đến phòng làm việc của thầy Trương nộp báo cáo, gõ nhẹ ba cái rồi mới vào."
         },
         "tokens": [
-          "小李",
-          "，",
           "刚才",
           "我",
           "去",
@@ -30093,22 +29919,20 @@
       "动员",
       "自愿",
       "收集",
-      "贈送"
+      "赠送"
     ],
     "lines": [
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，听说你们学校的读书社最近正在组织一次帮助别人的活动？",
-        "pinyin": "Lǐwěi ， tīngshuō nǐmen xuéxiào de dúshū shè zuìjìn zhèngzài zǔzhī yí cì bāngzhù biérén de huódòng ？",
+        "content": "听说你们学校的读书社最近正在组织一次帮助别人的活动？",
+        "pinyin": "Tīngshuō nǐmen xuéxiào de dúshū shè zuìjìn zhèngzài zǔzhī yí cì bāngzhù biérén de huódòng ？",
         "audio_key": "H5_34_1_1",
         "translations": {
-          "en": "Li Wei, I heard that your school's reading club is organizing an activity to help others recently?",
-          "vi": "Lý Vĩ, nghe nói câu lạc bộ đọc sách của trường các bạn dạo này đang tổ chức một hoạt động giúp đỡ người khác phải không?"
+          "en": "I heard that your school's reading club is organizing an activity to help others recently?",
+          "vi": "Nghe nói câu lạc bộ đọc sách của trường các bạn dạo này đang tổ chức một hoạt động giúp đỡ người khác phải không?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "听说",
           "你们",
           "学校",
@@ -30302,16 +30126,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王经理，咱们社区今年的社会福利计划好像比往年更加完善了。",
-        "pinyin": "Wángjīnglǐ ， zánmen shèqū jīnnián de shèhuì fúlì jìhuà hǎoxiàng bǐ wǎng nián gèngjiā wánshàn le 。",
+        "content": "咱们社区今年的社会福利计划好像比往年更加完善了。",
+        "pinyin": "Zánmen shèqū jīnnián de shèhuì fúlì jìhuà hǎoxiàng bǐ wǎng nián gèngjiā wánshàn le 。",
         "audio_key": "H5_34_2_1",
         "translations": {
-          "en": "Manager Wang, it seems our community's social welfare plan this year is more comprehensive than in previous years.",
-          "vi": "Giám đốc Vương, kế hoạch phúc lợi xã hội năm nay của cộng đồng chúng ta hình như hoàn thiện hơn so với những năm trước."
+          "en": "It seems our community's social welfare plan this year is more comprehensive than in previous years.",
+          "vi": "Kế hoạch phúc lợi xã hội năm nay của cộng đồng chúng ta hình như hoàn thiện hơn so với những năm trước."
         },
         "tokens": [
-          "王经理",
-          "，",
           "咱们",
           "社区",
           "今年",
@@ -30492,16 +30314,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "大卫，你觉得现代社会中女性和男性的工作机会一样多吗？",
-        "pinyin": "Dàwèi ， nǐ juéde xiàndài shèhuì zhōng nǚxìng hé nánxìng de gōngzuò jīhuì yīyàng duō ma ？",
+        "content": "你觉得现代社会中女性和男性的工作机会一样多吗？",
+        "pinyin": "Nǐ juéde xiàndài shèhuì zhōng nǚxìng hé nánxìng de gōngzuò jīhuì yīyàng duō ma ？",
         "audio_key": "H5_34_3_1",
         "translations": {
-          "en": "David, do you think women and men have equal job opportunities in modern society?",
-          "vi": "David, bạn có nghĩ trong xã hội hiện đại, cơ hội việc làm của nữ giới và nam giới là như nhau không?"
+          "en": "Do you think women and men have equal job opportunities in modern society?",
+          "vi": "Bạn có nghĩ trong xã hội hiện đại, cơ hội việc làm của nữ giới và nam giới là như nhau không?"
         },
         "tokens": [
-          "大卫",
-          "，",
           "你",
           "觉得",
           "现代",
@@ -30905,16 +30725,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "小明，你最近脸色不太好，是不是晚上又过度玩手机，睡得太晚了？",
-        "pinyin": "Xiǎomíng ， nǐ zuìjìn liǎnsè bùtài hǎo ， shìbúshì wǎnshàng yòu guòdù wán shǒujī ， shuì dé tài wǎn le ？",
+        "content": "你最近脸色不太好，是不是晚上又过度玩手机，睡得太晚了？",
+        "pinyin": "Nǐ zuìjìn liǎnsè bùtài hǎo ， shìbúshì wǎnshàng yòu guòdù wán shǒujī ， shuì dé tài wǎn le ？",
         "audio_key": "H5_35_1_1",
         "translations": {
-          "en": "Xiaoming, you don't look well lately. Have you been playing on your phone too much at night and going to bed too late again?",
-          "vi": "Tiểu Minh, dạo này sắc mặt cậu không được tốt lắm, có phải tối qua lại chơi điện thoại quá nhiều nên ngủ muộn không?"
+          "en": "You don't look well lately. Have you been playing on your phone too much at night and going to bed too late again?",
+          "vi": "Dạo này sắc mặt cậu không được tốt lắm, có phải tối qua lại chơi điện thoại quá nhiều nên ngủ muộn không?"
         },
         "tokens": [
-          "小明",
-          "，",
           "你",
           "最近",
           "脸色",
@@ -31120,16 +30938,14 @@
       {
         "line_id": 1,
         "speaker": "小王",
-        "content": "小李，听说你为了减肥，每天强迫自己只吃一个苹果，还在体育馆疯狂跑步？",
-        "pinyin": "Xiǎolǐ ， tīngshuō nǐ wèile jiǎnféi ， měi tiān qiǎngpò zìjǐ zhǐ chī yí gè píngguǒ ， hái zài tǐyùguǎn fēngkuáng pǎobù ？",
+        "content": "听说你为了减肥，每天强迫自己只吃一个苹果，还在体育馆疯狂跑步？",
+        "pinyin": "Tīngshuō nǐ wèile jiǎnféi ， měi tiān qiǎngpò zìjǐ zhǐ chī yí gè píngguǒ ， hái zài tǐyùguǎn fēngkuáng pǎobù ？",
         "audio_key": "H5_35_2_1",
         "translations": {
-          "en": "Xiao Li, I heard that to lose weight, you force yourself to eat only one apple a day and run crazily in the gym?",
-          "vi": "Tiểu Lý, nghe nói cậu để giảm cân mà ngày nào cũng ép mình chỉ ăn một quả táo, còn chạy điên cuồng trong phòng tập thể dục nữa?"
+          "en": "I heard that to lose weight, you force yourself to eat only one apple a day and run crazily in the gym?",
+          "vi": "Nghe nói cậu để giảm cân mà ngày nào cũng ép mình chỉ ăn một quả táo, còn chạy điên cuồng trong phòng tập thể dục nữa?"
         },
         "tokens": [
-          "小李",
-          "，",
           "听说",
           "你",
           "为了",
@@ -31347,16 +31163,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，你们创业初期条件那么艰难，是怎么一步步挺过来的？",
-        "pinyin": "Lǐwěi ， nǐmen chuàngyè chūqī tiáojiàn nàme jiānnán ， shì zěnme yí bù bù tǐng guòlái de ？",
+        "content": "你们创业初期条件那么艰难，是怎么一步步挺过来的？",
+        "pinyin": "Nǐmen chuàngyè chūqī tiáojiàn nàme jiānnán ， shì zěnme yí bù bù tǐng guòlái de ？",
         "audio_key": "H5_35_3_1",
         "translations": {
-          "en": "Li Wei, the conditions in your early startup days were so tough. How did you get through it step by step?",
-          "vi": "Lý Vĩ, điều kiện khởi nghiệp ban đầu của các anh khó khăn như vậy, làm thế nào mà từng bước vượt qua được?"
+          "en": "The conditions in your early startup days were so tough. How did you get through it step by step?",
+          "vi": "Điều kiện khởi nghiệp ban đầu của các anh khó khăn như vậy, làm thế nào mà từng bước vượt qua được?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "你们",
           "创业",
           "初期",
@@ -31789,16 +31603,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "王经理，今日早上的新闻您看了吗？新一届行业代表名单正式发布了。",
-        "pinyin": "Wángjīnglǐ ， jīnrì zǎoshàng de xīnwén nín kàn le ma ？ xīn yí jiè hángyè dàibiǎo míngdān zhèngshì fābù le 。",
+        "content": "今日早上的新闻您看了吗？新一届行业代表名单正式发布了。",
+        "pinyin": "Jīnrì zǎoshàng de xīnwén nín kàn le ma ？ xīn yí jiè hángyè dàibiǎo míngdān zhèngshì fābù le 。",
         "audio_key": "H5_36_1_1",
         "translations": {
-          "en": "Manager Wang, have you seen the news this morning? The new list of industry representatives has been officially released.",
-          "vi": "Giám đốc Vương, anh đã xem tin tức sáng nay chưa? Danh sách đại diện ngành mới đã chính thức được công bố."
+          "en": "Have you seen the news this morning? The new list of industry representatives has been officially released.",
+          "vi": "Anh đã xem tin tức sáng nay chưa? Danh sách đại diện ngành mới đã chính thức được công bố."
         },
         "tokens": [
-          "王经理",
-          "，",
           "今日",
           "早上",
           "的",
@@ -31993,16 +31805,14 @@
       {
         "line_id": 1,
         "speaker": "大卫",
-        "content": "丽丽，昨天晚上电视上的那场公开辩论比赛引起了不少争议，你看了吗？",
-        "pinyin": "Lìlì ， zuótiān wǎnshàng diànshì shàng de nà chǎng gōngkāi biànlùn bǐsài yǐnqǐ le bùshǎo zhēngyì ， nǐ kàn le ma ？",
+        "content": "昨天晚上电视上的那场公开辩论比赛引起了不少争议，你看了吗？",
+        "pinyin": "Zuótiān wǎnshàng diànshì shàng de nà chǎng gōngkāi biànlùn bǐsài yǐnqǐ le bùshǎo zhēngyì ， nǐ kàn le ma ？",
         "audio_key": "H5_36_2_1",
         "translations": {
-          "en": "Lili, the public debate competition on TV last night caused quite a bit of controversy. Did you watch it?",
-          "vi": "Lili, cuộc thi tranh biện công khai trên TV tối qua đã gây ra nhiều tranh cãi, cậu xem chưa?"
+          "en": "The public debate competition on TV last night caused quite a bit of controversy. Did you watch it?",
+          "vi": "Cuộc thi tranh biện công khai trên TV tối qua đã gây ra nhiều tranh cãi, cậu xem chưa?"
         },
         "tokens": [
-          "丽丽",
-          "，",
           "昨天",
           "晚上",
           "电视",
@@ -32205,16 +32015,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，关于那家企业不正当竞争的事，调查组查清楚背后的动机了吗？",
-        "pinyin": "Lǐwěi ， guānyú nà jiā qǐyè bú zhèng dāng jìngzhēng de shì ， diàochá zǔ chá qīngchǔ bèihòu de dòngjī le ma ？",
+        "content": "关于那家企业不正当竞争的事，调查组查清楚背后的动机了吗？",
+        "pinyin": "Guānyú nà jiā qǐyè bú zhèng dāng jìngzhēng de shì ， diàochá zǔ chá qīngchǔ bèihòu de dòngjī le ma ？",
         "audio_key": "H5_36_3_1",
         "translations": {
-          "en": "Li Wei, regarding that company's unfair competition, has the investigation team figured out the motive behind it?",
-          "vi": "Lý Vĩ, về vụ cạnh tranh không lành mạnh của công ty đó, tổ điều tra đã làm rõ động cơ đằng sau chưa?"
+          "en": "Regarding that company's unfair competition, has the investigation team figured out the motive behind it?",
+          "vi": "Về vụ cạnh tranh không lành mạnh của công ty đó, tổ điều tra đã làm rõ động cơ đằng sau chưa?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "关于",
           "那",
           "家",
@@ -32621,16 +32429,14 @@
       {
         "line_id": 1,
         "speaker": "小王",
-        "content": "王经理，公司的绿色环保示范项目是不是今日正式启动了？",
-        "pinyin": "Wángjīnglǐ ， gōngsī de lǜsè huánbǎo shìfàn xiàngmù shìbúshì jīnrì zhèngshì qǐdòng le ？",
+        "content": "公司的绿色环保示范项目是不是今日正式启动了？",
+        "pinyin": "Gōngsī de lǜsè huánbǎo shìfàn xiàngmù shìbúshì jīnrì zhèngshì qǐdòng le ？",
         "audio_key": "H5_37_1_1",
         "translations": {
-          "en": "Manager Wang, has the company's green environmental protection demonstration project officially launched today?",
-          "vi": "Giám đốc Vương, dự án trình diễn bảo vệ môi trường xanh của công ty có phải hôm nay chính thức khởi động rồi không ạ?"
+          "en": "Has the company's green environmental protection demonstration project officially launched today?",
+          "vi": "Dự án trình diễn bảo vệ môi trường xanh của công ty có phải hôm nay chính thức khởi động rồi không ạ?"
         },
         "tokens": [
-          "王经理",
-          "，",
           "公司",
           "的",
           "绿色",
@@ -32827,16 +32633,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "小王，下个月大型展览会的东西采购名单你整理好了吗？",
-        "pinyin": "Xiǎowáng ， xiàgèyuè dàxíng zhǎnlǎn huì de dōngxī cǎigòu míngdān nǐ zhěnglǐ hǎo le ma ？",
+        "content": "下个月大型展览会的东西采购名单你整理好了吗？",
+        "pinyin": "Xiàgèyuè dàxíng zhǎnlǎn huì de dōngxī cǎigòu míngdān nǐ zhěnglǐ hǎo le ma ？",
         "audio_key": "H5_37_2_1",
         "translations": {
-          "en": "Xiao Wang, have you finished organizing the procurement list for next month's large exhibition?",
-          "vi": "Tiểu Vương, em đã sắp xếp xong danh sách mua sắm đồ cho triển lãm lớn tháng sau chưa?"
+          "en": "Have you finished organizing the procurement list for next month's large exhibition?",
+          "vi": "Em đã sắp xếp xong danh sách mua sắm đồ cho triển lãm lớn tháng sau chưa?"
         },
         "tokens": [
-          "小王",
-          "，",
           "下个月",
           "大型",
           "展览",
@@ -33044,16 +32848,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，听说总公司决定把落后的业务从主要部门里分离出去？",
-        "pinyin": "Lǐwěi ， tīngshuō zǒng gōngsī juédìng bǎ luòhòu de yèwù cóng zhǔyào bùmén lǐ fēnlí chūqù ？",
+        "content": "听说总公司决定把落后的业务从主要部门里分离出去？",
+        "pinyin": "Tīngshuō zǒng gōngsī juédìng bǎ luòhòu de yèwù cóng zhǔyào bùmén lǐ fēnlí chūqù ？",
         "audio_key": "H5_37_3_1",
         "translations": {
-          "en": "Li Wei, I heard the head office decided to separate the lagging business from the main departments?",
-          "vi": "Lý Vĩ, nghe nói tổng công ty quyết định tách mảng kinh doanh lạc hậu ra khỏi các bộ phận chính?"
+          "en": "I heard the head office decided to separate the lagging business from the main departments?",
+          "vi": "Nghe nói tổng công ty quyết định tách mảng kinh doanh lạc hậu ra khỏi các bộ phận chính?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "听说",
           "总",
           "公司",
@@ -33445,16 +33247,14 @@
       {
         "line_id": 1,
         "speaker": "大卫",
-        "content": "丽丽，近年来随着高铁网络不断向周边延伸，南北城市之间的联系越来越紧密了。",
-        "pinyin": "Lìlì ， jìn nián lái suízhe gāotiě wǎngluò bùduàn xiàng zhōu biān yánshēn ， nánběi chéngshì zhījiān de liánxì yuèláiyuè jǐnmì le 。",
+        "content": "近年来随着高铁网络不断向周边延伸，南北城市之间的联系越来越紧密了。",
+        "pinyin": "Jìn nián lái suízhe gāotiě wǎngluò bùduàn xiàng zhōu biān yánshēn ， nánběi chéngshì zhījiān de liánxì yuèláiyuè jǐnmì le 。",
         "audio_key": "H5_38_1_1",
         "translations": {
-          "en": "Lili, in recent years, as the high-speed rail network continues to extend to surrounding areas, the connections between northern and southern cities have become increasingly close.",
-          "vi": "Lili này, những năm gần đây, cùng với việc mạng lưới đường sắt cao tốc không ngừng mở rộng ra các khu vực xung quanh, mối liên hệ giữa các thành phố phía Bắc và phía Nam ngày càng trở nên chặt chẽ hơn."
+          "en": "In recent years, as the high-speed rail network continues to extend to surrounding areas, the connections between northern and southern cities have become increasingly close.",
+          "vi": "Những năm gần đây, cùng với việc mạng lưới đường sắt cao tốc không ngừng mở rộng ra các khu vực xung quanh, mối liên hệ giữa các thành phố phía Bắc và phía Nam ngày càng trở nên chặt chẽ hơn."
         },
         "tokens": [
-          "丽丽",
-          "，",
           "近",
           "年",
           "来",
@@ -33660,16 +33460,14 @@
       {
         "line_id": 1,
         "speaker": "小王",
-        "content": "王经理，根据我们收集的数据，当前电子汽车行业的市场动态非常好。",
-        "pinyin": "Wángjīnglǐ ， gēnjù wǒmen shōují de shùjù ， dāngqián diàn zi qìchē hángyè de shìchǎng dòngtài fēicháng hǎo 。",
+        "content": "根据我们收集的数据，当前电子汽车行业的市场动态非常好。",
+        "pinyin": "Gēnjù wǒmen shōují de shùjù ， dāngqián diàn zi qìchē hángyè de shìchǎng dòngtài fēicháng hǎo 。",
         "audio_key": "H5_38_2_1",
         "translations": {
-          "en": "Manager Wang, according to the data we collected, the current market dynamics of the electronic vehicle industry are very good.",
-          "vi": "Giám đốc Vương, theo dữ liệu chúng tôi thu thập được, động thái thị trường hiện tại của ngành xe điện tử rất tốt."
+          "en": "According to the data we collected, the current market dynamics of the electronic vehicle industry are very good.",
+          "vi": "Theo dữ liệu chúng tôi thu thập được, động thái thị trường hiện tại của ngành xe điện tử rất tốt."
         },
         "tokens": [
-          "王经理",
-          "，",
           "根据",
           "我们",
           "收集",
@@ -33866,16 +33664,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，昨天工厂发生材料少了的事情后，你是怎么发现问题所在的？",
-        "pinyin": "Lǐwěi ， zuótiān gōngchǎng fāshēng cáiliào shǎo le de shìqíng hòu ， nǐ shì zěnme fāxiàn wèntí suǒzài de ？",
+        "content": "昨天工厂发生材料少了的事情后，你是怎么发现问题所在的？",
+        "pinyin": "Zuótiān gōngchǎng fāshēng cáiliào shǎo le de shìqíng hòu ， nǐ shì zěnme fāxiàn wèntí suǒzài de ？",
         "audio_key": "H5_38_3_1",
         "translations": {
-          "en": "Li Wei, after the incident of missing materials at the factory yesterday, how did you discover where the problem was?",
-          "vi": "Lý Vĩ, sau sự việc thiếu nguyên liệu ở nhà máy hôm qua, làm thế nào anh phát hiện ra vấn đề nằm ở đâu?"
+          "en": "After the incident of missing materials at the factory yesterday, how did you discover where the problem was?",
+          "vi": "Sau sự việc thiếu nguyên liệu ở nhà máy hôm qua, làm thế nào anh phát hiện ra vấn đề nằm ở đâu?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "昨天",
           "工厂",
           "发生",
@@ -34280,16 +34076,14 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "大卫，今年国际合作会议的主题是绿色发展和成果共享，受关注的范围真广。",
-        "pinyin": "Dàwèi ， jīnnián guójì hézuò huìyì de zhǔtí shì lǜsè fāzhǎn hé chéngguǒ gòngxiǎng ， shòu guānzhù de fànwéi zhēn guǎng 。",
+        "content": "今年国际合作会议的主题是绿色发展和成果共享，受关注的范围真广。",
+        "pinyin": "Jīnnián guójì hézuò huìyì de zhǔtí shì lǜsè fāzhǎn hé chéngguǒ gòngxiǎng ， shòu guānzhù de fànwéi zhēn guǎng 。",
         "audio_key": "H5_39_1_1",
         "translations": {
-          "en": "David, this year's international cooperation conference theme is green development and sharing of achievements. The scope of attention it receives is really broad.",
-          "vi": "David, chủ đề của hội nghị hợp tác quốc tế năm nay là phát triển xanh và chia sẻ thành quả, phạm vi được quan tâm thật rộng."
+          "en": "This year's international cooperation conference theme is green development and sharing of achievements. The scope of attention it receives is really broad.",
+          "vi": "Chủ đề của hội nghị hợp tác quốc tế năm nay là phát triển xanh và chia sẻ thành quả, phạm vi được quan tâm thật rộng."
         },
         "tokens": [
-          "大卫",
-          "，",
           "今年",
           "国际",
           "合作",
@@ -34490,16 +34284,14 @@
       {
         "line_id": 1,
         "speaker": "小李",
-        "content": "小王，在开放合作的大背景之下，咱们公司今年海外业务增幅很大吧？",
-        "pinyin": "Xiǎowáng ， zài kāifàng hézuò de dà bèijǐng zhīxià ， zánmen gōngsī jīnnián hǎi wài yèwù zēng fú hěn dà ba ？",
+        "content": "在开放合作的大背景之下，咱们公司今年海外业务增幅很大吧？",
+        "pinyin": "Zài kāifàng hézuò de dà bèijǐng zhīxià ， zánmen gōngsī jīnnián hǎi wài yèwù zēng fú hěn dà ba ？",
         "audio_key": "H5_39_2_1",
         "translations": {
-          "en": "Xiao Wang, under the backdrop of open cooperation, our company's overseas business must have grown a lot this year, right?",
-          "vi": "Tiểu Vương, trong bối cảnh hợp tác mở cửa, hoạt động kinh doanh ở nước ngoài của công ty chúng ta năm nay chắc tăng trưởng nhiều lắm nhỉ?"
+          "en": "Under the backdrop of open cooperation, our company's overseas business must have grown a lot this year, right?",
+          "vi": "Trong bối cảnh hợp tác mở cửa, hoạt động kinh doanh ở nước ngoài của công ty chúng ta năm nay chắc tăng trưởng nhiều lắm nhỉ?"
         },
         "tokens": [
-          "小王",
-          "，",
           "在",
           "开放",
           "合作",
@@ -34706,16 +34498,14 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "李伟，昨天晚上世界运动会的闭幕式太精彩了，听说你当时就在场？",
-        "pinyin": "Lǐwěi ， zuótiān wǎnshàng shìjiè yùndònghuì de bìmùshì tài jīngcǎi le ， tīngshuō nǐ dāngshí jiù zàichǎng ？",
+        "content": "昨天晚上世界运动会的闭幕式太精彩了，听说你当时就在场？",
+        "pinyin": "Zuótiān wǎnshàng shìjiè yùndònghuì de bìmùshì tài jīngcǎi le ， tīngshuō nǐ dāngshí jiù zàichǎng ？",
         "audio_key": "H5_39_3_1",
         "translations": {
-          "en": "Li Wei, the closing ceremony of the World Games last night was so spectacular. I heard you were there at the time?",
-          "vi": "Lý Vĩ, lễ bế mạc Đại hội Thể thao Thế giới tối qua thật tuyệt vời, nghe nói lúc đó anh có mặt ở đó?"
+          "en": "The closing ceremony of the World Games last night was so spectacular. I heard you were there at the time?",
+          "vi": "Lễ bế mạc Đại hội Thể thao Thế giới tối qua thật tuyệt vời, nghe nói lúc đó anh có mặt ở đó?"
         },
         "tokens": [
-          "李伟",
-          "，",
           "昨天",
           "晚上",
           "世界",
