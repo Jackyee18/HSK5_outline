@@ -42,7 +42,7 @@
     "unit_title": "宾馆入住与社区服务 (Hotel Stay & Community Services)",
     "text_type": "dialogue",
     "title": "拜访隔壁新邻居 (Visiting the Next-Door Neighbor)",
-    "scenario": "Knocking on the next-door neighbor's door to pay a friendly visit, handing over a small gift, and treating each other warmly.",
+    "scenario": "Knocking on the next-door neighbor's door with a small gift, staying for a short friendly visit (待了一会儿), and experiencing warm hospitality (热情待客).",
     "new_words": [
       "邻居",
       "隔壁",
@@ -51,7 +51,10 @@
       "递给",
       "待",
       "不敢当"
-    ]
+    ],
+    "polysemy_focus": {
+      "待": "dāi (verb: stay/linger 在家待几天) & dài (verb: treat/entertain 待人热情/招待)"
+    }
   },
   {
     "passage_id": "H5_1_4",
@@ -168,7 +171,7 @@
     "unit_title": "厨房烹饪与饮食安全 (Kitchen Cooking & Food Safety)",
     "text_type": "dialogue",
     "title": "品尝豆制品与剩菜打包 (Tasting Soy Dishes & Packing Leftovers)",
-    "scenario": "Tasting nutritious soy dishes and packing the remaining food so nothing goes to waste.",
+    "scenario": "Tasting nutritious soy dishes, packing leftovers carefully so food doesn't spoil or get ruined (别弄糟了/糟糕), and understanding how not to waste food.",
     "new_words": [
       "饮食",
       "豆制品",
@@ -177,7 +180,10 @@
       "打包",
       "糟",
       "可惜"
-    ]
+    ],
+    "polysemy_focus": {
+      "糟": "adj: ruined/terrible (糟糕/弄糟) & n: fermented dregs/pickled (酒糟/糟菜)"
+    }
   },
   {
     "passage_id": "H5_3_3",
@@ -618,7 +624,7 @@
     "unit_title": "情绪表达与心理调节 (Emotional Expressions & Mental Adjustment)",
     "text_type": "dialogue",
     "title": "冲动争吵与事后后悔 (Impulsive Quarrels & Regret)",
-    "scenario": "Regretting an impulsive argument where harsh words were spoken and apologizing sincerely.",
+    "scenario": "Regretting an impulsive argument where harsh words like 'get lost' (滚开) were shouted, recalling how an item rolled (打滚/滚落) away, and apologizing sincerely.",
     "new_words": [
       "冲动",
       "恨",
@@ -627,7 +633,10 @@
       "后悔",
       "怨",
       "摇头"
-    ]
+    ],
+    "polysemy_focus": {
+      "滚": "verb: roll/tumble (打滚/滚落) & verb (colloquial): get lost/scram (滚开/滚出去)"
+    }
   },
   {
     "passage_id": "H5_9_4",
@@ -654,7 +663,7 @@
     "unit_title": "日常插曲与社会公德 (Daily Episodes & Public Morality)",
     "text_type": "dialogue",
     "title": "寻找丢失的钢笔 (Searching for a Lost Fountain Pen)",
-    "scenario": "Looking everywhere for a lost fountain pen and key, picking them up, and feeling relieved at last.",
+    "scenario": "Searching everywhere for a misplaced fountain pen and key, feeling fortunate that (亏得/多亏) a friend helped find them, avoiding loss (避免吃亏), and feeling relieved at last.",
     "new_words": [
       "丢",
       "拾",
@@ -663,7 +672,10 @@
       "搜",
       "总算",
       "亏"
-    ]
+    ],
+    "polysemy_focus": {
+      "亏": "adv: luckily/thanks to (亏得/多亏) & verb: suffer a loss/deficit (吃亏/亏本/亏损)"
+    }
   },
   {
     "passage_id": "H5_10_2",
@@ -726,7 +738,7 @@
     "unit_title": "门诊就医与疾病预防 (Medical Clinic & Disease Prevention)",
     "text_type": "dialogue",
     "title": "消化门诊与病毒诊断 (Digestive Clinic & Viral Diagnosis)",
-    "scenario": "Visiting the outpatient clinic with stomach and intestinal pain, coughing, and being diagnosed with a virus.",
+    "scenario": "Visiting the outpatient clinic with stomach flu and vomiting (呕吐), being examined by the doctor, and learning not to spit (吐痰) or swallow unclean food.",
     "new_words": [
       "门诊",
       "诊断",
@@ -735,7 +747,10 @@
       "肠",
       "咳",
       "吐"
-    ]
+    ],
+    "polysemy_focus": {
+      "吐": "tù (verb: vomit/throw up 呕吐) & tǔ (verb: spit out/say 吐痰/吐露)"
+    }
   },
   {
     "passage_id": "H5_11_2",
@@ -1338,7 +1353,7 @@
     "unit_title": "交通驾驶与出行安全 (Driving, Traffic & Commuting Safety)",
     "text_type": "dialogue",
     "title": "工作日早高峰与拥挤车厢 (Weekday Rush Hour & Crowded Carriages)",
-    "scenario": "Passengers squeezing onto a crowded train on a weekday morning and nearly bumping into each other.",
+    "scenario": "Passengers squeezing onto a weekday morning train (挤上车) and finding space in the crowded, packed carriage (车厢太挤/拥挤) without bumping into others.",
     "new_words": [
       "乘坐",
       "乘客",
@@ -1347,7 +1362,10 @@
       "撞",
       "秒",
       "棒"
-    ]
+    ],
+    "polysemy_focus": {
+      "挤": "verb: squeeze/press/jostle (挤车/挤时间) & adj: crowded/cramped (车厢很挤)"
+    }
   },
   {
     "passage_id": "H5_19_4",
@@ -1464,7 +1482,7 @@
     "unit_title": "四季花木与田园丰收 (Seasonal Flora & Rural Harvests)",
     "text_type": "dialogue",
     "title": "夏日高温与山间清泉 (Summer High Temperatures & Mountain Springs)",
-    "scenario": "Fanning oneself during high summer temperatures, welcoming rainwater, and drinking from a cool mountain spring.",
+    "scenario": "Fanning oneself (扇风) during high summer temperatures beside an open wooden window (推开一扇窗), welcoming cooling breeze and fresh mountain spring water.",
     "new_words": [
       "晴朗",
       "高温",
@@ -1473,7 +1491,10 @@
       "水分",
       "扇",
       "寸"
-    ]
+    ],
+    "polysemy_focus": {
+      "扇": "shān (verb: to fan/slap 扇风/扇耳光) & shàn (classifier: for doors/windows 一扇门/一扇窗)"
+    }
   },
   {
     "passage_id": "H5_21_3",
@@ -1626,7 +1647,7 @@
     "unit_title": "气象预警与抢险救灾 (Weather Warnings & Emergency Rescue)",
     "text_type": "dialogue",
     "title": "火灾逃生与消防演练 (Fire Escape & Firefighting Drill)",
-    "scenario": "Noticing smoke rising during a fire, hiding from falling debris, and escaping to safety with firefighters.",
+    "scenario": "Firefighters braving danger (冒险/冒着浓烟) to rescue trapped residents as thick smoke billows (冒出黑烟), practicing emergency evacuation safety.",
     "new_words": [
       "火灾",
       "消防",
@@ -1635,7 +1656,10 @@
       "躲",
       "不顾",
       "完了"
-    ]
+    ],
+    "polysemy_focus": {
+      "冒": "verb: emit/give off (冒烟/冒出) & verb: brave/risk (冒险/冒着浓烟)"
+    }
   },
   {
     "passage_id": "H5_23_4",
@@ -1716,7 +1740,7 @@
     "unit_title": "职场岗位与日常办公 (Workplace Roles & Daily Office Operations)",
     "text_type": "passage",
     "title": "年度考核与职业认证 (Annual Evaluations & Professional Certificates)",
-    "scenario": "How companies evaluate annual performance targets, award certificates, and incentivize staff.",
+    "scenario": "How companies evaluate annual performance targets: management will (将要) announce bonuses and officially present (将荣誉证书授予员工) certificates to staff.",
     "new_words": [
       "年度",
       "考核",
@@ -1725,7 +1749,10 @@
       "等级",
       "奖励",
       "将"
-    ]
+    ],
+    "polysemy_focus": {
+      "将": "adv: will/shall (将要) & prep: formal object marker =把 (将…完成/将…递交)"
+    }
   },
   {
     "passage_id": "H5_25_1",
@@ -1842,7 +1869,7 @@
     "unit_title": "企业战略与市场竞争 (Corporate Strategy & Market Competition)",
     "text_type": "dialogue",
     "title": "成本控制与亏损代价 (Cost Control & the Price of Financial Loss)",
-    "scenario": "Calculating production costs and profits, and bearing the cost after suffering a financial loss.",
+    "scenario": "Calculating production costs and evaluating how product defects caused business losses (赔钱/赔本) and required paying compensation (赔偿损失) to clients.",
     "new_words": [
       "成本",
       "利润",
@@ -1851,7 +1878,10 @@
       "抢",
       "难以",
       "毕竟"
-    ]
+    ],
+    "polysemy_focus": {
+      "赔": "verb: lose money/suffer financial loss (赔钱/赔本) & verb: compensate/indemnify (赔偿/赔礼)"
+    }
   },
   {
     "passage_id": "H5_26_4",
@@ -1932,7 +1962,7 @@
     "unit_title": "金融理财与物价民生 (Finance, Banking & Commodity Prices)",
     "text_type": "passage",
     "title": "理性理财与拒绝盲目跟风 (Rational Finance vs. Lottery Craze)",
-    "scenario": "Why chasing overnight wealth through lottery tickets is foolish compared to steady financial circulation.",
+    "scenario": "Why chasing overnight wealth through lotteries is silly (傻呆), and how investors staring in disbelief (看呆了/发呆) after losses learn the value of rational finance.",
     "new_words": [
       "彩票",
       "流通",
@@ -1941,7 +1971,10 @@
       "傻",
       "呆",
       "居然"
-    ]
+    ],
+    "polysemy_focus": {
+      "呆": "adj: dull/foolish (呆板/傻呆) & verb: be dazed/stare blankly (发呆/惊呆)"
+    }
   },
   {
     "passage_id": "H5_28_1",
@@ -2130,7 +2163,7 @@
     "unit_title": "法律法规与公共管理 (Laws, Regulations & Public Administration)",
     "text_type": "dialogue",
     "title": "违规处分与职务调动 (Disciplinary Action & Job Transfer)",
-    "scenario": "Investigating irregular conduct, issuing a disciplinary punishment, and relieving or transferring official duties.",
+    "scenario": "Investigating irregular conduct, issuing a formal disciplinary decree (处分令), and reaching an impartial conclusion that makes everyone reflect deeply (令人深思).",
     "new_words": [
       "违规",
       "处分",
@@ -2139,7 +2172,10 @@
       "调动",
       "执行",
       "令"
-    ]
+    ],
+    "polysemy_focus": {
+      "令": "verb (causative): make/cause (令人深思/令人感动) & noun/verb: order/decree (命令/处分令)"
+    }
   },
   {
     "passage_id": "H5_30_4",
@@ -2328,7 +2364,7 @@
     "unit_title": "肢体动作与日常细节 (Body Movements, Gestures & Everyday Details)",
     "text_type": "dialogue",
     "title": "修剪指甲与周末闲暇 (Trimming Fingernails & Weekend Leisure)",
-    "scenario": "Enjoying idle weekend time at home: trimming fingernails, pulling out weeds, and plugging in a lamp.",
+    "scenario": "Enjoying weekend yard chores by pulling out weeds (拔草) and unplugging power tools (拔掉插头), while discussing an upcoming company talent selection (选拔人才).",
     "new_words": [
       "指甲",
       "剪",
@@ -2337,7 +2373,10 @@
       "闲",
       "随意",
       "也好"
-    ]
+    ],
+    "polysemy_focus": {
+      "拔": "verb: pull out/unplug (拔草/拔插头) & verb: select/promote talents (选拔/提拔)"
+    }
   },
   {
     "passage_id": "H5_33_3",
@@ -2490,7 +2529,7 @@
     "unit_title": "戒除恶习与自我突破 (Breaking Bad Habits & Self-Improvement)",
     "text_type": "dialogue",
     "title": "拼搏向前与不惧艰难 (Striving Forward Despite Hardships)",
-    "scenario": "Enduring hard times, working adventurously toward a goal, and moving forward step by step.",
+    "scenario": "Enduring hardships, striving fiercely with all one's might (拼搏/拼命), and piecing together (拼在一起/拼图) various resources to achieve breakthroughs step by step.",
     "new_words": [
       "忍",
       "拼",
@@ -2499,7 +2538,10 @@
       "确立",
       "搞好",
       "将要"
-    ]
+    ],
+    "polysemy_focus": {
+      "拼": "verb: strive hard/go all out (拼搏/拼命) & verb: piece together/combine (拼在一起/拼图)"
+    }
   },
   {
     "passage_id": "H5_35_4",
@@ -2508,7 +2550,7 @@
     "unit_title": "戒除恶习与自我突破 (Breaking Bad Habits & Self-Improvement)",
     "text_type": "passage",
     "title": "把握时机与改变命运 (Seizing Opportunities & Shaping Destiny)",
-    "scenario": "Why seizing the right opportunity and acting immediately before it is too late can transform one's fortune.",
+    "scenario": "Establishing lifelong goals (树立目标), acting immediately (立即/立决) before opportunities fade, and transforming bad luck into good fortune (转变命运/运气).",
     "new_words": [
       "时机",
       "运",
@@ -2517,7 +2559,11 @@
       "所在",
       "意味着",
       "一下子"
-    ]
+    ],
+    "polysemy_focus": {
+      "立": "verb: stand/establish (树立/建立) & adv: immediately (立即/立决)",
+      "运": "noun: fortune/destiny (命运/运气) & verb: transport/convey (运送/运输)"
+    }
   },
   {
     "passage_id": "H5_36_1",

@@ -101,7 +101,7 @@
 
 ### `H5_1_3` — 拜访隔壁新邻居 (Visiting the Next-Door Neighbor) (🗣️ Dialogue)
 
-**Scenario**: Knocking on the next-door neighbor's door to pay a friendly visit, handing over a small gift, and treating each other warmly.
+**Scenario**: Knocking on the next-door neighbor's door with a small gift, staying for a short friendly visit (待了一会儿), and experiencing warm hospitality (热情待客).
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -110,7 +110,7 @@
 | 3 | **拜访** | `bàifǎng` | *Verb* | call on | thăm viếng, thăm hỏi |
 | 4 | **敲门** | `qiāomén` | *Verb* | knock on a door | gõ cửa |
 | 5 | **递给** | `dìgěi` | *Verb* | hand it to | đưa cho, chuyển cho |
-| 6 | **待** | `dài` | *Verb* | treat, wait for | ở lại, nán lại |
+| 6 | **待** | `dài / dāi` | *Verb* | 1. stay, linger; 2. treat, entertain | 1. ở lại, nán lại; 2. đối đãi, tiếp đón |
 | 7 | **不敢当** | `bùgǎndāng` | *Phrase* | be flattered | không dám làm |
 
 ---
@@ -219,7 +219,7 @@
 
 ### `H5_3_2` — 品尝豆制品与剩菜打包 (Tasting Soy Dishes & Packing Leftovers) (🗣️ Dialogue)
 
-**Scenario**: Tasting nutritious soy dishes and packing the remaining food so nothing goes to waste.
+**Scenario**: Tasting nutritious soy dishes, packing leftovers carefully so food doesn't spoil or get ruined (别弄糟了/糟糕), and understanding how not to waste food.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -228,7 +228,7 @@
 | 3 | **尝** | `cháng` | *Verb* | taste | nếm thử |
 | 4 | **剩下** | `shèngxià` | *Verb* | remain, be left over | còn lại |
 | 5 | **打包** | `dǎbāo` | *Verb* | pack | đóng gói về |
-| 6 | **糟** | `zāo` | *Adjective* | draff, | bã, bã rượu |
+| 6 | **糟** | `zāo` | *Adj / Noun* | 1. terrible, ruined (糟糕); 2. fermented dregs (酒糟) | 1. hỏng, tồi tệ (糟糕); 2. bã rượu, thức ăn ủ chua |
 | 7 | **可惜** | `kěxī` | *Adjective* | regrettable, regrettably | đáng tiếc |
 
 ---
@@ -637,14 +637,14 @@
 
 ### `H5_9_3` — 冲动争吵与事后后悔 (Impulsive Quarrels & Regret) (🗣️ Dialogue)
 
-**Scenario**: Regretting an impulsive argument where harsh words were spoken and apologizing sincerely.
+**Scenario**: Regretting an impulsive argument where harsh words like 'get lost' (滚开) were shouted, recalling how an item rolled (打滚/滚落) away, and apologizing sincerely.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **冲动** | `chōngdòng` | *Noun* | impulse | xung động, kích thích |
 | 2 | **恨** | `hèn` | *Verb* | hate | hận, ghét |
 | 3 | **骂** | `mà` | *Verb* | insult, tell … off | mắng, chửi, la |
-| 4 | **滚** | `gǔn` | *Verb* | roll, tumble | lăn, cuộn |
+| 4 | **滚** | `gǔn` | *Verb* | 1. roll, tumble; 2. (colloquial) get lost, scram | 1. lăn, cuộn; 2. cút, cút xéo |
 | 5 | **后悔** | `hòuhuǐ` | *Verb* | regret | hối hận |
 | 6 | **怨** | `yuàn` | *Noun* | blame, complain | OÁN: oán hận, oán giận |
 | 7 | **摇头** | `yáotóu` | *Verb* | shake one's head | lắc đầu |
@@ -672,7 +672,7 @@
 
 ### `H5_10_1` — 寻找丢失的钢笔 (Searching for a Lost Fountain Pen) (🗣️ Dialogue)
 
-**Scenario**: Looking everywhere for a lost fountain pen and key, picking them up, and feeling relieved at last.
+**Scenario**: Searching everywhere for a misplaced fountain pen and key, feeling fortunate that (亏得/多亏) a friend helped find them, avoiding loss (避免吃亏), and feeling relieved at last.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -682,7 +682,7 @@
 | 4 | **键** | `jiàn` | *Noun* | button (on a mouse or other device), key (on a piano or computer keyboard) | phím, phím (máy tính, đàn) |
 | 5 | **搜** | `sōu` | *Verb* | search | tìm, tìm tòi |
 | 6 | **总算** | `zǒngsuàn` | *Adverb* | at last, finally | nhìn chung, nói chung, cuối cùng cũng |
-| 7 | **亏** | `kuī` | *Verb* | deficiency, | thiệt thòi, lỗ vốn |
+| 7 | **亏** | `kuī` | *Adv / Verb* | 1. luckily, thanks to (亏得); 2. suffer a loss, deficit (吃亏) | 1. may mắn là, nhờ có (亏得); 2. chịu thiệt, lỗ vốn (吃亏) |
 
 ---
 
@@ -739,7 +739,7 @@
 
 ### `H5_11_1` — 消化门诊与病毒诊断 (Digestive Clinic & Viral Diagnosis) (🗣️ Dialogue)
 
-**Scenario**: Visiting the outpatient clinic with stomach and intestinal pain, coughing, and being diagnosed with a virus.
+**Scenario**: Visiting the outpatient clinic with stomach flu and vomiting (呕吐), being examined by the doctor, and learning not to spit (吐痰) or swallow unclean food.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -749,7 +749,7 @@
 | 4 | **胃** | `wèi` | *Noun* | stomach | dạ dày, bao tử |
 | 5 | **肠** | `cháng` | *Noun* | intestines | ruột |
 | 6 | **咳** | `ké` | *Verb* | sound of sighing | ho |
-| 7 | **吐** | `tǔ` | *Verb* | vomit | nôn, mửa |
+| 7 | **吐** | `tù / tǔ` | *Verb* | 1. vomit, throw up (呕吐); 2. spit out, utter (吐痰/吐露) | 1. nôn, ói (呕吐); 2. nhổ ra, thốt ra (吐痰/吐露) |
 
 ---
 
@@ -1307,14 +1307,14 @@
 
 ### `H5_19_3` — 工作日早高峰与拥挤车厢 (Weekday Rush Hour & Crowded Carriages) (🗣️ Dialogue)
 
-**Scenario**: Passengers squeezing onto a crowded train on a weekday morning and nearly bumping into each other.
+**Scenario**: Passengers squeezing onto a weekday morning train (挤上车) and finding space in the crowded, packed carriage (车厢太挤/拥挤) without bumping into others.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **乘坐** | `chéngzuò` | *Verb* | take (a vehicle), ride (in a vehicle) | ngồi (xe, tàu, máy bay) |
 | 2 | **乘客** | `chéngkè` | *Noun* | passenger | hành khách (đi tàu, xe, máy bay) |
 | 3 | **工作日** | `gōngzuòrì` | *Noun* | week day | ngày làm việc |
-| 4 | **挤** | `jǐ` | *Verb* | squeeze, press | chen, chen chúc |
+| 4 | **挤** | `jǐ` | *Verb / Adj* | 1. squeeze, jostle; 2. crowded, cramped | 1. chen, lấn, ép; 2. chật chội, đông đúc |
 | 5 | **撞** | `zhuàng` | *Verb* | bump against | đụng, va chạm |
 | 6 | **秒** | `miǎo` | *Noun* | second, 1/60 minute | giây |
 | 7 | **棒** | `bàng` | *Noun* | excellent, amazing | tốt, giỏi, tài giỏi |
@@ -1425,7 +1425,7 @@
 
 ### `H5_21_2` — 夏日高温与山间清泉 (Summer High Temperatures & Mountain Springs) (🗣️ Dialogue)
 
-**Scenario**: Fanning oneself during high summer temperatures, welcoming rainwater, and drinking from a cool mountain spring.
+**Scenario**: Fanning oneself (扇风) during high summer temperatures beside an open wooden window (推开一扇窗), welcoming cooling breeze and fresh mountain spring water.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -1434,7 +1434,7 @@
 | 3 | **雨水** | `yǔshuǐ` | *Noun* | rain water | nước mưa |
 | 4 | **泉** | `quán` | *Noun* | mouth of a spring, spring (small stream) | suối |
 | 5 | **水分** | `shuǐfèn` | *Noun* | moisture content | lượng nước, thủy phân |
-| 6 | **扇** | `shàn` | *Verb* | fan, | quạt |
+| 6 | **扇** | `shān / shàn` | *Verb / Measure* | 1. to fan (扇风); 2. classifier for doors/windows (一扇门) | 1. quạt mát (扇风); 2. cánh, tấm (lượng từ: 一扇门) |
 | 7 | **寸** | `cùn` | *Noun* | unit of length approximately 3 cm (measure word) | tấc (đơn vị đo chiều dài, 10 phân là 1 tấc, 10 tấc là 1 thước TQ) |
 
 ---
@@ -1575,13 +1575,13 @@
 
 ### `H5_23_3` — 火灾逃生与消防演练 (Fire Escape & Firefighting Drill) (🗣️ Dialogue)
 
-**Scenario**: Noticing smoke rising during a fire, hiding from falling debris, and escaping to safety with firefighters.
+**Scenario**: Firefighters braving danger (冒险/冒着浓烟) to rescue trapped residents as thick smoke billows (冒出黑烟), practicing emergency evacuation safety.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **火灾** | `huǒzāi` | *Noun* | fire (that burns buildings etc) | hoả hoạn, nạn cháy |
 | 2 | **消防** | `xiāofáng` | *Noun* | fire fighting | phòng cháy chữa cháy |
-| 3 | **冒** | `mào` | *Verb* | risk, give … off | Mạo, bất chấp |
+| 3 | **冒** | `mào` | *Verb* | 1. emit, give off (冒烟); 2. brave, risk (冒险/冒着) | 1. bốc lên, toát ra (冒烟); 2. bất chấp, đánh liều (冒险/冒着) |
 | 4 | **逃走** | `táozǒu` | *Verb* | escape, run away | chạy trốn, đào tẩu, chuồn |
 | 5 | **躲** | `duǒ` | *Verb* | hide, avoid | trốn, trốn tránh, ẩn náu |
 | 6 | **不顾** | `bùgù` | *Verb* | in spite of, regardless of | không quan tâm, bất cần |
@@ -1658,7 +1658,7 @@
 
 ### `H5_24_4` — 年度考核与职业认证 (Annual Evaluations & Professional Certificates) (📖 Passage)
 
-**Scenario**: How companies evaluate annual performance targets, award certificates, and incentivize staff.
+**Scenario**: How companies evaluate annual performance targets: management will (将要) announce bonuses and officially present (将荣誉证书授予员工) certificates to staff.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -1668,7 +1668,7 @@
 | 4 | **证书** | `zhèngshū` | *Noun* | certificate | giấy chứng nhận, chứng chỉ |
 | 5 | **等级** | `děngjí` | *Noun* | level, rank | đẳng cấp, cấp, bậc |
 | 6 | **奖励** | `jiǎnglì` | *Noun* | encourage and reward | khen thưởng |
-| 7 | **将** | `jiāng` | *Verb* | shall, | sẽ |
+| 7 | **将** | `jiāng` | *Adv / Prep* | 1. shall, will (将要); 2. preposition: take/bring (=把, 将…) | 1. sẽ, sắp (将要); 2. giới từ: đem, lấy (=把, 将…) |
 
 ---
 
@@ -1776,13 +1776,13 @@
 
 ### `H5_26_3` — 成本控制与亏损代价 (Cost Control & the Price of Financial Loss) (🗣️ Dialogue)
 
-**Scenario**: Calculating production costs and profits, and bearing the cost after suffering a financial loss.
+**Scenario**: Calculating production costs and evaluating how product defects caused business losses (赔钱/赔本) and required paying compensation (赔偿损失) to clients.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **成本** | `chéngběn` | *Noun* | (manufacturing, production etc) costs | chi phí, thành vốn |
 | 2 | **利润** | `lìrùn` | *Noun* | profit | lợi nhuận, lãi |
-| 3 | **赔** | `péi` | *Verb* | compensate for loss, | BỒI: |
+| 3 | **赔** | `péi` | *Verb* | 1. suffer loss, lose money (赔钱); 2. compensate, indemnify (赔偿) | 1. lỗ vốn, đền tiền (赔钱); 2. bồi thường, đền bù (赔偿) |
 | 4 | **代价** | `dàijià` | *Noun* | consideration (in share dealing), cost | cái giá phải trả |
 | 5 | **抢** | `qiǎng` | *Verb* | rob, snatch | cướp, giành |
 | 6 | **难以** | `nányǐ` | *Adverb* | hard to (predict, imagine etc) | khó mà |
@@ -1859,7 +1859,7 @@
 
 ### `H5_27_4` — 理性理财与拒绝盲目跟风 (Rational Finance vs. Lottery Craze) (📖 Passage)
 
-**Scenario**: Why chasing overnight wealth through lottery tickets is foolish compared to steady financial circulation.
+**Scenario**: Why chasing overnight wealth through lotteries is silly (傻呆), and how investors staring in disbelief (看呆了/发呆) after losses learn the value of rational finance.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -1868,7 +1868,7 @@
 | 3 | **总数** | `zǒngshù` | *Noun* | sum, total | tổng số |
 | 4 | **疯狂** | `fēngkuáng` | *Adjective* | crazy | khùng điên |
 | 5 | **傻** | `shǎ` | *Noun* | stupid | ngốc, ngớ |
-| 6 | **呆** | `dāi` | *Adjective* | dull, dumb, stagnate | ngốc, ngu |
+| 6 | **呆** | `dāi` | *Adj / Verb* | 1. foolish, dull (呆板); 2. dazed, stare blankly (发呆/看呆) | 1. ngốc nghếch, cứng nhắc (呆板); 2. ngẩn người, đờ đẫn (发呆) |
 | 7 | **居然** | `jūrán` | *Adverb* | indicating unexpectedness | lại có thể, lại |
 
 ---
@@ -2044,7 +2044,7 @@
 
 ### `H5_30_3` — 违规处分与职务调动 (Disciplinary Action & Job Transfer) (🗣️ Dialogue)
 
-**Scenario**: Investigating irregular conduct, issuing a disciplinary punishment, and relieving or transferring official duties.
+**Scenario**: Investigating irregular conduct, issuing a formal disciplinary decree (处分令), and reaching an impartial conclusion that makes everyone reflect deeply (令人深思).
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2054,7 +2054,7 @@
 | 4 | **解除** | `jiěchú` | *Verb* | get rid of, relieve (sb of their duties) | giải trừ |
 | 5 | **调动** | `diàodòng` | *Verb* | transfer, shift | điều động |
 | 6 | **执行** | `zhíxíng` | *Verb* | carry out, implement | chấp hành |
-| 7 | **令** | `lìng` | *Verb* | order, | khiến, lệnh |
+| 7 | **令** | `lìng` | *Verb / Noun* | 1. make, cause (令人…); 2. decree, order (命令/处分令) | 1. khiến, làm cho (令人…); 2. mệnh lệnh, sắc lệnh (命令) |
 
 ---
 
@@ -2229,13 +2229,13 @@
 
 ### `H5_33_2` — 修剪指甲与周末闲暇 (Trimming Fingernails & Weekend Leisure) (🗣️ Dialogue)
 
-**Scenario**: Enjoying idle weekend time at home: trimming fingernails, pulling out weeds, and plugging in a lamp.
+**Scenario**: Enjoying weekend yard chores by pulling out weeds (拔草) and unplugging power tools (拔掉插头), while discussing an upcoming company talent selection (选拔人才).
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **指甲** | `zhǐjiǎ` | *Noun* | fingernail | móng tay |
 | 2 | **剪** | `jiǎn` | *Verb* | scissors, cut | cắt, kéo |
-| 3 | **拔** | `bá` | *Verb* | pull … up, pull … out, draw … out | BẠT: |
+| 3 | **拔** | `bá` | *Verb* | 1. pull out, unplug (拔草); 2. select, promote (选拔/提拔) | 1. nhổ, rút, ngắt (拔草/拔插头); 2. tuyển chọn, đề bạt (选拔) |
 | 4 | **插** | `chā` | *Verb* | insert, stick in | chọc, đâm, cắm (vào) |
 | 5 | **闲** | `xián` | *Adjective* | leisure, idle | nhàn, nhàn rỗi |
 | 6 | **随意** | `suíyì` | *Adjective* | do as one likes | tùy ý |
@@ -2379,12 +2379,12 @@
 
 ### `H5_35_3` — 拼搏向前与不惧艰难 (Striving Forward Despite Hardships) (🗣️ Dialogue)
 
-**Scenario**: Enduring hard times, working adventurously toward a goal, and moving forward step by step.
+**Scenario**: Enduring hardships, striving fiercely with all one's might (拼搏/拼命), and piecing together (拼在一起/拼图) various resources to achieve breakthroughs step by step.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **忍** | `rěn` | *Verb* | endure, | nhẫn, nhịn |
-| 2 | **拼** | `pīn` | *Verb* | adventurous, | PHANH: |
+| 2 | **拼** | `pīn` | *Verb* | 1. strive hard, risk all (拼搏/拼命); 2. piece together, combine (拼图) | 1. liều, dốc sức (拼搏/拼命); 2. ghép lại, gom chung (拼在一起) |
 | 3 | **艰难** | `jiānnán` | *Adjective* | hard | gian nan |
 | 4 | **向前** | `xiàngqián` | *Verb* | forward, onward | hướng về phía trước |
 | 5 | **确立** | `quèlì` | *Verb* | establish | xác lập, thiết lập |
@@ -2395,13 +2395,13 @@
 
 ### `H5_35_4` — 把握时机与改变命运 (Seizing Opportunities & Shaping Destiny) (📖 Passage)
 
-**Scenario**: Why seizing the right opportunity and acting immediately before it is too late can transform one's fortune.
+**Scenario**: Establishing lifelong goals (树立目标), acting immediately (立即/立决) before opportunities fade, and transforming bad luck into good fortune (转变命运/运气).
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **时机** | `shíjī` | *Noun* | opportunity | thời cơ |
-| 2 | **运** | `yùn` | *Verb* | fortune, fate, | Vận: vận chuyển, vận động |
-| 3 | **立** | `lì` | *Verb* | immediately, | LẬP: |
+| 2 | **运** | `yùn` | *Noun / Verb* | 1. fortune, destiny (命运/运气); 2. transport, convey (运送) | 1. vận mệnh, vận may (命运/运气); 2. vận chuyển, chở (运送) |
+| 3 | **立** | `lì` | *Verb / Adv* | 1. stand, establish (树立); 2. immediately (立即) | 1. đứng, thiết lập (树立/建立); 2. ngay lập tức (立即) |
 | 4 | **迟** | `chí` | *Adjective* | late, long | chậm, rề rà, dềnh dàng, trì trệ |
 | 5 | **所在** | `suǒzài` | *Noun* | where, lies in | nơi tồn tại, sở tại |
 | 6 | **意味着** | `yìwèizhe` | *Verb* | mean, imply | có nghĩa là, với hàm ý |
