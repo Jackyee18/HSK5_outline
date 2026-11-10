@@ -2271,17 +2271,16 @@
     "passage_id": "H5_32_1",
     "unit": 32,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "书信联络与寻物启事 (Correspondence, Contact & Announcements)",
+    "unit_title": "书信联络与人际沟通 (Correspondence, Contact & Interpersonal Tact)",
     "text_type": "dialogue",
     "title": "远方来信与及时回信 (Incoming Letters & Writing Back)",
-    "scenario": "Receiving a letter from a hometown friend, mentioning old times, and writing back to stay in touch.",
+    "scenario": "Receiving a letter from a hometown friend, mentioning old memories, and writing back to stay in touch.",
     "new_words": [
       "乡",
       "来信",
       "回信",
       "联络",
       "提起",
-      "期望",
       "时常"
     ]
   },
@@ -2289,16 +2288,15 @@
     "passage_id": "H5_32_2",
     "unit": 32,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "书信联络与寻物启事 (Correspondence, Contact & Announcements)",
+    "unit_title": "书信联络与人际沟通 (Correspondence, Contact & Interpersonal Tact)",
     "text_type": "dialogue",
     "title": "张贴寻物启事 (Posting a Lost-and-Found Notice)",
-    "scenario": "Knock on the office door to post a detailed lost-and-found notice describing the item and offering a reward.",
+    "scenario": "Posting a detailed lost-and-found notice in person to identify a lost item and offer a reward.",
     "new_words": [
       "启事",
       "详细",
       "认",
       "回报",
-      "敲",
       "本人",
       "如下"
     ]
@@ -2307,16 +2305,15 @@
     "passage_id": "H5_32_3",
     "unit": 32,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "书信联络与寻物启事 (Correspondence, Contact & Announcements)",
+    "unit_title": "书信联络与人际沟通 (Correspondence, Contact & Interpersonal Tact)",
     "text_type": "dialogue",
     "title": "城里偶遇老熟人 (Bumping Into an Acquaintance Downtown)",
-    "scenario": "Accidentally encountering an old acquaintance downtown and noticing how much has changed.",
+    "scenario": "Accidentally encountering an old acquaintance downtown and noticing that despite age differences, their bond remains the same.",
     "new_words": [
       "城里",
       "偶然",
       "接触",
       "年龄",
-      "差别",
       "仍旧",
       "明明"
     ]
@@ -2325,17 +2322,16 @@
     "passage_id": "H5_32_4",
     "unit": 32,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "书信联络与寻物启事 (Correspondence, Contact & Announcements)",
+    "unit_title": "书信联络与人际沟通 (Correspondence, Contact & Interpersonal Tact)",
     "text_type": "passage",
     "title": "言辞表达与沟通分寸 (Verbal Expression & Tact in Communication)",
-    "scenario": "How thoughtful language and indirect phrasing avoid embarrassing others during delicate conversations.",
+    "scenario": "How thoughtful language and indirect phrasing avoid putting others in a difficult spot during delicate conversations.",
     "new_words": [
       "言语",
       "说法",
       "间接",
       "为难",
       "出于",
-      "前提",
       "尽可能"
     ]
   },
@@ -2353,7 +2349,6 @@
       "握",
       "动手",
       "有力",
-      "加上",
       "得了"
     ]
   },
@@ -2371,8 +2366,7 @@
       "拔",
       "插",
       "闲",
-      "随意",
-      "也好"
+      "随意"
     ],
     "polysemy_focus": {
       "拔": "verb: pull out/unplug (拔草/拔插头) & verb: select/promote talents (选拔/提拔)"
@@ -2384,16 +2378,15 @@
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
     "unit_title": "肢体动作与日常细节 (Body Movements, Gestures & Everyday Details)",
     "text_type": "dialogue",
-    "title": "跟随脚步与礼貌让路 (Following Footsteps & Stepping Aside)",
-    "scenario": "Walking closely behind someone, coming up to the front, looking up, and standing to the side.",
+    "title": "敲门问候与跟随脚步 (Knocking Polite Greetings & Following Footsteps)",
+    "scenario": "Gently knocking on a door, walking closely behind someone to the front, looking up, and exchanging warm glances.",
     "new_words": [
+      "敲",
       "脚步",
       "跟随",
       "跟前",
-      "旁",
       "抬头",
-      "目光",
-      "偷偷"
+      "目光"
     ]
   },
   {
@@ -2403,14 +2396,13 @@
     "unit_title": "肢体动作与日常细节 (Body Movements, Gestures & Everyday Details)",
     "text_type": "passage",
     "title": "细节之中的个人面貌 (Personal Outlook Revealed in Small Details)",
-    "scenario": "How a person's everyday posture and small habits reveal their inner spirit and energy.",
+    "scenario": "How a person's everyday posture and small habits reveal their inner spirit and outlook.",
     "new_words": [
       "面貌",
       "展现",
       "展示",
       "带有",
       "有着",
-      "之中",
       "一句话"
     ]
   },
@@ -2418,7 +2410,7 @@
     "passage_id": "H5_34_1",
     "unit": 34,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "公益志愿与社会福利 (Volunteering, Charity & Social Welfare)",
+    "unit_title": "公益志愿与社会关怀 (Volunteering, Charity & Social Care)",
     "text_type": "dialogue",
     "title": "公益社团与爱心捐赠 (Charity Club & Book Donations)",
     "scenario": "Mobilizing a campus club where volunteers collect second-hand books and give them away to rural schools.",
@@ -2428,15 +2420,14 @@
       "动员",
       "自愿",
       "收集",
-      "贈送",
-      "在内"
+      "贈送"
     ]
   },
   {
     "passage_id": "H5_34_2",
     "unit": 34,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "公益志愿与社会福利 (Volunteering, Charity & Social Welfare)",
+    "unit_title": "公益志愿与社会关怀 (Volunteering, Charity & Social Care)",
     "text_type": "dialogue",
     "title": "完善社会福利与优先照顾 (Improving Social Welfare & Priority Care)",
     "scenario": "Advocating social welfare and priority assistance for vulnerable people who suffer misfortune.",
@@ -2446,25 +2437,23 @@
       "优先",
       "不幸",
       "必需",
-      "寻求",
-      "使得"
+      "寻求"
     ]
   },
   {
     "passage_id": "H5_34_3",
     "unit": 34,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "公益志愿与社会福利 (Volunteering, Charity & Social Welfare)",
+    "unit_title": "公益志愿与社会关怀 (Volunteering, Charity & Social Care)",
     "text_type": "dialogue",
     "title": "关注职场性别与收入差距 (Addressing Gender & Income Gaps)",
-    "scenario": "Discussing equal rights for male and female employees and narrowing income gaps.",
+    "scenario": "Discussing equal rights and expectations for male and female employees while narrowing income differences.",
     "new_words": [
       "女性",
       "男性",
+      "差别",
       "差距",
       "相等",
-      "划分",
-      "分成",
       "尽管"
     ]
   },
@@ -2472,18 +2461,17 @@
     "passage_id": "H5_34_4",
     "unit": 34,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "公益志愿与社会福利 (Volunteering, Charity & Social Welfare)",
+    "unit_title": "公益志愿与社会关怀 (Volunteering, Charity & Social Care)",
     "text_type": "passage",
     "title": "珍爱生命与危机干预 (Cherishing Life & Crisis Intervention)",
-    "scenario": "How community counselors intervene to prevent tragedies like suicide and help people in deep distress.",
+    "scenario": "How community counselors intervene to prevent tragedies and help people in deep psychological distress.",
     "new_words": [
       "自杀",
       "深处",
       "干预",
       "损害",
       "起到",
-      "处在",
-      "之下"
+      "处在"
     ]
   },
   {
@@ -2500,8 +2488,7 @@
       "缺乏",
       "意识",
       "放弃",
-      "肯定",
-      "全都"
+      "肯定"
     ]
   },
   {
@@ -2518,8 +2505,7 @@
       "狂",
       "过于",
       "不利",
-      "阻碍",
-      "因而"
+      "阻碍"
     ]
   },
   {
@@ -2536,8 +2522,7 @@
       "艰难",
       "向前",
       "确立",
-      "搞好",
-      "将要"
+      "搞好"
     ],
     "polysemy_focus": {
       "拼": "verb: strive hard/go all out (拼搏/拼命) & verb: piece together/combine (拼在一起/拼图)"
@@ -2556,7 +2541,6 @@
       "运",
       "立",
       "迟",
-      "所在",
       "意味着",
       "一下子"
     ],
@@ -2572,14 +2556,13 @@
     "unit_title": "公众选举与观点交锋 (Public Elections, Debates & Standpoints)",
     "text_type": "dialogue",
     "title": "代表当选与新闻发布 (Representative Election & Press Release)",
-    "scenario": "Public figures congratulating a newly elected representative as the central committee issues an official release.",
+    "scenario": "Public figures congratulating a newly elected representative as the central committee issues an official release today.",
     "new_words": [
       "人士",
       "当选",
       "发布",
       "中央",
       "指示",
-      "对应",
       "今日"
     ]
   },
@@ -2590,15 +2573,14 @@
     "unit_title": "公众选举与观点交锋 (Public Elections, Debates & Standpoints)",
     "text_type": "dialogue",
     "title": "公开辩论与立场争议 (Public Debate & Conflicting Standpoints)",
-    "scenario": "Two sides holding opposing standpoints in a heated debate and criticizing each other's arguments.",
+    "scenario": "Two sides holding opposing standpoints in a serious debate and criticizing each other's arguments.",
     "new_words": [
       "立场",
       "争议",
       "对立",
       "指责",
       "严肃",
-      "视为",
-      "不止"
+      "视为"
     ]
   },
   {
@@ -2615,7 +2597,6 @@
       "势力",
       "公正",
       "认定",
-      "从中",
       "其"
     ]
   },
@@ -2626,15 +2607,14 @@
     "unit_title": "公众选举与观点交锋 (Public Elections, Debates & Standpoints)",
     "text_type": "passage",
     "title": "消除干扰与理性交流 (Eliminating Interference & Rational Exchange)",
-    "scenario": "Why public discussions should avoid disturbing others, set a good example, and rely on reason.",
+    "scenario": "Why public discussions should avoid external interference, set a good example, and respond appropriately.",
     "new_words": [
       "干扰",
       "示范",
       "外界",
       "情形",
       "相应",
-      "加以",
-      "之外"
+      "加以"
     ]
   },
   {
@@ -2644,15 +2624,14 @@
     "unit_title": "项目启动与采购调配 (Project Launch, Procurement & Allocation)",
     "text_type": "dialogue",
     "title": "启动新项目与特定区域 (Launching a Project in a Designated Zone)",
-    "scenario": "Activating a two-month pilot project in a designated area and calling on staff to support it.",
+    "scenario": "Activating a two-month pilot project in a designated area and calling on staff to work on it.",
     "new_words": [
       "启动",
       "为期",
       "特定",
       "区域",
       "号召",
-      "搞",
-      "至"
+      "搞"
     ]
   },
   {
@@ -2669,8 +2648,7 @@
       "充足",
       "剩",
       "原有",
-      "单一",
-      "为止"
+      "单一"
     ]
   },
   {
@@ -2680,13 +2658,12 @@
     "unit_title": "项目启动与采购调配 (Project Launch, Procurement & Allocation)",
     "text_type": "dialogue",
     "title": "业务分离与合同终止 (Business Separation & Contract Termination)",
-    "scenario": "Separating a subsidiary branch, interrupting outdated operations, and formally terminating an old contract.",
+    "scenario": "Separating a subsidiary branch, interrupting outdated operations, and formally terminating an old contract without exception.",
     "new_words": [
       "分离",
       "中断",
       "终止",
       "例外",
-      "逃",
       "随后",
       "再次"
     ]
@@ -2697,41 +2674,39 @@
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
     "unit_title": "项目启动与采购调配 (Project Launch, Procurement & Allocation)",
     "text_type": "passage",
-    "title": "资源流动与区域平衡 (Resource Mobility & Regional Balance)",
-    "scenario": "How the flow of talent and resources between north and south narrows regional bottlenecks.",
+    "title": "部门划分与前提条件 (Departmental Division & Prerequisite Conditions)",
+    "scenario": "How dividing project teams into clear sections and meeting core prerequisites ensures smooth execution.",
     "new_words": [
-      "流动",
-      "南北",
-      "制约",
-      "延伸",
-      "主体",
-      "上下",
-      "此时"
+      "划分",
+      "分成",
+      "前提",
+      "对应",
+      "在内",
+      "使得"
     ]
   },
   {
     "passage_id": "H5_38_1",
     "unit": 38,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "时代变迁与全球视野 (Era Changes & Global Perspectives)",
+    "unit_title": "区域平衡与时代动态 (Regional Balance & Era Dynamics)",
     "text_type": "dialogue",
-    "title": "全球共享与绿色倡议 (Global Sharing & Green Initiatives)",
-    "scenario": "Advocating shared prosperity across the entire world and accelerating international cooperation.",
+    "title": "人才流动与南北联通 (Talent Mobility & North-South Connectivity)",
+    "scenario": "Discussing how the flow of talent between north and south overcomes regional bottlenecks and extends development.",
     "new_words": [
-      "全世界",
-      "繁荣",
-      "共享",
-      "倡导",
-      "加速",
-      "拥有",
-      "广"
+      "流动",
+      "南北",
+      "制约",
+      "延伸",
+      "主体",
+      "上下"
     ]
   },
   {
     "passage_id": "H5_38_2",
     "unit": 38,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "时代变迁与全球视野 (Era Changes & Global Perspectives)",
+    "unit_title": "区域平衡与时代动态 (Regional Balance & Era Dynamics)",
     "text_type": "dialogue",
     "title": "当前动态与增长趋势 (Current Trends & Rapid Growth)",
     "scenario": "Analyzing current industry dynamics as user numbers and output increase in a straight upward line.",
@@ -2741,15 +2716,82 @@
       "动态",
       "局面",
       "直线",
-      "增多",
-      "增"
+      "增多"
     ]
   },
   {
     "passage_id": "H5_38_3",
     "unit": 38,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "时代变迁与全球视野 (Era Changes & Global Perspectives)",
+    "unit_title": "区域平衡与时代动态 (Regional Balance & Era Dynamics)",
+    "text_type": "dialogue",
+    "title": "现场观察与核心所在 (On-Site Observation & Finding the Core Issue)",
+    "scenario": "Standing beside the project site to observe silently, spotting someone trying to slip away, and identifying the crux of the issue.",
+    "new_words": [
+      "旁",
+      "偷偷",
+      "逃",
+      "所在",
+      "从中",
+      "此时"
+    ]
+  },
+  {
+    "passage_id": "H5_38_4",
+    "unit": 38,
+    "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
+    "unit_title": "区域平衡与时代动态 (Regional Balance & Era Dynamics)",
+    "text_type": "passage",
+    "title": "综合考量与长远期许 (Comprehensive Consideration & Long-Term Expectations)",
+    "scenario": "Why fulfilling public expectations requires considering multiple factors from start to finish.",
+    "new_words": [
+      "期望",
+      "加上",
+      "全都",
+      "不止",
+      "至",
+      "为止"
+    ]
+  },
+  {
+    "passage_id": "H5_39_1",
+    "unit": 39,
+    "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
+    "unit_title": "全球视野与人类愿景 (Global Perspectives & Humanity's Shared Vision)",
+    "text_type": "dialogue",
+    "title": "全球共享与绿色倡议 (Global Sharing & Green Initiatives)",
+    "scenario": "Advocating shared prosperity across the entire world and accelerating broad international cooperation.",
+    "new_words": [
+      "全世界",
+      "繁荣",
+      "共享",
+      "倡导",
+      "加速",
+      "广"
+    ]
+  },
+  {
+    "passage_id": "H5_39_2",
+    "unit": 39,
+    "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
+    "unit_title": "全球视野与人类愿景 (Global Perspectives & Humanity's Shared Vision)",
+    "text_type": "dialogue",
+    "title": "拓展资源与持续增长 (Expanding Resources & Sustained Growth)",
+    "scenario": "Discussing how possessing core capabilities and expanding cooperation will soon boost overall growth.",
+    "new_words": [
+      "拥有",
+      "增",
+      "之中",
+      "之下",
+      "之外",
+      "将要"
+    ]
+  },
+  {
+    "passage_id": "H5_39_3",
+    "unit": 39,
+    "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
+    "unit_title": "全球视野与人类愿景 (Global Perspectives & Humanity's Shared Vision)",
     "text_type": "dialogue",
     "title": "盛会闭幕与历史见证 (Closing Ceremony & Witnessing Major Events)",
     "scenario": "Public audiences being present at a grand closing ceremony and witnessing major historical events.",
@@ -2758,14 +2800,15 @@
       "群众",
       "大事",
       "在场",
-      "震惊"
+      "震惊",
+      "也好"
     ]
   },
   {
-    "passage_id": "H5_38_4",
-    "unit": 38,
+    "passage_id": "H5_39_4",
+    "unit": 39,
     "module": "Module 8: Society, History & Global Perspectives (社会人文与全球视野)",
-    "unit_title": "时代变迁与全球视野 (Era Changes & Global Perspectives)",
+    "unit_title": "全球视野与人类愿景 (Global Perspectives & Humanity's Shared Vision)",
     "text_type": "passage",
     "title": "防灾合作与人类愿景 (Disaster Prevention & Humanity's Shared Vision)",
     "scenario": "Why defending against global disasters and achieving tangible results benefits humanity's shared aspirations.",
@@ -2774,7 +2817,8 @@
       "保卫",
       "成效",
       "有利于",
-      "愿"
+      "愿",
+      "因而"
     ]
   }
 ]

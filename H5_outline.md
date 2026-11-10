@@ -1,8 +1,8 @@
 # HSK 5 Curriculum Syllabus & Outline
 
-> **Quick Stats**: 38 Units · 152 Lessons · 1,060 Words (100% HSK 5 Vocabulary Coverage)
-> **Structure**: 114 Dialogues + 38 Passages (4 lessons per unit: 3 Dialogues + 1 Passage)
-> **Lesson Pace**: 5–7 new words per lesson, organized around natural, cohesive scenarios.
+> **Quick Stats**: 39 Units · 156 Lessons · 1,060 Words (100% HSK 5 Vocabulary Coverage)
+> **Structure**: 115 Dialogues + 41 Passages (4 lessons per unit: 3 Dialogues + 1 Passage)
+> **Lesson Pace**: 6–7 new words per lesson (Units 1–31: 7 words/lesson; Units 32–39: 6 words/lesson), organized around natural, cohesive scenarios.
 
 ---
 
@@ -54,13 +54,14 @@
 
 ### Module 8: Society, History & Global Perspectives (社会人文与全球视野)
 - **Unit 31**: 边疆保卫与历史峥嵘 (Border Defense & Historical Struggles)
-- **Unit 32**: 书信联络与寻物启事 (Correspondence, Contact & Announcements)
+- **Unit 32**: 书信联络与人际沟通 (Correspondence, Contact & Interpersonal Tact)
 - **Unit 33**: 肢体动作与日常细节 (Body Movements, Gestures & Everyday Details)
-- **Unit 34**: 公益志愿与社会福利 (Volunteering, Charity & Social Welfare)
+- **Unit 34**: 公益志愿与社会关怀 (Volunteering, Charity & Social Care)
 - **Unit 35**: 戒除恶习与自我突破 (Breaking Bad Habits & Self-Improvement)
 - **Unit 36**: 公众选举与观点交锋 (Public Elections, Debates & Standpoints)
 - **Unit 37**: 项目启动与采购调配 (Project Launch, Procurement & Allocation)
-- **Unit 38**: 时代变迁与全球视野 (Era Changes & Global Perspectives)
+- **Unit 38**: 区域平衡与时代动态 (Regional Balance & Era Dynamics)
+- **Unit 39**: 全球视野与人类愿景 (Global Perspectives & Humanity's Shared Vision)
 
 ---
 
@@ -2141,12 +2142,12 @@
 
 ---
 
-## Unit 32: 书信联络与寻物启事 (Correspondence, Contact & Announcements)
+## Unit 32: 书信联络与人际沟通 (Correspondence, Contact & Interpersonal Tact)
 *Module 8: Society, History & Global Perspectives (社会人文与全球视野)*
 
 ### `H5_32_1` — 远方来信与及时回信 (Incoming Letters & Writing Back) (🗣️ Dialogue)
 
-**Scenario**: Receiving a letter from a hometown friend, mentioning old times, and writing back to stay in touch.
+**Scenario**: Receiving a letter from a hometown friend, mentioning old memories, and writing back to stay in touch.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2155,14 +2156,13 @@
 | 3 | **回信** | `huíxìn` | *Noun* | letter written in reply, write back | hồi âm, trả lời, phúc đáp |
 | 4 | **联络** | `liánluò` | *Verb* | contact | liên lạc |
 | 5 | **提起** | `tíqǐ` | *Verb* | regarding | đề cập, nói đến, nhắc đến |
-| 6 | **期望** | `qīwàng` | *Noun* | hope, have expectations | kỳ vọng, mong đợi |
-| 7 | **时常** | `shícháng` | *Adverb* | frequently, often | thường thường, luôn luôn |
+| 6 | **时常** | `shícháng` | *Adverb* | frequently, often | thường thường, luôn luôn |
 
 ---
 
 ### `H5_32_2` — 张贴寻物启事 (Posting a Lost-and-Found Notice) (🗣️ Dialogue)
 
-**Scenario**: Knock on the office door to post a detailed lost-and-found notice describing the item and offering a reward.
+**Scenario**: Posting a detailed lost-and-found notice in person to identify a lost item and offer a reward.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2170,15 +2170,14 @@
 | 2 | **详细** | `xiángxì` | *Adjective* | detailed | chi tiết, tỉ  mỉ |
 | 3 | **认** | `rèn` | *Verb* | know, recognize | Nhận: nhận thức, phân biệt |
 | 4 | **回报** | `huíbào` | *Noun* | repay, report back | hồi báo, đền đáp, báo đáp lại |
-| 5 | **敲** | `qiāo` | *Verb* | knock, beat, strike | gõ, khua |
-| 6 | **本人** | `běnrén` | *Pronoun* | oneself | bản thân, tự tôi |
-| 7 | **如下** | `rúxià` | *Adverb* | as follows | như sau, dưới đây, sau đây |
+| 5 | **本人** | `běnrén` | *Pronoun* | oneself | bản thân, tự tôi |
+| 6 | **如下** | `rúxià` | *Adverb* | as follows | như sau, dưới đây, sau đây |
 
 ---
 
 ### `H5_32_3` — 城里偶遇老熟人 (Bumping Into an Acquaintance Downtown) (🗣️ Dialogue)
 
-**Scenario**: Accidentally encountering an old acquaintance downtown and noticing how much has changed.
+**Scenario**: Accidentally encountering an old acquaintance downtown and noticing that despite age differences, their bond remains the same.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2186,15 +2185,14 @@
 | 2 | **偶然** | `ǒurán` | *Adjective* | accidental, by chance | ngẫu nghiên |
 | 3 | **接触** | `jiēchù` | *Verb* | come into contact with, encounter | tiếp xúc |
 | 4 | **年龄** | `niánlíng` | *Noun* | age | tuổi tác |
-| 5 | **差别** | `chābié` | *Noun* | difference | khác biệt |
-| 6 | **仍旧** | `réngjiù` | *Adverb* | still, as ever | như cũ, vẫn, cứ |
-| 7 | **明明** | `míngmíng` | *Adverb* | evidently, undoubtedly | minh minh, rõ ràng, chắc chắn |
+| 5 | **仍旧** | `réngjiù` | *Adverb* | still, as ever | như cũ, vẫn, cứ |
+| 6 | **明明** | `míngmíng` | *Adverb* | evidently, undoubtedly | minh minh, rõ ràng, chắc chắn |
 
 ---
 
 ### `H5_32_4` — 言辞表达与沟通分寸 (Verbal Expression & Tact in Communication) (📖 Passage)
 
-**Scenario**: How thoughtful language and indirect phrasing avoid embarrassing others during delicate conversations.
+**Scenario**: How thoughtful language and indirect phrasing avoid putting others in a difficult spot during delicate conversations.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2203,8 +2201,7 @@
 | 3 | **间接** | `jiànjiē` | *Adjective* | indirect | gián tiếp |
 | 4 | **为难** | `wéinán` | *Noun* | embarass, make things difficult for | làm khó, gây khó khăn |
 | 5 | **出于** | `chūyú` | *Verb* | stem from, proceed from, due to | do bởi, gây ra bởi |
-| 6 | **前提** | `qiántí` | *Noun* | precondition, premise | tiền đề, điều kiện tiên quyết |
-| 7 | **尽可能** | `jìnkěnéng` | *Adverb* | do one's utmost, as far as possible | cố gắng hết khả năng |
+| 6 | **尽可能** | `jìnkěnéng` | *Adverb* | do one's utmost, as far as possible | cố gắng hết khả năng |
 
 ---
 
@@ -2222,8 +2219,7 @@
 | 3 | **握** | `wò` | *Verb* | grasp | nắm, bắt, cầm |
 | 4 | **动手** | `dòngshǒu` | *Verb* | begin/start (to do sth.), raise a hand to strike or hit | động thủ, bắt tay vào làm, giơ tay đánh/đập |
 | 5 | **有力** | `yǒulì` | *Adjective* | strong, powerful, forceful | mạnh mẽ, hùng hồn |
-| 6 | **加上** | `jiāshàng` | *Verb* | in addition, | thêm nữa, cộng thêm |
-| 7 | **得了** | `dé le` | *Verb* | be finished, that's enough | được, được rồi, thôi đi |
+| 6 | **得了** | `dé le` | *Verb* | be finished, that's enough | được, được rồi, thôi đi |
 
 ---
 
@@ -2239,29 +2235,27 @@
 | 4 | **插** | `chā` | *Verb* | insert, stick in | chọc, đâm, cắm (vào) |
 | 5 | **闲** | `xián` | *Adjective* | leisure, idle | nhàn, nhàn rỗi |
 | 6 | **随意** | `suíyì` | *Adjective* | do as one likes | tùy ý |
-| 7 | **也好** | `yěhǎo` | *Phrase* | also good | cũng được, hoặc này hoặc kia cũng được |
 
 ---
 
-### `H5_33_3` — 跟随脚步与礼貌让路 (Following Footsteps & Stepping Aside) (🗣️ Dialogue)
+### `H5_33_3` — 敲门问候与跟随脚步 (Knocking Polite Greetings & Following Footsteps) (🗣️ Dialogue)
 
-**Scenario**: Walking closely behind someone, coming up to the front, looking up, and standing to the side.
+**Scenario**: Gently knocking on a door, walking closely behind someone to the front, looking up, and exchanging warm glances.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **脚步** | `jiǎobù` | *Noun* | footstep, step | bước chân |
-| 2 | **跟随** | `gēnsuí` | *Verb* | follow | theo, đi theo |
-| 3 | **跟前** | `gēnqián` | *Noun* | in front of, close to | bên cạnh, sắp tới |
-| 4 | **旁** | `páng` | *Noun* | side, beside | bên cạnh, cạnh, cạnh bên |
+| 1 | **敲** | `qiāo` | *Verb* | knock, beat, strike | gõ, khua |
+| 2 | **脚步** | `jiǎobù` | *Noun* | footstep, step | bước chân |
+| 3 | **跟随** | `gēnsuí` | *Verb* | follow | theo, đi theo |
+| 4 | **跟前** | `gēnqián` | *Noun* | in front of, close to | bên cạnh, sắp tới |
 | 5 | **抬头** | `táitóu` | *Verb* | raise one's head, gain ground | ngẩng đầu |
 | 6 | **目光** | `mùguāng` | *Noun* | gaze, look | ánh mắt, tầm mắt |
-| 7 | **偷偷** | `tōutōu` | *Adverb* | secretly | lén lén, lén lút |
 
 ---
 
 ### `H5_33_4` — 细节之中的个人面貌 (Personal Outlook Revealed in Small Details) (📖 Passage)
 
-**Scenario**: How a person's everyday posture and small habits reveal their inner spirit and energy.
+**Scenario**: How a person's everyday posture and small habits reveal their inner spirit and outlook.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2270,12 +2264,11 @@
 | 3 | **展示** | `zhǎnshì` | *Verb* | reveal | mở ra, bày ra, phơi ra(một cách rõ ràng) |
 | 4 | **带有** | `dàiyǒu` | *Verb* | contain | mang theo có |
 | 5 | **有着** | `yǒuzhe` | *Verb* | have, possess | có, tồn tại |
-| 6 | **之中** | `zhīzhōng` | *Phrase* | among, during | trong … |
-| 7 | **一句话** | `yījù huà` | *Noun* | in a word, in short | một câu nói |
+| 6 | **一句话** | `yījù huà` | *Noun* | in a word, in short | một câu nói |
 
 ---
 
-## Unit 34: 公益志愿与社会福利 (Volunteering, Charity & Social Welfare)
+## Unit 34: 公益志愿与社会关怀 (Volunteering, Charity & Social Care)
 *Module 8: Society, History & Global Perspectives (社会人文与全球视野)*
 
 ### `H5_34_1` — 公益社团与爱心捐赠 (Charity Club & Book Donations) (🗣️ Dialogue)
@@ -2290,7 +2283,6 @@
 | 4 | **自愿** | `zìyuàn` | *Adjective* | volunteer (to do sth.) | tự nguyện |
 | 5 | **收集** | `shōují` | *Verb* | collect | thu thập, thu gom |
 | 6 | **贈送** | `zèngsòng` | *Verb* | give away | biếu, tặng |
-| 7 | **在内** | `zàinèi` | *Phrase* | among them, (included) in it | ở trong |
 
 ---
 
@@ -2306,29 +2298,27 @@
 | 4 | **不幸** | `bùxìng` | *Noun* | unhappy, disaster | bất hạnh, không may |
 | 5 | **必需** | `bìxū` | *Adjective* | need | cần, cần thiết, thiết yếu, phải có |
 | 6 | **寻求** | `xúnqiú` | *Verb* | seek | tìm kiếm |
-| 7 | **使得** | `shǐde` | *Verb* | make, cause | khiến cho, làm cho |
 
 ---
 
 ### `H5_34_3` — 关注职场性别与收入差距 (Addressing Gender & Income Gaps) (🗣️ Dialogue)
 
-**Scenario**: Discussing equal rights for male and female employees and narrowing income gaps.
+**Scenario**: Discussing equal rights and expectations for male and female employees while narrowing income differences.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **女性** | `nǚxìng` | *Noun* | woman, the female sex | nữ tính, phụ nữ |
 | 2 | **男性** | `nánxìng` | *Noun* | a male, the male sex | nam tính, giới tính nam, đàn ông |
-| 3 | **差距** | `chājù` | *Noun* | gap, difference | chênh lệch, khoảng cách |
-| 4 | **相等** | `xiāngděng` | *Adjective* | be equal to, equal, equivalent | bằng nhau, bằng |
-| 5 | **划分** | `huàfēn` | *Verb* | divide, differentiate | phân chia |
-| 6 | **分成** | `fēnchéng` | *Verb* | divide | chia, phân |
-| 7 | **尽管** | `jǐnguǎn` | *Conjunction* | although | cứ, cứ việc, 2, cho dù, mặc dù |
+| 3 | **差别** | `chābié` | *Noun* | difference | khác biệt |
+| 4 | **差距** | `chājù` | *Noun* | gap, difference | chênh lệch, khoảng cách |
+| 5 | **相等** | `xiāngděng` | *Adjective* | be equal to, equal, equivalent | bằng nhau, bằng |
+| 6 | **尽管** | `jǐnguǎn` | *Conjunction* | although | cứ, cứ việc, 2, cho dù, mặc dù |
 
 ---
 
 ### `H5_34_4` — 珍爱生命与危机干预 (Cherishing Life & Crisis Intervention) (📖 Passage)
 
-**Scenario**: How community counselors intervene to prevent tragedies like suicide and help people in deep distress.
+**Scenario**: How community counselors intervene to prevent tragedies and help people in deep psychological distress.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2338,7 +2328,6 @@
 | 4 | **损害** | `sǔnhài` | *Verb* | harm, damage | tổn hại |
 | 5 | **起到** | `qǐdào` | *Verb* | Up to | đóng vai trò, làm nên |
 | 6 | **处在** | `chùzài` | *Verb* | be in | trú tại, ở tại |
-| 7 | **之下** | `zhīxià` | *Preposition* | beneath, under | ở dưới |
 
 ---
 
@@ -2357,7 +2346,6 @@
 | 4 | **意识** | `yìshí` | *Noun* | consciousness, be aware of, realize | ý thức, nhận thức rõ |
 | 5 | **放弃** | `fàngqì` | *Verb* | give up | từ bỏ |
 | 6 | **肯定** | `kěndìng` | *Verb* | surely, certainly | khẳng định, chắc rằng, thừa nhận |
-| 7 | **全都** | `quándōu` | *Adverb* | all, without exception | toàn bộ đều |
 
 ---
 
@@ -2373,7 +2361,6 @@
 | 4 | **过于** | `guòyú` | *Adverb* | too, excessively | quá, quá mức |
 | 5 | **不利** | `bùlì` | *Adjective* | disadvantageous | bất lợi |
 | 6 | **阻碍** | `zǔài` | *Verb* | hinder, impede | trở ngại, cản trở |
-| 7 | **因而** | `yīnér` | *Conjunction* | therefore, thus | cho nên, vì vậy mà |
 
 ---
 
@@ -2389,7 +2376,6 @@
 | 4 | **向前** | `xiàngqián` | *Verb* | forward, onward | hướng về phía trước |
 | 5 | **确立** | `quèlì` | *Verb* | establish | xác lập, thiết lập |
 | 6 | **搞好** | `gǎohǎo` | *Verb* | doing well | làm tốt, thực hiện tốt |
-| 7 | **将要** | `jiāngyào` | *Verb* | shall, be going to | sắp sửa, sắp |
 
 ---
 
@@ -2403,9 +2389,8 @@
 | 2 | **运** | `yùn` | *Noun / Verb* | 1. fortune, destiny (命运/运气); 2. transport, convey (运送) | 1. vận mệnh, vận may (命运/运气); 2. vận chuyển, chở (运送) |
 | 3 | **立** | `lì` | *Verb / Adv* | 1. stand, establish (树立); 2. immediately (立即) | 1. đứng, thiết lập (树立/建立); 2. ngay lập tức (立即) |
 | 4 | **迟** | `chí` | *Adjective* | late, long | chậm, rề rà, dềnh dàng, trì trệ |
-| 5 | **所在** | `suǒzài` | *Noun* | where, lies in | nơi tồn tại, sở tại |
-| 6 | **意味着** | `yìwèizhe` | *Verb* | mean, imply | có nghĩa là, với hàm ý |
-| 7 | **一下子** | `yīxiàzi` | *Adverb* | at a stroke, in one stroke | ngay lập tức, rất nhanh |
+| 5 | **意味着** | `yìwèizhe` | *Verb* | mean, imply | có nghĩa là, với hàm ý |
+| 6 | **一下子** | `yīxiàzi` | *Adverb* | at a stroke, in one stroke | ngay lập tức, rất nhanh |
 
 ---
 
@@ -2414,7 +2399,7 @@
 
 ### `H5_36_1` — 代表当选与新闻发布 (Representative Election & Press Release) (🗣️ Dialogue)
 
-**Scenario**: Public figures congratulating a newly elected representative as the central committee issues an official release.
+**Scenario**: Public figures congratulating a newly elected representative as the central committee issues an official release today.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2423,14 +2408,13 @@
 | 3 | **发布** | `fābù` | *Verb* | issue | tuyên bố, phát hành, thông báo |
 | 4 | **中央** | `zhōngyāng` | *Noun* | middle, center | trung ương |
 | 5 | **指示** | `zhǐshì` | *Noun* | instructions | chỉ thị |
-| 6 | **对应** | `duìyìng` | *Verb* | correspond | đối ứng, tương ứng, phù hợp |
-| 7 | **今日** | `jīnrì` | *Noun* | today | ngày hôm nay |
+| 6 | **今日** | `jīnrì` | *Noun* | today | ngày hôm nay |
 
 ---
 
 ### `H5_36_2` — 公开辩论与立场争议 (Public Debate & Conflicting Standpoints) (🗣️ Dialogue)
 
-**Scenario**: Two sides holding opposing standpoints in a heated debate and criticizing each other's arguments.
+**Scenario**: Two sides holding opposing standpoints in a serious debate and criticizing each other's arguments.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2440,7 +2424,6 @@
 | 4 | **指责** | `zhǐzé` | *Verb* | censure, criticize | chỉ trích, trách móc |
 | 5 | **严肃** | `yánsù` | *Adjective* | severe, solemn | nghiêm túc |
 | 6 | **视为** | `shìwèi` | *Verb* | account, consider as, to deem to be | xem là, coi là |
-| 7 | **不止** | `bùzhǐ` | *Adverb* | incessantly | không dứt, không thôi, ngoài |
 
 ---
 
@@ -2455,14 +2438,13 @@
 | 3 | **势力** | `shìlì` | *Noun* | power | thế lực |
 | 4 | **公正** | `gōngzhèng` | *Adjective* | impartial | công chính |
 | 5 | **认定** | `rèndìng` | *Verb* | firmly believe, hold | nhận định |
-| 6 | **从中** | `cóngzhōng` | *Adverb* | out of, from, among | từ trong đó |
-| 7 | **其** | `qí` | *Pronoun* | it (refers to sth preceding it) | Kỳ: |
+| 6 | **其** | `qí` | *Pronoun* | it (refers to sth preceding it) | Kỳ: |
 
 ---
 
 ### `H5_36_4` — 消除干扰与理性交流 (Eliminating Interference & Rational Exchange) (📖 Passage)
 
-**Scenario**: Why public discussions should avoid disturbing others, set a good example, and rely on reason.
+**Scenario**: Why public discussions should avoid external interference, set a good example, and respond appropriately.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2472,7 +2454,6 @@
 | 4 | **情形** | `qíngxíng` | *Noun* | circumstances, situation | tình hình |
 | 5 | **相应** | `xiāngyìng` | *Adjective* | corresponding | tương ứng |
 | 6 | **加以** | `jiāyǐ` | *Verb* | moreover, in addition | hơn nữa, thêm nữa |
-| 7 | **之外** | `zhīwài` | *Preposition* | excluding, outside | ngoài, ngoài ra |
 
 ---
 
@@ -2481,7 +2462,7 @@
 
 ### `H5_37_1` — 启动新项目与特定区域 (Launching a Project in a Designated Zone) (🗣️ Dialogue)
 
-**Scenario**: Activating a two-month pilot project in a designated area and calling on staff to support it.
+**Scenario**: Activating a two-month pilot project in a designated area and calling on staff to work on it.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2491,7 +2472,6 @@
 | 4 | **区域** | `qūyù` | *Noun* | area | khu vực, vùng |
 | 5 | **号召** | `hàozhào` | *Verb* | call, appeal | hiệu triệu, kêu gọi |
 | 6 | **搞** | `gǎo` | *Verb* | (followed by a complement) produce a certain effect or result | làm, tạo ra |
-| 7 | **至** | `zhì` | *Preposition* | until, most | CHÍ: đến, đến nỗi, cực kỳ |
 
 ---
 
@@ -2507,13 +2487,12 @@
 | 4 | **剩** | `shèng` | *Verb* | be left | còn lại, thừa lại |
 | 5 | **原有** | `yuányǒu` | *Noun* | former, original | vốn có ban đầu |
 | 6 | **单一** | `dānyī` | *Adjective* | single | đơn nhất, một loại, duy nhất |
-| 7 | **为止** | `wéizhǐ` | *Preposition* | up till, until | đến, cho đến. |
 
 ---
 
 ### `H5_37_3` — 业务分离与合同终止 (Business Separation & Contract Termination) (🗣️ Dialogue)
 
-**Scenario**: Separating a subsidiary branch, interrupting outdated operations, and formally terminating an old contract.
+**Scenario**: Separating a subsidiary branch, interrupting outdated operations, and formally terminating an old contract without exception.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2521,15 +2500,32 @@
 | 2 | **中断** | `zhōngduàn` | *Verb* | interrupt | gián đoạn, ngắt đoạn |
 | 3 | **终止** | `zhōngzhǐ` | *Noun* | stop, end | kết thúc, đình chỉ |
 | 4 | **例外** | `lìwài` | *Noun* | exception | ngoại lệ |
-| 5 | **逃** | `táo` | *Verb* | escape | trốn, trốn chạy |
-| 6 | **随后** | `suíhòu` | *Adverb* | soon after | theo sau |
-| 7 | **再次** | `zàicì` | *Adverb* | once again | lại lần nữa, lần thứ hai |
+| 5 | **随后** | `suíhòu` | *Adverb* | soon after | theo sau |
+| 6 | **再次** | `zàicì` | *Adverb* | once again | lại lần nữa, lần thứ hai |
 
 ---
 
-### `H5_37_4` — 资源流动与区域平衡 (Resource Mobility & Regional Balance) (📖 Passage)
+### `H5_37_4` — 部门划分与前提条件 (Departmental Division & Prerequisite Conditions) (📖 Passage)
 
-**Scenario**: How the flow of talent and resources between north and south narrows regional bottlenecks.
+**Scenario**: How dividing project teams into clear sections and meeting core prerequisites ensures smooth execution.
+
+| # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
+| :-: | :--- | :--- | :---: | :--- | :--- |
+| 1 | **划分** | `huàfēn` | *Verb* | divide, differentiate | phân chia |
+| 2 | **分成** | `fēnchéng` | *Verb* | divide | chia, phân |
+| 3 | **前提** | `qiántí` | *Noun* | precondition, premise | tiền đề, điều kiện tiên quyết |
+| 4 | **对应** | `duìyìng` | *Verb* | correspond | đối ứng, tương ứng, phù hợp |
+| 5 | **在内** | `zàinèi` | *Phrase* | among them, (included) in it | ở trong |
+| 6 | **使得** | `shǐde` | *Verb* | make, cause | khiến cho, làm cho |
+
+---
+
+## Unit 38: 区域平衡与时代动态 (Regional Balance & Era Dynamics)
+*Module 8: Society, History & Global Perspectives (社会人文与全球视野)*
+
+### `H5_38_1` — 人才流动与南北联通 (Talent Mobility & North-South Connectivity) (🗣️ Dialogue)
+
+**Scenario**: Discussing how the flow of talent between north and south overcomes regional bottlenecks and extends development.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2539,26 +2535,6 @@
 | 4 | **延伸** | `yánshēn` | *Verb* | stretch | kéo dài |
 | 5 | **主体** | `zhǔtǐ` | *Noun* | main part, agent | chủ thể, bộ phận chính, chủ chốt |
 | 6 | **上下** | `shàngxià` | *Noun* | about, up and down | trên dưới |
-| 7 | **此时** | `cǐshí` | *Noun* | now, at present, this moment | lúc này, khi này |
-
----
-
-## Unit 38: 时代变迁与全球视野 (Era Changes & Global Perspectives)
-*Module 8: Society, History & Global Perspectives (社会人文与全球视野)*
-
-### `H5_38_1` — 全球共享与绿色倡议 (Global Sharing & Green Initiatives) (🗣️ Dialogue)
-
-**Scenario**: Advocating shared prosperity across the entire world and accelerating international cooperation.
-
-| # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
-| :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **全世界** | `quánshìjiè` | *Noun* | entire world, worlwide | toàn thế giới |
-| 2 | **繁荣** | `fánróng` | *Noun* | flourishing | phồn vinh |
-| 3 | **共享** | `gòngxiǎng` | *Verb* | enjoy together, share | cùng hưởng, cùng chung |
-| 4 | **倡导** | `chàngdǎo` | *Verb* | advocate, propose | khởi xướng |
-| 5 | **加速** | `jiāsù` | *Verb* | speed up, expedite | tăng tốc |
-| 6 | **拥有** | `yōngyǒu` | *Verb* | own, possess | có, sở hữu |
-| 7 | **广** | `guǎng` | *Noun* | numerous, | Quảng, rộng, rộng rãi, phổ biến |
 
 ---
 
@@ -2574,11 +2550,73 @@
 | 4 | **局面** | `júmiàn` | *Noun* | situation | cục diện |
 | 5 | **直线** | `zhíxiàn` | *Noun* | sharply (rise or fall), | trực tiếp |
 | 6 | **增多** | `zēngduō` | *Verb* | grow in number, increase | tăng nhanh, tăng nhiều |
-| 7 | **增** | `zēng` | *Verb* | add, increase | Tăng: |
 
 ---
 
-### `H5_38_3` — 盛会闭幕与历史见证 (Closing Ceremony & Witnessing Major Events) (🗣️ Dialogue)
+### `H5_38_3` — 现场观察与核心所在 (On-Site Observation & Finding the Core Issue) (🗣️ Dialogue)
+
+**Scenario**: Standing beside the project site to observe silently, spotting someone trying to slip away, and identifying the crux of the issue.
+
+| # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
+| :-: | :--- | :--- | :---: | :--- | :--- |
+| 1 | **旁** | `páng` | *Noun* | side, beside | bên cạnh, cạnh, cạnh bên |
+| 2 | **偷偷** | `tōutōu` | *Adverb* | secretly | lén lén, lén lút |
+| 3 | **逃** | `táo` | *Verb* | escape | trốn, trốn chạy |
+| 4 | **所在** | `suǒzài` | *Noun* | where, lies in | nơi tồn tại, sở tại |
+| 5 | **从中** | `cóngzhōng` | *Adverb* | out of, from, among | từ trong đó |
+| 6 | **此时** | `cǐshí` | *Noun* | now, at present, this moment | lúc này, khi này |
+
+---
+
+### `H5_38_4` — 综合考量与长远期许 (Comprehensive Consideration & Long-Term Expectations) (📖 Passage)
+
+**Scenario**: Why fulfilling public expectations requires considering multiple factors from start to finish.
+
+| # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
+| :-: | :--- | :--- | :---: | :--- | :--- |
+| 1 | **期望** | `qīwàng` | *Noun* | hope, have expectations | kỳ vọng, mong đợi |
+| 2 | **加上** | `jiāshàng` | *Verb* | in addition, | thêm nữa, cộng thêm |
+| 3 | **全都** | `quándōu` | *Adverb* | all, without exception | toàn bộ đều |
+| 4 | **不止** | `bùzhǐ` | *Adverb* | incessantly | không dứt, không thôi, ngoài |
+| 5 | **至** | `zhì` | *Preposition* | until, most | CHÍ: đến, đến nỗi, cực kỳ |
+| 6 | **为止** | `wéizhǐ` | *Preposition* | up till, until | đến, cho đến. |
+
+---
+
+## Unit 39: 全球视野与人类愿景 (Global Perspectives & Humanity's Shared Vision)
+*Module 8: Society, History & Global Perspectives (社会人文与全球视野)*
+
+### `H5_39_1` — 全球共享与绿色倡议 (Global Sharing & Green Initiatives) (🗣️ Dialogue)
+
+**Scenario**: Advocating shared prosperity across the entire world and accelerating broad international cooperation.
+
+| # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
+| :-: | :--- | :--- | :---: | :--- | :--- |
+| 1 | **全世界** | `quánshìjiè` | *Noun* | entire world, worlwide | toàn thế giới |
+| 2 | **繁荣** | `fánróng` | *Noun* | flourishing | phồn vinh |
+| 3 | **共享** | `gòngxiǎng` | *Verb* | enjoy together, share | cùng hưởng, cùng chung |
+| 4 | **倡导** | `chàngdǎo` | *Verb* | advocate, propose | khởi xướng |
+| 5 | **加速** | `jiāsù` | *Verb* | speed up, expedite | tăng tốc |
+| 6 | **广** | `guǎng` | *Noun* | numerous, | Quảng, rộng, rộng rãi, phổ biến |
+
+---
+
+### `H5_39_2` — 拓展资源与持续增长 (Expanding Resources & Sustained Growth) (🗣️ Dialogue)
+
+**Scenario**: Discussing how possessing core capabilities and expanding cooperation will soon boost overall growth.
+
+| # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
+| :-: | :--- | :--- | :---: | :--- | :--- |
+| 1 | **拥有** | `yōngyǒu` | *Verb* | own, possess | có, sở hữu |
+| 2 | **增** | `zēng` | *Verb* | add, increase | Tăng: |
+| 3 | **之中** | `zhīzhōng` | *Phrase* | among, during | trong … |
+| 4 | **之下** | `zhīxià` | *Preposition* | beneath, under | ở dưới |
+| 5 | **之外** | `zhīwài` | *Preposition* | excluding, outside | ngoài, ngoài ra |
+| 6 | **将要** | `jiāngyào` | *Verb* | shall, be going to | sắp sửa, sắp |
+
+---
+
+### `H5_39_3` — 盛会闭幕与历史见证 (Closing Ceremony & Witnessing Major Events) (🗣️ Dialogue)
 
 **Scenario**: Public audiences being present at a grand closing ceremony and witnessing major historical events.
 
@@ -2589,10 +2627,11 @@
 | 3 | **大事** | `dàshì` | *Noun* | important event | đại sự, việc lớn |
 | 4 | **在场** | `zàichǎng` | *Verb* | be present, | tại chỗ, có mặt |
 | 5 | **震惊** | `zhènjīng` | *Verb* | shock, astonish | kinh ngạc, kinh hãi |
+| 6 | **也好** | `yěhǎo` | *Phrase* | also good | cũng được, hoặc này hoặc kia cũng được |
 
 ---
 
-### `H5_38_4` — 防灾合作与人类愿景 (Disaster Prevention & Humanity's Shared Vision) (📖 Passage)
+### `H5_39_4` — 防灾合作与人类愿景 (Disaster Prevention & Humanity's Shared Vision) (📖 Passage)
 
 **Scenario**: Why defending against global disasters and achieving tangible results benefits humanity's shared aspirations.
 
@@ -2603,5 +2642,6 @@
 | 3 | **成效** | `chéngxiào` | *Noun* | effect, result | hiệu quả, công hiệu |
 | 4 | **有利于** | `yǒulìyú` | *Verb* | profit | có lợi cho, có lợi với |
 | 5 | **愿** | `yuàn` | *Verb* | desire, hope, wish | Nguyện: |
+| 6 | **因而** | `yīnér` | *Conjunction* | therefore, thus | cho nên, vì vậy mà |
 
 ---
