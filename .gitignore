@@ -1,9 +1,10 @@
 # Ignore everything by default
 /*
 
-# Whitelist .gitignore itself
+# Whitelist deliverables
 !.gitignore
-
-# Whitelist only H5_outline.json and H5_outline.md
 !H5_outline.json
 !H5_outline.md
+!H5.json
+
+
