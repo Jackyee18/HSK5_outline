@@ -1174,17 +1174,16 @@
 
 ### `H5_17_3` — 手机铃声与剧场礼仪 (Phone Ringtones & Theater Etiquette) (🗣️ Dialogue)
 
-**Scenario**: Setting phones to vibrate in a theater, noticing a slanting stage prop in the distance, and watching attentively.
+**Scenario**: Setting phones to vibrate in a theater, looking at the stage in the distance, and watching attentively.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **铃声** | `língshēng` | *Noun* | bell stroke, ringtone | tiếng chuông |
 | 2 | **振动** | `zhèndòng` | *Verb* | vibrate | chấn động |
-| 3 | **斜** | `xié` | *Adjective* | oblique, slanting | nghiêng |
-| 4 | **远处** | `yuǎnchù` | *Noun* | place far away | viễn xứ, nơi xa, phương xa |
-| 5 | **注视** | `zhùshì` | *Verb* | gaze at, watch attentively | nhìn chăm chú |
-| 6 | **看出** | `kànchū` | *Verb* | make out, see | nhìn ra, xem ra |
-| 7 | **频繁** | `pínfán` | *Noun* | frequent | nhiều lần, tới tấp |
+| 3 | **远处** | `yuǎnchù` | *Noun* | place far away | viễn xứ, nơi xa, phương xa |
+| 4 | **注视** | `zhùshì` | *Verb* | gaze at, watch attentively | nhìn chăm chú |
+| 5 | **看出** | `kànchū` | *Verb* | make out, see | nhìn ra, xem ra |
+| 6 | **频繁** | `pínfán` | *Adjective* | frequent | thường xuyên, liên tục |
 
 ---
 
@@ -2210,7 +2209,7 @@
 
 ### `H5_33_1` — 搬运重物与搭手帮忙 (Lifting Heavy Items & Lending a Hand) (🗣️ Dialogue)
 
-**Scenario**: Carrying a load on the shoulder, lifting a heavy crate together, and gripping the handle firmly.
+**Scenario**: Carrying a load on the shoulder, lifting a heavy crate together, tilting it through a narrow door, and gripping firmly.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2220,6 +2219,7 @@
 | 4 | **动手** | `dòngshǒu` | *Verb* | begin/start (to do sth.), raise a hand to strike or hit | động thủ, bắt tay vào làm, giơ tay đánh/đập |
 | 5 | **有力** | `yǒulì` | *Adjective* | strong, powerful, forceful | mạnh mẽ, hùng hồn |
 | 6 | **得了** | `dé le` | *Verb* | be finished, that's enough | được, được rồi, thôi đi |
+| 7 | **斜** | `xié` | *Adjective* | oblique, slanting | nghiêng, chéo |
 
 ---
 

@@ -1209,11 +1209,10 @@
     "unit_title": "影视摄影与网络媒体 (Film, Photography & Social Media)",
     "text_type": "dialogue",
     "title": "手机铃声与剧场礼仪 (Phone Ringtones & Theater Etiquette)",
-    "scenario": "Setting phones to vibrate in a theater, noticing a slanting stage prop in the distance, and watching attentively.",
+    "scenario": "Setting phones to vibrate in a theater, looking at the stage in the distance, and watching attentively.",
     "new_words": [
       "铃声",
       "振动",
-      "斜",
       "远处",
       "注视",
       "看出",
@@ -2342,14 +2341,15 @@
     "unit_title": "肢体动作与日常细节 (Body Movements, Gestures & Everyday Details)",
     "text_type": "dialogue",
     "title": "搬运重物与搭手帮忙 (Lifting Heavy Items & Lending a Hand)",
-    "scenario": "Carrying a load on the shoulder, lifting a heavy crate together, and gripping the handle firmly.",
+    "scenario": "Carrying a load on the shoulder, lifting a heavy crate together, tilting it through a narrow door, and gripping firmly.",
     "new_words": [
       "肩",
       "抬",
       "握",
       "动手",
       "有力",
-      "得了"
+      "得了",
+      "斜"
     ]
   },
   {
