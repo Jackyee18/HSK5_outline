@@ -3789,12 +3789,12 @@
       {
         "line_id": 1,
         "speaker": "王芳",
-        "content": "明天就是中秋节了，我已经把买来的月饼、黄梨和甜桃都洗干净放在客厅了。",
-        "pinyin": "Míngtiān jiùshì zhōngqiūjié le ， wǒ yǐjīng bǎ mǎi lái de yuèbǐng 、 huáng lí hé tián táo dōu xǐ gānjìng fàng zài kètīng le 。",
+        "content": "明天就是中秋节了，我已经把买来的黄梨和甜桃都洗干净，月饼也放在客厅了。",
+        "pinyin": "Míngtiān jiùshì zhōngqiūjié le ， wǒ yǐjīng bǎ mǎi lái de huáng lí hé tián táo dōu xǐ gānjìng ， yuèbǐng yě fàng zài kètīng le 。",
         "audio_key": "H5_5_1_1",
         "translations": {
-          "en": "Tomorrow is the Mid-Autumn Festival. I've already washed the mooncakes, yellow pears, and sweet peaches I bought and put them in the living room.",
-          "vi": "Ngày mai là Tết Trung thu rồi. Em đã rửa sạch bánh trung thu, lê vàng và đào ngọt mua về rồi để ở phòng khách."
+          "en": "Tomorrow is the Mid-Autumn Festival. I've already washed the yellow pears and sweet peaches I bought, and I've put the mooncakes in the living room.",
+          "vi": "Ngày mai là Tết Trung thu rồi. Tôi đã rửa sạch lê vàng và đào ngọt mua về, bánh trung thu cũng đặt ở phòng khách rồi."
         },
         "tokens": [
           "明天",
@@ -3808,8 +3808,6 @@
           "买",
           "来",
           "的",
-          "月饼",
-          "、",
           "黄",
           "梨",
           "和",
@@ -3818,6 +3816,9 @@
           "都",
           "洗",
           "干净",
+          "，",
+          "月饼",
+          "也",
           "放",
           "在",
           "客厅",
@@ -4501,12 +4502,12 @@
       {
         "line_id": 6,
         "speaker": "小王",
-        "content": "太好了，收到这几朵美丽的鲜花和我们真诚的祝贺，她那天晚上一定会特别感动。",
-        "pinyin": "Tài hǎo le ， shōudào zhè jǐ duǒ měilì de xiānhuā hé wǒmen zhēnchéng de zhùhè ， tā nà tiān wǎnshàng yídìng huì tèbié gǎndòng 。",
+        "content": "太好了，收到我们的礼物和祝福，她那天晚上一定会特别感动。",
+        "pinyin": "Tài hǎo le ， shōudào wǒmen de lǐwù hé zhùfú ， tā nà tiān wǎnshàng yídìng huì tèbié gǎndòng 。",
         "audio_key": "H5_5_3_6",
         "translations": {
-          "en": "Great! Receiving these beautiful flowers and our sincere congratulations, she'll definitely be especially touched that evening.",
-          "vi": "Tốt quá, nhận được những bông hoa đẹp này và lời chúc chân thành của chúng ta, tối hôm đó cô ấy nhất định sẽ vô cùng cảm động."
+          "en": "That's great! When she receives our gifts and blessings, she'll definitely be deeply moved that evening.",
+          "vi": "Tuyệt quá! Khi nhận được quà và lời chúc của chúng ta, tối hôm đó cô ấy nhất định sẽ rất cảm động."
         },
         "tokens": [
           "太",
@@ -4514,17 +4515,11 @@
           "了",
           "，",
           "收到",
-          "这",
-          "几",
-          "朵",
-          "美丽",
-          "的",
-          "鲜花",
-          "和",
           "我们",
-          "真诚",
           "的",
-          "祝贺",
+          "礼物",
+          "和",
+          "祝福",
           "，",
           "她",
           "那",
@@ -15682,17 +15677,16 @@
       {
         "line_id": 2,
         "speaker": "小李",
-        "content": "好主意，要是在看演出的时候手机频繁响起来，一定会打扰周围的观众。",
-        "pinyin": "Hǎo zhǔyì ， yàoshì zài kàn yǎnchū de shíhòu shǒujī pínfán xiǎng qǐlái ， yídìng huì dǎrǎo zhōuwéi de guānzhòng 。",
+        "content": "好。要是在看演出的时候手机频繁响起来，一定会打扰周围的观众。",
+        "pinyin": "Hǎo 。 yàoshì zài kàn yǎnchū de shíhòu shǒujī pínfán xiǎng qǐlái ， yídìng huì dǎrǎo zhōuwéi de guānzhòng 。",
         "audio_key": "H5_17_3_2",
         "translations": {
-          "en": "Good idea. If phones keep ringing frequently during the performance, it will definitely disturb the audience around us.",
-          "vi": "Ý hay đấy, nếu điện thoại cứ reo liên tục trong lúc xem biểu diễn thì chắc chắn sẽ làm phiền khán giả xung quanh."
+          "en": "Okay. If phones keep ringing frequently during the performance, it will definitely disturb the audience around us.",
+          "vi": "Được. Nếu điện thoại cứ reo liên tục trong khi xem biểu diễn thì chắc chắn sẽ làm phiền khán giả xung quanh."
         },
         "tokens": [
           "好",
-          "主意",
-          "，",
+          "。",
           "要是",
           "在",
           "看",
@@ -27794,12 +27788,12 @@
       {
         "line_id": 2,
         "speaker": "李老师",
-        "content": "他们在艰苦的环境中安静地工作，忍受着一般人难以想象的寒冷和辛苦。",
-        "pinyin": "Tāmen zài jiānkǔ de huánjìng zhōng ānjìng dì gōngzuò ， rěnshòu zhe yìbān rén nányǐ xiǎngxiàng de hánlěng hé xīnkǔ 。",
+        "content": "他们在艰苦的环境中默默工作，忍受着一般人难以想象的寒冷和辛苦。",
+        "pinyin": "Tāmen zài jiānkǔ de huánjìng zhōng mòmò gōngzuò ， rěnshòu zhe yìbān rén nányǐ xiǎngxiàng de hánlěng hé xīnkǔ 。",
         "audio_key": "H5_31_3_2",
         "translations": {
-          "en": "They worked quietly in harsh environments, enduring cold and hardship that ordinary people could hardly imagine.",
-          "vi": "Họ làm việc lặng lẽ trong môi trường khắc nghiệt, chịu đựng cái lạnh và gian khổ mà người thường khó có thể tưởng tượng."
+          "en": "They worked silently in harsh environments, enduring cold and hardship that ordinary people could hardly imagine.",
+          "vi": "Họ âm thầm làm việc trong môi trường khắc nghiệt, chịu đựng cái lạnh và gian khổ mà người thường khó có thể tưởng tượng nổi."
         },
         "tokens": [
           "他们",
@@ -27808,8 +27802,7 @@
           "的",
           "环境",
           "中",
-          "安静",
-          "地",
+          "默默",
           "工作",
           "，",
           "忍受",
@@ -27896,12 +27889,12 @@
       {
         "line_id": 5,
         "speaker": "李老师",
-        "content": "此刻，当我们享受着安定的生活时，不能不想起那些安静付出的普通人。",
-        "pinyin": "Cǐkè ， dāng wǒmen xiǎngshòu zhe ān dìng de shēnghuó shí ， bùnéngbù xiǎngqǐ nàxiē ānjìng fùchū de pǔtōng rén 。",
+        "content": "此刻，当我们享受着安定的生活时，不能不想起那些为社会付出的人。",
+        "pinyin": "Cǐkè ， dāng wǒmen xiǎngshòu zhe ān dìng de shēnghuó shí ， bùnéngbù xiǎngqǐ nàxiē wèi shèhuì fùchū de rén 。",
         "audio_key": "H5_31_3_5",
         "translations": {
-          "en": "At this moment, as we enjoy a stable life, we cannot help but think of those ordinary people who contributed quietly.",
-          "vi": "Lúc này đây, khi chúng ta đang tận hưởng cuộc sống yên ổn, không thể không nhớ đến những người bình thường đã âm thầm cống hiến."
+          "en": "At this moment, as we enjoy a stable life, we cannot help but think of those who have contributed to society.",
+          "vi": "Lúc này, khi chúng ta đang tận hưởng cuộc sống yên ổn, không thể không nhớ đến những người đã cống hiến cho xã hội."
         },
         "tokens": [
           "此刻",
@@ -27919,10 +27912,10 @@
           "不能不",
           "想起",
           "那些",
-          "安静",
+          "为",
+          "社会",
           "付出",
           "的",
-          "普通",
           "人",
           "。"
         ]
@@ -28363,12 +28356,12 @@
       {
         "line_id": 6,
         "speaker": "李伟",
-        "content": "没错，我今天晚上就给他写一封长长的回信，以后也要和他多保持联络。",
-        "pinyin": "Méicuò ， wǒ jīntiān wǎnshàng jiù gěi tā xiě yì fēng zhǎng zhǎng de huíxìn ， yǐhòu yě yào hé tā duō bǎochí liánluò 。",
+        "content": "没错，我今天晚上就给他写一封回信，以后也要和他保持联系。",
+        "pinyin": "Méicuò ， wǒ jīntiān wǎnshàng jiù gěi tā xiě yì fēng huíxìn ， yǐhòu yě yào hé tā bǎochí liánxì 。",
         "audio_key": "H5_32_1_6",
         "translations": {
-          "en": "Exactly. I'll write him a long reply tonight, and I'll keep in touch with him more often from now on.",
-          "vi": "Đúng vậy, tối nay tôi sẽ viết cho anh ấy một lá thư hồi âm thật dài, sau này cũng sẽ giữ liên lạc nhiều hơn với anh ấy."
+          "en": "Exactly. I'll write him a reply tonight, and I'll keep in touch with him from now on.",
+          "vi": "Đúng vậy. Tối nay tôi sẽ viết thư hồi âm cho anh ấy, sau này cũng sẽ giữ liên lạc với anh ấy."
         },
         "tokens": [
           "没错",
@@ -28382,9 +28375,6 @@
           "写",
           "一",
           "封",
-          "长",
-          "长",
-          "的",
           "回信",
           "，",
           "以后",
@@ -28392,9 +28382,8 @@
           "要",
           "和",
           "他",
-          "多",
           "保持",
-          "联络",
+          "联系",
           "。"
         ]
       }
@@ -29749,12 +29738,12 @@
       {
         "line_id": 2,
         "speaker": "李老师",
-        "content": "无论是走路的样子，还是和别人交谈时的动作，都有着独特的个人特点。",
-        "pinyin": "Wúlùn shì zǒulù de yàngzi ， háishì hé biérén jiāo tán shí de dòngzuò ， dōu yǒuzhe dútè de gèrén tèdiǎn 。",
+        "content": "无论是走路的样子，还是和别人交谈时的动作，都有着自己的特点。",
+        "pinyin": "Wúlùn shì zǒulù de yàngzi ， háishì hé biérén jiāo tán shí de dòngzuò ， dōu yǒuzhe zìjǐ de tèdiǎn 。",
         "audio_key": "H5_33_4_2",
         "translations": {
-          "en": "Whether it's the way one walks or the movements when talking with others, they all have unique personal characteristics.",
-          "vi": "Dù là dáng đi hay động tác khi trò chuyện với người khác, đều có những đặc điểm cá nhân độc đáo."
+          "en": "Whether it's the way they walk or the gestures they make when talking with others, everyone has their own characteristics.",
+          "vi": "Dù là dáng đi hay động tác khi trò chuyện với người khác, mỗi người đều có đặc điểm riêng."
         },
         "tokens": [
           "无论",
@@ -29774,9 +29763,8 @@
           "，",
           "都",
           "有着",
-          "独特",
+          "自己",
           "的",
-          "个人",
           "特点",
           "。"
         ]
@@ -29852,19 +29840,18 @@
       {
         "line_id": 5,
         "speaker": "李老师",
-        "content": "这些看起来普通的日常小事，其实比好听的言语更有力量。",
-        "pinyin": "Zhèxiē kànqǐlái pǔtōng de rìcháng xiǎo shì ， qíshí bǐ hǎotīng de yányǔ gèng yǒu lìliàng 。",
+        "content": "这些看起来普通的小事，其实比好听的言语更有力量。",
+        "pinyin": "Zhèxiē kànqǐlái pǔtōng de xiǎo shì ， qíshí bǐ hǎotīng de yányǔ gèng yǒu lìliàng 。",
         "audio_key": "H5_33_4_5",
         "translations": {
-          "en": "These seemingly ordinary daily trivialities are actually more powerful than pleasant words.",
-          "vi": "Những việc nhỏ thường ngày trông có vẻ bình thường này, thực ra còn có sức mạnh hơn cả những lời nói hay."
+          "en": "These seemingly ordinary little things are actually more powerful than pleasant words.",
+          "vi": "Những việc nhỏ tưởng chừng bình thường này thực ra có sức mạnh hơn cả những lời nói hay."
         },
         "tokens": [
           "这些",
           "看起来",
           "普通",
           "的",
-          "日常",
           "小",
           "事",
           "，",
@@ -29882,28 +29869,31 @@
       {
         "line_id": 6,
         "speaker": "李老师",
-        "content": "总之，一句话，注意日常习惯才能向别人展现出最好的自己。",
-        "pinyin": "Zǒngzhī ， yījùhuà ， zhùyì rìcháng xíguàn cáinéng xiàng biérén zhǎnxiàn chū zuìhǎo de zìjǐ 。",
+        "content": "一句话，一个人的动作和行为，往往能让别人更好地了解自己。",
+        "pinyin": "Yījùhuà ， yí gèrén de dòngzuò hé xíngwéi ， wǎngwǎng néng ràng biérén gèng hǎo dì liǎojiě zìjǐ 。",
         "audio_key": "H5_33_4_6",
         "translations": {
-          "en": "In short, in one sentence, only by paying attention to daily habits can you show the best of yourself to others.",
-          "vi": "Tóm lại, một câu thôi, chú ý đến thói quen hàng ngày mới có thể thể hiện bản thân tốt nhất với người khác."
+          "en": "In a word, a person's actions and behavior often help others understand them better.",
+          "vi": "Nói một lời, động tác và hành vi của một người thường giúp người khác hiểu mình hơn."
         },
         "tokens": [
-          "总之",
-          "，",
           "一句话",
           "，",
-          "注意",
-          "日常",
-          "习惯",
-          "才能",
-          "向",
-          "别人",
-          "展现",
-          "出",
-          "最好",
+          "一",
+          "个人",
           "的",
+          "动作",
+          "和",
+          "行为",
+          "，",
+          "往往",
+          "能",
+          "让",
+          "别人",
+          "更",
+          "好",
+          "地",
+          "了解",
           "自己",
           "。"
         ]
@@ -30757,12 +30747,12 @@
       {
         "line_id": 2,
         "speaker": "小明",
-        "content": "是啊，我以前缺乏健康意识，总觉得年轻少睡觉没什么关系。",
-        "pinyin": "Shì a ， wǒ yǐqián quēfá jiànkāng yìshí ， zǒng juéde niánqīng shǎo shuìjiào méishénme guānxì 。",
+        "content": "是啊，我以前缺乏健康意识，总觉得自己还年轻，少睡几个小时也没关系。",
+        "pinyin": "Shì a ， wǒ yǐqián quēfá jiànkāng yìshí ， zǒng juéde zìjǐ hái niánqīng ， shǎo shuì jǐ gè xiǎoshí yě méiguānxì 。",
         "audio_key": "H5_35_1_2",
         "translations": {
-          "en": "Yeah, I used to lack health awareness and always thought it didn't matter to sleep less when you're young.",
-          "vi": "Đúng vậy, trước đây mình thiếu ý thức về sức khỏe, luôn nghĩ rằng còn trẻ thì ngủ ít cũng không sao."
+          "en": "Yeah, I used to lack health awareness and always thought I was still young, so sleeping a few hours less didn't matter.",
+          "vi": "Đúng vậy, trước đây tôi thiếu ý thức về sức khỏe, luôn nghĩ mình còn trẻ, ngủ ít vài tiếng cũng không sao."
         },
         "tokens": [
           "是",
@@ -30776,60 +30766,66 @@
           "，",
           "总",
           "觉得",
+          "自己",
+          "还",
           "年轻",
+          "，",
           "少",
-          "睡觉",
-          "没什么",
-          "关系",
+          "睡",
+          "几",
+          "个",
+          "小时",
+          "也",
+          "没关系",
           "。"
         ]
       },
       {
         "line_id": 3,
         "speaker": "丽丽",
-        "content": "长期睡眠不足肯定会损害身体，你真该下决心戒掉抽烟和晚睡的坏习惯了。",
-        "pinyin": "Chángqī shuìmián bùzú kěndìng huì sǔnhài shēntǐ ， nǐ zhēn gāi xià juéxīn jiè diào chōuyān hé wǎn shuì de huài xíguàn le 。",
+        "content": "不只是睡得太晚，我还记得你平时也经常抽烟，这些习惯对身体都不好。",
+        "pinyin": "Bù zhǐshì shuì dé tài wǎn ， wǒ hái jìde nǐ píngshí yě jīngcháng chōuyān ， zhèxiē xíguàn duì shēntǐ dōu bù hǎo 。",
         "audio_key": "H5_35_1_3",
         "translations": {
-          "en": "Long-term sleep deprivation will definitely harm your health. You really should make up your mind to quit smoking and staying up late.",
-          "vi": "Thiếu ngủ lâu dài chắc chắn sẽ gây hại cho sức khỏe. Cậu thật sự nên quyết tâm từ bỏ thói quen xấu là hút thuốc và thức khuya đi."
+          "en": "It's not just sleeping too late—I also remember you often smoke. These habits are all bad for your health.",
+          "vi": "Không chỉ ngủ quá muộn, tôi còn nhớ anh thường xuyên hút thuốc nữa. Những thói quen này đều không tốt cho sức khỏe."
         },
         "tokens": [
-          "长期",
-          "睡眠",
-          "不足",
-          "肯定",
-          "会",
-          "损害",
-          "身体",
-          "，",
-          "你",
-          "真",
-          "该",
-          "下",
-          "决心",
-          "戒",
-          "掉",
-          "抽烟",
-          "和",
-          "晚",
+          "不",
+          "只是",
           "睡",
-          "的",
-          "坏",
+          "得",
+          "太",
+          "晚",
+          "，",
+          "我",
+          "还",
+          "记得",
+          "你",
+          "平时",
+          "也",
+          "经常",
+          "抽烟",
+          "，",
+          "这些",
           "习惯",
-          "了",
+          "对",
+          "身体",
+          "都",
+          "不",
+          "好",
           "。"
         ]
       },
       {
         "line_id": 4,
         "speaker": "小明",
-        "content": "你说得对，我已经认识到这些坏毛病的害处，从这周起就开始戒烟了。",
-        "pinyin": "Nǐ shuō dé duì ， wǒ yǐjīng rènshí dào zhèxiē huài máobìng de hài chù ， cóng zhè zhōu qǐ jiù kāishǐ jiè yān le 。",
+        "content": "你说得对，我现在已经认识到这些坏习惯的害处，从这周起就开始戒烟了。",
+        "pinyin": "Nǐ shuō dé duì ， wǒ xiànzài yǐjīng rènshí dào zhèxiē huài xíguàn de hài chù ， cóng zhè zhōu qǐ jiù kāishǐ jiè yān le 。",
         "audio_key": "H5_35_1_4",
         "translations": {
-          "en": "You're right. I've realized the harm of these bad habits and have started quitting smoking since this week.",
-          "vi": "Cậu nói đúng. Mình đã nhận ra tác hại của những thói xấu này và bắt đầu cai thuốc từ tuần này."
+          "en": "You're right. I've now realized the harm of these bad habits, and I've started quitting smoking since this week.",
+          "vi": "Bạn nói đúng. Bây giờ tôi đã nhận ra tác hại của những thói quen xấu này, và từ tuần này tôi đã bắt đầu cai thuốc."
         },
         "tokens": [
           "你",
@@ -30838,12 +30834,13 @@
           "对",
           "，",
           "我",
+          "现在",
           "已经",
           "认识",
           "到",
           "这些",
           "坏",
-          "毛病",
+          "习惯",
           "的",
           "害",
           "处",
@@ -30863,17 +30860,21 @@
       {
         "line_id": 5,
         "speaker": "丽丽",
-        "content": "万一中间觉得难受，你会不会坚持不下去而半路放弃呢？",
-        "pinyin": "Wàn yì zhōngjiān juéde nánshòu ， nǐ huì bú huì jiānchí bú xiàqù ér bàn lù fàngqì ne ？",
+        "content": "万一戒烟的过程中觉得难受，你会不会坚持不下去而半路放弃呢？",
+        "pinyin": "Wàn yí jiè yān de guòchéng zhōng juéde nánshòu ， nǐ huì bú huì jiānchí bú xiàqù ér bàn lù fàngqì ne ？",
         "audio_key": "H5_35_1_5",
         "translations": {
-          "en": "If you feel uncomfortable in the middle, will you not be able to persist and give up halfway?",
-          "vi": "Nếu giữa chừng cảm thấy khó chịu, cậu có thể sẽ không kiên trì được mà bỏ cuộc giữa chừng không?"
+          "en": "If you feel uncomfortable during the process of quitting smoking, will you be unable to persist and give up halfway?",
+          "vi": "Nếu trong quá trình cai thuốc anh cảm thấy khó chịu, liệu anh có không kiên trì nổi mà bỏ dở giữa chừng không?"
         },
         "tokens": [
           "万",
           "一",
-          "中间",
+          "戒",
+          "烟",
+          "的",
+          "过程",
+          "中",
           "觉得",
           "难受",
           "，",
@@ -34076,20 +34077,21 @@
       {
         "line_id": 1,
         "speaker": "丽丽",
-        "content": "今年国际合作会议的主题是绿色发展和成果共享，受关注的范围真广。",
-        "pinyin": "Jīnnián guójì hézuò huìyì de zhǔtí shì lǜsè fāzhǎn hé chéngguǒ gòngxiǎng ， shòu guānzhù de fànwéi zhēn guǎng 。",
+        "content": "这次国际合作会议讨论的是绿色发展和成果共享，听说参加的国家很多，影响范围很广。",
+        "pinyin": "Zhè cì guójì hézuò huìyì tǎolùn de shì lǜsè fāzhǎn hé chéngguǒ gòngxiǎng ， tīngshuō cānjiā de guójiā hěn duō ， yǐngxiǎng fànwéi hěn guǎng 。",
         "audio_key": "H5_39_1_1",
         "translations": {
-          "en": "This year's international cooperation conference theme is green development and sharing of achievements. The scope of attention it receives is really broad.",
-          "vi": "Chủ đề của hội nghị hợp tác quốc tế năm nay là phát triển xanh và chia sẻ thành quả, phạm vi được quan tâm thật rộng."
+          "en": "This international cooperation conference discusses green development and sharing of achievements. I heard that many countries are participating, and the impact is wide-ranging.",
+          "vi": "Hội nghị hợp tác quốc tế lần này thảo luận về phát triển xanh và chia sẻ thành quả. Nghe nói có nhiều quốc gia tham gia, phạm vi ảnh hưởng rất rộng."
         },
         "tokens": [
-          "今年",
+          "这",
+          "次",
           "国际",
           "合作",
           "会议",
+          "讨论",
           "的",
-          "主题",
           "是",
           "绿色",
           "发展",
@@ -34097,11 +34099,16 @@
           "成果",
           "共享",
           "，",
-          "受",
-          "关注",
+          "听说",
+          "参加",
           "的",
+          "国家",
+          "很",
+          "多",
+          "，",
+          "影响",
           "范围",
-          "真",
+          "很",
           "广",
           "。"
         ]
@@ -34109,16 +34116,16 @@
       {
         "line_id": 2,
         "speaker": "大卫",
-        "content": "是的，来自全世界的代表聚在一起，共同倡导保护地球自然环境。",
-        "pinyin": "Shì de ， láizì quánshìjiè de dàibiǎo jù zài yìqǐ ， gòngtóng chàngdǎo bǎohù dìqiú zìrán huánjìng 。",
+        "content": "是啊，来自全世界的代表聚在一起，倡导大家保护自然环境。",
+        "pinyin": "Shì a ， láizì quánshìjiè de dàibiǎo jù zài yìqǐ ， chàngdǎo dàjiā bǎohù zìrán huánjìng 。",
         "audio_key": "H5_39_1_2",
         "translations": {
-          "en": "Yes, representatives from all over the world gather together to jointly advocate protecting the Earth's natural environment.",
-          "vi": "Đúng vậy, đại biểu từ khắp nơi trên thế giới tụ họp lại, cùng nhau kêu gọi bảo vệ môi trường tự nhiên của Trái Đất."
+          "en": "Yes, representatives from all over the world have gathered together to advocate protecting the natural environment.",
+          "vi": "Đúng vậy, đại diện từ khắp nơi trên thế giới đã tụ họp lại, kêu gọi mọi người bảo vệ môi trường tự nhiên."
         },
         "tokens": [
           "是",
-          "的",
+          "啊",
           "，",
           "来自",
           "全世界",
@@ -34128,10 +34135,9 @@
           "在",
           "一起",
           "，",
-          "共同",
           "倡导",
+          "大家",
           "保护",
-          "地球",
           "自然",
           "环境",
           "。"
@@ -34140,97 +34146,98 @@
       {
         "line_id": 3,
         "speaker": "丽丽",
-        "content": "现代科技发展得这么快，各国之间更应该加强联系，加速绿色技术的合作。",
-        "pinyin": "Xiàndài kējì fāzhǎn dé zhème kuài ， gè guó zhījiān gèng yīnggāi jiāqiáng liánxì ， jiāsù lǜsè jìshù de hézuò 。",
+        "content": "我觉得各国应该多交流，一起研究绿色技术，这样才能加速新技术的应用。",
+        "pinyin": "Wǒ juéde gè guó yīnggāi duō jiāoliú ， yìqǐ yánjiū lǜsè jìshù ， zhèyàng cáinéng jiāsù xīn jìshù de yìngyòng 。",
         "audio_key": "H5_39_1_3",
         "translations": {
-          "en": "With modern technology developing so fast, countries should strengthen connections and accelerate cooperation in green technology.",
-          "vi": "Công nghệ hiện đại phát triển nhanh như vậy, các nước càng nên tăng cường liên hệ, đẩy nhanh hợp tác công nghệ xanh."
+          "en": "I think countries should communicate more and research green technology together, so as to accelerate the application of new technologies.",
+          "vi": "Tôi nghĩ các nước nên giao lưu nhiều hơn, cùng nhau nghiên cứu công nghệ xanh, như vậy mới có thể đẩy nhanh việc ứng dụng công nghệ mới."
         },
         "tokens": [
-          "现代",
-          "科技",
-          "发展",
-          "得",
-          "这么",
-          "快",
-          "，",
+          "我",
+          "觉得",
           "各",
           "国",
-          "之间",
-          "更",
           "应该",
-          "加强",
-          "联系",
+          "多",
+          "交流",
           "，",
-          "加速",
+          "一起",
+          "研究",
           "绿色",
           "技术",
+          "，",
+          "这样",
+          "才能",
+          "加速",
+          "新",
+          "技术",
           "的",
-          "合作",
+          "应用",
           "。"
         ]
       },
       {
         "line_id": 4,
         "speaker": "大卫",
-        "content": "没错，只有让发展成果被全世界人民共享，才能实现真正的长期繁荣。",
-        "pinyin": "Méicuò ， zhǐyǒu ràng fāzhǎn chéngguǒ bèi quánshìjiè rénmín gòngxiǎng ， cáinéng shíxiàn zhēnzhèng de chángqī fánróng 。",
+        "content": "说得对。这样一来，更多国家就能共享科技发展带来的成果。",
+        "pinyin": "Shuō dé duì 。 zhèyàng yì lái ， gèng duō guójiā jiù néng gòngxiǎng kējì fāzhǎn dàilái de chéngguǒ 。",
         "audio_key": "H5_39_1_4",
         "translations": {
-          "en": "Exactly, only by letting people all over the world share the fruits of development can we achieve true long-term prosperity.",
-          "vi": "Đúng thế, chỉ khi để nhân dân toàn thế giới cùng chia sẻ thành quả phát triển thì mới có thể đạt được sự thịnh vượng lâu dài thực sự."
+          "en": "You're right. In this way, more countries can share the achievements brought by technological development.",
+          "vi": "Bạn nói đúng. Như vậy, nhiều quốc gia hơn sẽ có thể chia sẻ thành quả do phát triển khoa học công nghệ mang lại."
         },
         "tokens": [
-          "没错",
+          "说",
+          "得",
+          "对",
+          "。",
+          "这样",
+          "一",
+          "来",
           "，",
-          "只有",
-          "让",
-          "发展",
-          "成果",
-          "被",
-          "全世界",
-          "人民",
+          "更",
+          "多",
+          "国家",
+          "就",
+          "能",
           "共享",
-          "，",
-          "才能",
-          "实现",
-          "真正",
+          "科技",
+          "发展",
+          "带来",
           "的",
-          "长期",
-          "繁荣",
+          "成果",
           "。"
         ]
       },
       {
         "line_id": 5,
         "speaker": "丽丽",
-        "content": "这次大会倡导的环保生活观念，在广大青年人中也受到了热烈欢迎。",
-        "pinyin": "Zhè cì dàhuì chàngdǎo de huánbǎo shēnghuó guānniàn ， zài guǎngdà qīngnián rén zhōng yě shòudào le rèliè huānyíng 。",
+        "content": "而且，这次会议还介绍了不少环保办法，受到了广大青年的欢迎。",
+        "pinyin": "Érqiě ， zhè cì huìyì hái jièshào le bùshǎo huánbǎo bànfǎ ， shòudào le guǎngdà qīngnián de huānyíng 。",
         "audio_key": "H5_39_1_5",
         "translations": {
-          "en": "The eco-friendly lifestyle concept advocated at this conference has also been warmly welcomed among young people.",
-          "vi": "Quan niệm sống bảo vệ môi trường được hội nghị lần này kêu gọi cũng được đông đảo thanh niên nhiệt liệt hưởng ứng."
+          "en": "Moreover, this conference also introduced many environmental protection methods, which were welcomed by the vast number of young people.",
+          "vi": "Hơn nữa, hội nghị lần này còn giới thiệu nhiều biện pháp bảo vệ môi trường, được đông đảo thanh niên hoan nghênh."
         },
         "tokens": [
+          "而且",
+          "，",
           "这",
           "次",
-          "大会",
-          "倡导",
-          "的",
+          "会议",
+          "还",
+          "介绍",
+          "了",
+          "不少",
           "环保",
-          "生活",
-          "观念",
+          "办法",
           "，",
-          "在",
-          "广大",
-          "青年",
-          "人",
-          "中",
-          "也",
           "受到",
           "了",
-          "热烈",
+          "广大",
+          "青年",
+          "的",
           "欢迎",
           "。"
         ]
@@ -34238,32 +34245,34 @@
       {
         "line_id": 6,
         "speaker": "大卫",
-        "content": "随着合作范围越来越广，相信人类社会一定能加速走向更加繁荣的未来。",
-        "pinyin": "Suízhe hézuò fànwéi yuèláiyuè guǎng ， xiāngxìn rénlèi shèhuì yídìng néng jiāsù zǒu xiàng gèngjiā fánróng de wèilái 。",
+        "content": "如果各国继续合作，绿色发展就会越来越快，世界也能变得更加繁荣。",
+        "pinyin": "Rúguǒ gè guó jìxù hézuò ， lǜsè fāzhǎn jiù huì yuèláiyuè kuài ， shìjiè yě néng biàn dé gèngjiā fánróng 。",
         "audio_key": "H5_39_1_6",
         "translations": {
-          "en": "As the scope of cooperation grows broader, I believe human society will surely accelerate toward a more prosperous future.",
-          "vi": "Cùng với phạm vi hợp tác ngày càng rộng, tin rằng xã hội loài người nhất định sẽ tăng tốc tiến tới một tương lai thịnh vượng hơn."
+          "en": "If countries continue to cooperate, green development will become faster and faster, and the world will become more prosperous.",
+          "vi": "Nếu các nước tiếp tục hợp tác, phát triển xanh sẽ ngày càng nhanh, thế giới cũng sẽ trở nên thịnh vượng hơn."
         },
         "tokens": [
-          "随着",
+          "如果",
+          "各",
+          "国",
+          "继续",
           "合作",
-          "范围",
-          "越来越",
-          "广",
           "，",
-          "相信",
-          "人类",
-          "社会",
-          "一定",
+          "绿色",
+          "发展",
+          "就",
+          "会",
+          "越来越",
+          "快",
+          "，",
+          "世界",
+          "也",
           "能",
-          "加速",
-          "走",
-          "向",
+          "变",
+          "得",
           "更加",
           "繁荣",
-          "的",
-          "未来",
           "。"
         ]
       }
@@ -34317,11 +34326,11 @@
       {
         "line_id": 2,
         "speaker": "小王",
-        "content": "是的，除了原有的国内市场之外，我们还发展了不少外国的新客户。",
-        "pinyin": "Shì de ， chúle yuányǒu de guónèi shìchǎng zhīwài ， wǒmen hái fāzhǎn le bùshǎo wàiguó de xīn kèhù 。",
+        "content": "是的，除了原有的国内市场之外，我们还开发了不少海外新客户。",
+        "pinyin": "Shì de ， chúle yuányǒu de guónèi shìchǎng zhīwài ， wǒmen hái kāifā le bùshǎo hǎi wài xīn kèhù 。",
         "audio_key": "H5_39_2_2",
         "translations": {
-          "en": "Yes, in addition to our existing domestic market, we've also developed quite a few new foreign clients.",
+          "en": "Yes, in addition to the existing domestic market, we have also developed quite a few new overseas customers.",
           "vi": "Đúng vậy, ngoài thị trường trong nước vốn có, chúng tôi còn phát triển được không ít khách hàng mới ở nước ngoài."
         },
         "tokens": [
@@ -34337,11 +34346,11 @@
           "，",
           "我们",
           "还",
-          "发展",
+          "开发",
           "了",
           "不少",
-          "外国",
-          "的",
+          "海",
+          "外",
           "新",
           "客户",
           "。"
